@@ -40,7 +40,7 @@ Wir verarbeiten Ihre Daten streng vertraulich und nur für denjenigen Zweck, den
 
 Diese Datenschutzerklärung umfasst die Verarbeitung personenbezogener Daten der OpenProject GmbH in folgenden Bereichen:
 
-1. [Webseiten](#A: Webseiten),
+1. [Webseiten](#a-webseiten),
 2. Kontaktaufnahme,
 3. Newsletter,
 4. OpenProject Enterprise Cloud (SaaS),
