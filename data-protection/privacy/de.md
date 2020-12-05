@@ -450,7 +450,7 @@ WiderrufsrechtSie haben das Recht, Ihre Einwilligung jederzeit ohne Angabe von G
 
 Die Datenverarbeitung erfolgt zum Zweck des Betriebes der SaaS-Plattform im Rahmen einer Auftragsverarbeitung im Sinne des Art. 28 DS-GVO.
 
-Wir verwenden die erfassten Daten zur Verwaltung Ihres Benutzerkontos sowie für die Produktbuchung und -abrechnung. Hierbei geben wir Ihre Daten im Rahmen des gesetzlich Zulässigen an unsere [Unterauftragnehmer](https://www.openproject.org/de/rechtliches/unterauftragnehmer/) weiter, die uns bei der ordnungsgemäßen Vertragserfüllung unterstützen. Diese Unternehmen sind ihrerseits verpflichtet, die geltenden Datenschutzbestimmungen einzuhalten. Insbesondere dürfen diese Unternehmen die Daten ausschließlich zur Erfüllung ihrer Aufgaben in unserem Auftrag und nur nach unserer Weisung verarbeiten.
+Wir verwenden die erfassten Daten zur Verwaltung Ihres Benutzerkontos sowie für die Produktbuchung und -abrechnung. Hierbei geben wir Ihre Daten im Rahmen des gesetzlich Zulässigen an unsere [Unterauftragnehmer](https://www.openproject.org/de/rechtliches/unterauftragnehmerdata-privacy-and-security/subcontractors/) weiter, die uns bei der ordnungsgemäßen Vertragserfüllung unterstützen. Diese Unternehmen sind ihrerseits verpflichtet, die geltenden Datenschutzbestimmungen einzuhalten. Insbesondere dürfen diese Unternehmen die Daten ausschließlich zur Erfüllung ihrer Aufgaben in unserem Auftrag und nur nach unserer Weisung verarbeiten.
 
 ## Dauer der Speicherung Ihrer personenbezogenen Daten
 
@@ -513,7 +513,7 @@ Die Bereitstellung Ihrer personenbezogenen Daten ist für einen Vertragsabschlus
 
 # F: OpenProject Community-Plattform
 
-Für die Vernetzung der Open Source Community und zur Weiterentwicklung der OpenProject-Applikation betreibt OpenProject eine öffentlich zugängliche [OpenProject-Instanz](https://community.openproject.org/) innerhalb der OpenProject SaaS-Plattform, d.h. Nutzer können ohne Login die öffentlichen Inhalte anderer Nutzer einsehen (z.b. Forenbeiträge, Fehlerberichte, Anforderungen). Für die Erstellung eines Beitrages ist die vorherige Registrierung eines Benutzerkontos erforderlich.
+Für die Vernetzung der Open Source Community und zur Weiterentwicklung der OpenProject-Applikation betreibt OpenProject eine öffentlich zugängliche [OpenProject-Instanz](https://community.openproject.com/) innerhalb der OpenProject SaaS-Plattform, d.h. Nutzer können ohne Login die öffentlichen Inhalte anderer Nutzer einsehen (z.b. Forenbeiträge, Fehlerberichte, Anforderungen). Für die Erstellung eines Beitrages ist die vorherige Registrierung eines Benutzerkontos erforderlich.
 
 ## Umfang der Datenverarbeitung
 
@@ -530,7 +530,7 @@ Für die Erstellung eines Beitrages auf unserer SaaS-Plattform ist die Registrie
 
 **Für die Authentifizierung gegenüber OpenProject können Sie alternativ auch Ihr bestehendes Google Konto verwenden. Wir empfehlen jedoch, zum Schutz Ihrer personenbezogenen Daten auf die Nutzung von Google-Diensten zu verzichten**.
 
-Bei der Anmeldung werden Sie an Server der Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland weitergeleitet. Hierbei wird Ihre IP-Adresse und weitere personenbezogenen Daten von Google erhoben. Sie können dabei nicht auszuschließen, dass Daten auch in die USA übertragen werden. Nähere Informationen zu Datenschutzbestimmungen von Google finden Sie unter https://policies.google.com/privacy oder unter dem Abschnitt „Einbindung von Google Diensten“.
+Bei der Anmeldung werden Sie an Server der Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland weitergeleitet. Hierbei wird Ihre IP-Adresse und weitere personenbezogenen Daten von Google erhoben. Sie können dabei nicht auszuschließen, dass Daten auch in die USA übertragen werden. Nähere Informationen zu Datenschutzbestimmungen von Google finden Sie unter https://policies.google.com/privacy.
 
 ### Erstellen eines Nutzerbeitrages
 
@@ -558,7 +558,9 @@ Rechtsgrundlage für die Verarbeitung der Daten ist Art. 6 Abs. 1 lit. f DS-GVO.
 
 Rechtsgrundlage für die Verarbeitung Ihrer Daten ist neben Ihrer Einwilligung gem. Art. 6 Absatz 1 lit. a DS-GVO unser berechtigtes Interesse gem. Art. 6 Abs. 1 lit. f DS-GVO. Es ist unser berechtigtes Interesse, die von Ihnen verfassten Kommentare im Rahmen unserer Community Plattform zu verarbeiten.
 
-WiderspruchsrechtNach Art. 21 DS-GVO haben Sie das Recht, der Verarbeitung Ihrer personenbezogenen Daten jederzeit mit Wirkung für die Zukunft zu widersprechen, beispielsweise per E-Mail an privacy@openproject.com.Wir verarbeiten Ihre personenbezogenen Daten in der Folge nicht weiter, es sei denn, wir können zwingende schutzwürdige Gründe für unsere Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+**Widerspruchsrecht**
+
+> Nach Art. 21 DS-GVO haben Sie das Recht, der Verarbeitung Ihrer personenbezogenen Daten jederzeit mit Wirkung für die Zukunft zu widersprechen, beispielsweise per E-Mail an privacy@openproject.com. Wir verarbeiten Ihre personenbezogenen Daten in der Folge nicht weiter, es sei denn, wir können zwingende schutzwürdige Gründe für unsere Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
 
 ## Zweck der Datenverarbeitung
 
@@ -605,7 +607,7 @@ Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 lit. f DS-GVO.
 
 ## Widerspruchsrecht
 
-Sie können den Aufruf der Release-API in Ihrer OpenProject-Instanz deaktivieren, in dem Sie den Haken unter „Administration > Systemeinstellungen > Allgemein > Plakette zur Update-Sicherheit anzeigen“ entfernen oder die[ Konfigurationsrichtlinie](https://www.openproject.org/?page_id=8695) *“security_badge_displayed: false*” setzen.
+Sie können den Aufruf der Release-API in Ihrer OpenProject-Instanz deaktivieren, in dem Sie den Haken unter „Administration > Systemeinstellungen > Allgemein > Plakette zur Update-Sicherheit anzeigen“ entfernen oder die Konfigurationsrichtlinie `security_badge_displayed: false` setzen. Weitere Informationen hierzu entnehmen Sie bitte der [Dokumentation](https://docs.openproject.org/system-admin-guide/information/#security-badge). 
 
 Im Falle der Deaktivierung der automatischen Prüfung, bleibt es Ihnen überlassen, die Verfügbarkeit neuer Versionen manuell zu überprüfen.  
 
@@ -623,7 +625,7 @@ Server-Logs werden für maximal 90 Tage gespeichert.
 
 ### Bewerbung per Online-Tool
 
-Auf unseren Webseiten bieten wir Ihnen die Möglichkeit, sich unter Angabe personenbezogener Daten auf ausgeschriebene Stellenangebote zu bewerben. Ihre im Zusammenhang mit Ihrer Bewerbung übermittelten personenbezogenen Daten werden durch uns gespeichert. Welche Daten verarbeitet werden, ist aus den jeweiligen Eingabeformularen ersichtlich. In den Formularen sind nur solche Felder als Pflichtfelder angegeben, die zwingend zur Nutzung des jeweiligen Angebots erforderlich sind.
+Auf unseren [Webseiten](https://www.openproject.org/career/) bieten wir Ihnen die Möglichkeit, sich unter Angabe personenbezogener Daten auf ausgeschriebene Stellenangebote zu bewerben. Ihre im Zusammenhang mit Ihrer Bewerbung übermittelten personenbezogenen Daten werden durch uns gespeichert. Welche Daten verarbeitet werden, ist aus den jeweiligen Eingabeformularen ersichtlich. In den Formularen sind nur solche Felder als Pflichtfelder angegeben, die zwingend zur Nutzung des jeweiligen Angebots erforderlich sind.
 
 Für die Bearbeitung Ihrer Bewerbung nutzen wir das Online Bewerbungstool von SmartRecruiters Inc. 225 Bush Street, Suite #300, San Francisco CA 94 104. Dieses Unternehmen ist seinerseits verpflichtet, die geltenden Datenschutzbestimmungen einzuhalten, insbesondere darf das Unternehmen die Daten ausschließlich zur Erfüllung seiner Aufgaben in unserem Auftrag und nur nach unserer Weisung verarbeiten. Weitere Informationen zum Datenschutz finden Sie unter: https://www.smartrecruiters.com/legal/candidate-privacy-policy/august-13-2020/.
 
