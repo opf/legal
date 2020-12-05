@@ -450,7 +450,7 @@ WiderrufsrechtSie haben das Recht, Ihre Einwilligung jederzeit ohne Angabe von G
 
 Die Datenverarbeitung erfolgt zum Zweck des Betriebes der SaaS-Plattform im Rahmen einer Auftragsverarbeitung im Sinne des Art. 28 DS-GVO.
 
-Wir verwenden die erfassten Daten zur Verwaltung Ihres Benutzerkontos sowie für die Produktbuchung und -abrechnung. Hierbei geben wir Ihre Daten im Rahmen des gesetzlich Zulässigen an unsere [Unterauftragnehmer](https://www.openproject.org/data-privacy-and-security/subcontractors/) weiter, die uns bei der ordnungsgemäßen Vertragserfüllung unterstützen. Diese Unternehmen sind ihrerseits verpflichtet, die geltenden Datenschutzbestimmungen einzuhalten. Insbesondere dürfen diese Unternehmen die Daten ausschließlich zur Erfüllung ihrer Aufgaben in unserem Auftrag und nur nach unserer Weisung verarbeiten.
+Wir verwenden die erfassten Daten zur Verwaltung Ihres Benutzerkontos sowie für die Produktbuchung und -abrechnung. Hierbei geben wir Ihre Daten im Rahmen des gesetzlich Zulässigen an unsere [Unterauftragnehmer](https://www.openproject.org/de/rechtliches/unterauftragnehmer/) weiter, die uns bei der ordnungsgemäßen Vertragserfüllung unterstützen. Diese Unternehmen sind ihrerseits verpflichtet, die geltenden Datenschutzbestimmungen einzuhalten. Insbesondere dürfen diese Unternehmen die Daten ausschließlich zur Erfüllung ihrer Aufgaben in unserem Auftrag und nur nach unserer Weisung verarbeiten.
 
 ## Dauer der Speicherung Ihrer personenbezogenen Daten
 
