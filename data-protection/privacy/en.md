@@ -1,8 +1,8 @@
 
 
-# Data Privacy Statemt
+# Data Privacy Statement
 
-Latest update: December 5, 2020.
+Latest update: 2020-12-05
 
 We are currently translating this document into English. In the meantime please use a translation tool to review our [German version](https://www.openproject.org/de/datenschutz/).
 
