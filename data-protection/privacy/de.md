@@ -277,7 +277,7 @@ Für die Bearbeitung Ihrer Kontaktanfragen setzen wir als externen Dienst das CR
 
 ### Google G Suite
 
-**Die Verwendung von Google G Suite ist ein Relikt aus alter Zeit (Data Privacy Debt). Wir arbeiten derzeit an der vollständigen Ablösung dieses Dienstes.**
+**Auch der Einsatz von Google G Suite ist ein Relikt aus alter Zeit (Data Privacy Debt). Wir arbeiten derzeit an der vollständigen Ablösung dieses Dienstes.**
 
 Sofern Sie sich dafür entscheiden, mit uns über E-Mail in Kontakt zu treten, möchten wir Sie darüber informieren, dass wir hierfür derzeit noch Google G Suite, einen Dienst des Anbieters Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland, nutzen. Im Rahmen der Dienste verarbeitet Google ggfs. personenbezogene Daten Ihrer Person. Hierbei kann nicht ausgeschlossen werden, dass Google die Informationen auch an einen US-amerikanischen Server übermittelt. Weitere Informationen finden Sie unter https://policies.google.com/privacy/frameworks?gl=de.
 
