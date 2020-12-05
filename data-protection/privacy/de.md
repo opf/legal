@@ -46,7 +46,7 @@ Diese Datenschutzerklärung umfasst die Verarbeitung personenbezogener Daten der
 4. [OpenProject Enterprise Cloud (SaaS)](#d-openproject-enterprise-cloud-saas),
 5. [OpenProject Enterprise On-Premises (your server)](#e-openproject-enterprise-on-premises),
 6. [OpenProject Community-Plattform](#f-openproject-community-plattform),
-7. [OpenProject Release API](#g-openproject-release-apie),
+7. [OpenProject Release API](#g-openproject-release-api),
 8. [Bewerbung](#h-bewerbung).
 
 ## Verantwortliche Stelle
