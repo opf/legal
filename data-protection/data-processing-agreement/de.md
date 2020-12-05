@@ -13,8 +13,11 @@ Zusatzvereinbarung zur Auftragsverarbeitung gemäß Art. 28 DS-GVO zwischen
  und
 
 **OpenProject GmbH**
+
 Karl-Liebknecht-Str. 5
+
 D-10178 Berlin
+
 Germany
 
 \- Auftragsverarbeiter im Sinne von Art. 4 Nr. 8 DS-GVO, nachstehend **Auftragnehmer** genannt - 
