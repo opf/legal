@@ -41,13 +41,13 @@ Wir verarbeiten Ihre Daten streng vertraulich und nur für denjenigen Zweck, den
 Diese Datenschutzerklärung umfasst die Verarbeitung personenbezogener Daten der OpenProject GmbH in folgenden Bereichen:
 
 1. [Webseiten](#a-webseiten),
-2. Kontaktaufnahme,
-3. Newsletter,
-4. OpenProject Enterprise Cloud (SaaS),
-5. OpenProject Enterprise On-Premises (your server),
-6. OpenProject Community-Plattform,
-7. OpenProject Release API,
-8. Bewerbung.
+2. [Kontaktaufnahme](#b-kontaktaufnahme),
+3. [Newsletter](#c-newsletter),
+4. [OpenProject Enterprise Cloud (SaaS)](#d-openproject-enterprise-cloud-saas),
+5. [OpenProject Enterprise On-Premises (your server)](#e-openproject-enterprise-on-premises),
+6. [OpenProject Community-Plattform](#f-openproject-community-plattform),
+7. [OpenProject Release API](#g-openproject-release-apie),
+8. [Bewerbung](#h-bewerbung).
 
 ## Verantwortliche Stelle
 
