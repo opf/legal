@@ -2,16 +2,17 @@
 
 # Datenschutzerklärung
 
-Stand: 03.12.2020
+Stand: 05.12.2020
 
 ## Zusammenfassung
 
-Unsere Systeme und Prozesse sind auf Ihre Privatsphäre und auf das Prinzip der Daten-Minimierung ausgelegt. Die OpenProject GmbH erfüllt alle Anforderungen der EU-Datenschutz-Grundverordnung.
+Unsere Systeme und Prozesse sind auf Ihre Privatsphäre und auf das Prinzip der Daten-Minimierung ausgelegt. Die [OpenProject GmbH](https://www.openproject.org/de/impressum/) erfüllt alle Anforderungen der EU-Datenschutz-Grundverordnung.
 
 <img src="https://github.com/opf/legal/raw/main/data-protection/privacy/Niels-Lindenthal.png" alt="Niels Lindenthal" style="width: 30%;"/>
 
-> *Datenschutz und Informationssicherheit haben einen zentralen Stellenwert in unserem Unternehmen und sind eine der Hauptmotive für die Entwicklung dieser Open Source Software. Wir sind sehr stolz auf die bisherigen Ergebnisse aber auch wir müssen noch “Data Privacy Debt” abbauen. Wir werden hier viel Energie und Lebenszeit investieren. Unser Ziel ist es OpenProject als Leuchtturmprojekt für „Datenschutz Made in Europe“ zur Perfektion zu bringen.* Wir haben uns große Mühe gegeben, um diese Richtlinie möglichst klar und einfach zu formulieren. Wir möchten, dass Sie alles verstehen. Sie sollen sich nicht durch viele Seiten unverständlichen Rechtstext hindurchkämpfen müssen. Daher freuen wir uns sehr über Ihre Rückmeldung und vielleicht sogar einen Austausch zum Thema Datenschutz und Sicherheit. In diesem Sinne unterliegt auch diese Datenschutzerklärung konsequenterweise einer Open Source Lizenz.
-> *OpenProject – With Open Source and Open Mind.*
+> *Datenschutz und Informationssicherheit haben einen zentralen Stellenwert in unserem Unternehmen und sind eine der Hauptmotive für die Entwicklung dieser Open Source Software. Wir sind sehr stolz auf die bisherigen Ergebnisse aber auch wir müssen noch “Data Privacy Debt” abbauen. Wir werden hier viel Energie und Lebenszeit investieren. Unser Ziel ist es OpenProject als Leuchtturmprojekt für „Datenschutz Made in Europe“ zur Perfektion zu bringen.* Wir haben uns große Mühe gegeben, um diese Richtlinie möglichst klar und einfach zu formulieren. Wir möchten, dass Sie alles verstehen. Sie sollen sich nicht durch viele Seiten unverständlichen Rechtstext hindurchkämpfen müssen. Daher freuen wir uns sehr über Ihre Rückmeldung und vielleicht sogar einen Austausch zum Thema Datenschutz und Sicherheit. In diesem Sinne unterliegt auch diese Datenschutzerklärung konsequenterweise einer [Open Source Lizenz](https://github.com/opf/legal/blob/main/data-protection/data-processing-agreement/de.md).
+>
+> OpenProject – With Open Source and Open Mind.
 
 **Niels Lindenthal –** Gründer von OpenProject.org *Berlin, November 2020*
 
@@ -39,7 +40,7 @@ Wir verarbeiten Ihre Daten streng vertraulich und nur für denjenigen Zweck, den
 
 Diese Datenschutzerklärung umfasst die Verarbeitung personenbezogener Daten der OpenProject GmbH in folgenden Bereichen:
 
-1. Webseiten,
+1. [Webseiten](#Webseiten),
 2. Kontaktaufnahme,
 3. Newsletter,
 4. OpenProject Enterprise Cloud (SaaS),
