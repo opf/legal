@@ -1,6 +1,8 @@
 # Subcontractors
 
-### List of subcontractors employed by OpenProject GmbH.
+Stand: 07.12.2020
+
+## List of subcontractors employed by OpenProject GmbH.
 
 | **#** | **Subcontractor**                                            | **Subject of the assignment**                                | **Level of protection**                                      | OpenProject's data privacy strategy               |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------- |
