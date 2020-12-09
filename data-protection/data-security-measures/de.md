@@ -8,23 +8,24 @@ Die in dieser Anlage durch den Auftragnehmer definierten Datensicherheitsmaßnah
 
 Die Datenverarbeitung durch den Auftragnehmer findet in einem gesicherten Rechenzentrum statt. Das Rechenzentrum ist nach Standard ISO 27001 für das Informationssicherheits-Managementsystem zertifiziert. Der Zutritt zu dem Rechenzentrum wird durch modernste Kontrollsysteme gesichert. Hierzu gehören folgende Sicherheitsmaßnahmen und -infrastrukturen:
 
-»     Untergliederung der Einrichtung in einzelne Sicherheitsbereiche,
+- Untergliederung der Einrichtung in einzelne Sicherheitsbereiche,
 
-»     physikalischer Zutrittsschutz beispielsweise durch Stahltüren, fensterlose Räume oder gesicherte Fenster,
+- physikalischer Zutrittsschutz beispielsweise durch Stahltüren, fensterlose Räume oder gesicherte Fenster,
 
-»     Schutz der Sicherheitsbereiche durch ein elektronisches Zutrittskontrollsystem,
+- Schutz der Sicherheitsbereiche durch ein elektronisches Zutrittskontrollsystem,
 
-»     Überwachung der Einrichtung durch Sicherheitsdienst und Protokollierung der Zutritte,
+- Überwachung der Einrichtung durch Sicherheitsdienst und Protokollierung der Zutritte,
 
-»     Videoüberwachung aller sicherheitsrelevanten Sicherheitsbereiche, wie Eingänge, Notausgänge und Serverräume,
+- Videoüberwachung aller sicherheitsrelevanten Sicherheitsbereiche, wie Eingänge, Notausgänge und Serverräume,
 
-»     zentrale Vergabe und Entzug der Zutrittsberechtigung,
+- zentrale Vergabe und Entzug der Zutrittsberechtigung,
 
-»     Identifikation aller Besucher mittels Personalausweis,
+- Identifikation aller Besucher mittels Personalausweis,
 
-»     Ausweispflicht innerhalb der Sicherheitsbereiche für alle Mitarbeiter und Besucher,
+- Ausweispflicht innerhalb der Sicherheitsbereiche für alle Mitarbeiter und Besucher,
 
-»     kontinuierliche Begleitung von Besuchern durch Mitarbeiter.
+- kontinuierliche Begleitung von Besuchern durch Mitarbeiter.
+
 
 ### 1.2. Zugangskontrolle
 
@@ -134,6 +135,6 @@ Die erstellten Daten, wie beispielsweise Kommentare zu Arbeitspaketen werden nac
 
 Datenschutzfreundliche Technikgestaltung und datenschutzfreundliche Einstellungen (Privacy-by-Design/Default) werden bei Entwicklung und Betrieb der Software berücksichtigt.
 
-5.5. Auftragskontrolle
+### 5.5. Auftragskontrolle
 
 Der Auftragnehmer verarbeitet die eingereichten Daten gemäß dem geschlossenen Vertrag und gewährleistet hierbei die gesetzlichen Vorschriften und per Vertrag definierten Anforderungen im Rahmen der Weisungen des Auftraggebers. Die OpenProject-Plattform verfügt über eine Administrationsoberfläche, über die der Auftraggeber sein Kundenkonto verwalten kann. Der Auftraggeber legt seine Zugangsdaten bei der initialen Erstellung in seinem Nutzerkonto selbst fest. Nur wer über diese Zugangsdaten verfügt, kann im Rahmen der zugeordneten Berechtigung Kundendaten eingeben, verändern oder löschen. Für sonstige Aufträge, welche der Auftraggeber nicht selbständig über die Administrationsoberfläche durchführen kann, gilt die Schriftform.
