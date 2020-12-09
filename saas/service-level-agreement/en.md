@@ -1,6 +1,8 @@
 # Service Level Agreement OpenProject Enterprise Cloud
 
-This SLA amends the Agreement between [OpenProject](https://www.openproject.org/legal/imprint) and Customer and addresses the uptime guarantees in relation to the Services [OpenProject Enterprise Cloud](https://www.openproject.org/hosting/) we provide to you and your remedies for our failure to meet such guarantees. The remedies contained in this SLA are your sole and exclusive remedies for any issues addressed herein. We may update this SLA from time to time in our sole discretion; the current version may be found at https://www.openproject.org/legal/sla/.
+Last change to this document: 2020-12-09
+
+This SLA amends the Service Agreement between [OpenProject](https://www.openproject.org/legal/imprint) and Customer. It specifies the service level in relation to the Services [OpenProject Enterprise Cloud](https://www.openproject.org/hosting/). We may update this SLA from time to time in our sole discretion.
 
 ## 1. Support
 
@@ -94,9 +96,15 @@ OpenProject Enterprise Cloud does not support the use of backup data to roll bac
 
 ## 4. Software updates
 
-We install the latest versions of the OpenProject software to deploy the latest software updates of the stable release branch.
+OpenProject updates the deployed software systems in order to provide this service.  
 
-> Todo: Description of the other parts like (operating system, web server, database)
+| Software             | Version       |
+| -------------------- | ------------- |
+| OpenProject software | latest stable |
+| Operating system     |               |
+| Database             |               |
+| Email                |               |
+| Web server           |               |
 
 ## 5. Acceptable use policy
 
