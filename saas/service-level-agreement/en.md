@@ -24,9 +24,9 @@ OpenProject GmbH will make the Services available 99.9% of the time, excluding a
 
 “*Scheduled Maintenance*” includes any maintenance performed during the following windows or for which we provide reasonable notice or coordination with you in advance of the maintenance.
 
-| **Data Center location:** | **Maintenance window:** |
-| ------------------------- | ----------------------- |
-| European Union            | 6:00 am - 08:00 am CET  |
+| **Data Center location** | **Maintenance window** |
+| ------------------------ | ---------------------- |
+| European Union           | 6:00 am - 08:00 am CET |
 
 “*Emergency Maintenance*” means any maintenance performed outside the Scheduled Maintenance windows without advance notice where such maintenance is reasonably and urgently required to protect the integrity, availability, or security of any online systems.
 
@@ -44,13 +44,15 @@ OpenProject Enterprise Cloud does not support the use of backup data to roll bac
 
 We install the latest versions of the OpenProject software to deploy the latest software updates of the stable release branch.
 
-> Todo: Desrciption of the other parts like (operating system, web server, database)
+> Todo: Description of the other parts like (operating system, web server, database)
 
 ## 4. Acceptable use policy
 
 You may not interfere with our business or our ability to provide services to other customers, nor take any action nor make any use of the Services that places excessive burdens on the network or systems used to provide such services. Specifically, you may not use the service for use cases other than project management, team collaboration, product management and product lifecycle management. If your use of the Services materially exceeds the use by similarly situated customers, we may offer to move you to a different plan or charge you for the additional use. If you refuse, we may place restrictions on your use of the Services. You may not perform any vulnerability or penetration testing of OpenProject’s network or systems without our prior written approval.
 
-## 5. Support service level 
+## 5. Support
+
+### 5.1 Support service level 
 
  OpenProject provides its services at different support levels defined as follows:
 
@@ -63,7 +65,29 @@ You may not interfere with our business or our ability to provide services to ot
 | Scheduled standby and upgrade assistance | -                        | included                 | included                 |
 | Priority development and escalation      | -                        | included                 | included                 |
 
-## 5. Support communication channel 
+### 5.2 Incident priorities
+
+**Critical incidents** are incidents which prevent or significantly impact the use of OpenProject, e.g. through malfunctions, wrong results or response times, and which cannot be resolved with reasonable organizational tools (critical operating errors).
+
+*Example:*
+
+- Display of full screen error message when accessing the OpenProject landing page.
+
+**Major incidents** are incidents which can be circumvented without major difficulties or which affect a part of OpenProject which do not impact the usage directly or significantly.
+
+*Example:*
+
+- The OpenProject application does not send any automatic email notifications.
+
+**Minor incidents** are incidents affecting functionalities which are not frequently relevant for the users and which are of little importance so that the user does not need the functionality for an extended time.
+
+*Example:*
+
+- When accessing a certain work package query the error message „Internal Server Error“ is shown.
+- Saving a cost report is not possible. 
+- In the project overview page two widgets overlap but are still useable.
+
+### 5.3 Support communication channel 
 
  OpenProject provides its support services with different communication channels as follows: 
 
