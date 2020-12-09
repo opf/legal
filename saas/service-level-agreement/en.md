@@ -12,7 +12,7 @@ OpenProject GmbH will make the Services available 99.9% of the time, excluding a
 
 ### 1.1 Excused downtime
 
-“*Excused Downtime*” means the length of time the Services are unavailable due to:
+**Excused Downtime** means the length of time the Services are unavailable due to:
 
 1. Scheduled Maintenance;
 2. Emergency Maintenance;
@@ -22,13 +22,13 @@ OpenProject GmbH will make the Services available 99.9% of the time, excluding a
 
 ### 1.2 Schedule maintenance
 
-“*Scheduled Maintenance*” includes any maintenance performed during the following windows or for which we provide reasonable notice or coordination with you in advance of the maintenance.
+**Scheduled Maintenance** includes any maintenance performed during the following windows or for which we provide reasonable notice or coordination with you in advance of the maintenance.
 
 | **Data Center location** | **Maintenance window** |
 | ------------------------ | ---------------------- |
 | European Union           | 6:00 am - 08:00 am CET |
 
-“*Emergency Maintenance*” means any maintenance performed outside the Scheduled Maintenance windows without advance notice where such maintenance is reasonably and urgently required to protect the integrity, availability, or security of any online systems.
+**Emergency Maintenance** means any maintenance performed outside the Scheduled Maintenance windows without advance notice where such maintenance is reasonably and urgently required to protect the integrity, availability, or security of any online systems.
 
 ### 1.2 SLA credits
 
