@@ -1,5 +1,7 @@
 # Nutzungsbedingungen
 
+Stand: 07.12.2020
+
 ## Präambel
 
 (1) Die OpenProject GmbH, Karl-Liebknecht-Straße 5, 10178 Berlin (weitere Angaben siehe Impressum unter https://www.openproject.org/de/impressum/), ist ein international tätiger Softwarehersteller und entwickelt und vertreibt Software-Produkte im Bereich der Open Source Projektmanagement-Software an Unternehmer im Sinne des § 14 BGB, juristische Personen des öffentlichen Rechts oder öffentlich-rechtliche Sondervermögen.
