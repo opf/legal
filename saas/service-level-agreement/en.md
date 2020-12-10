@@ -96,15 +96,16 @@ OpenProject Enterprise Cloud does not support the use of backup data to roll bac
 
 ## 4. Software updates
 
-OpenProject updates the deployed software systems in order to provide this service.  
+OpenProject updates the deployed software systems in order to provide this Service.  
 
-| Software             | Version       |
-| -------------------- | ------------- |
-| OpenProject software | latest stable |
-| Operating system     |               |
-| Database             |               |
-| Email                |               |
-| Web server           |               |
+| Software             | Version                                                      |
+| -------------------- | ------------------------------------------------------------ |
+| OpenProject software | latest tested and released [version](https://docs.openproject.org/release-notes/) |
+| Operating system     | according to [system requirements](https://docs.openproject.org/installation-and-operations/system-requirements/#system-requirements) |
+| Database             | according to [system requirements](https://docs.openproject.org/installation-and-operations/system-requirements/#system-requirements) |
+| Application server   | according to [system requirements](https://docs.openproject.org/installation-and-operations/system-requirements/#system-requirements) |
+| Webserver            | according to [system requirements](https://docs.openproject.org/installation-and-operations/system-requirements/#system-requirements) |
+| Runtime              | according to [system requirements](https://docs.openproject.org/installation-and-operations/system-requirements/#system-requirements) |
 
 ## 5. Acceptable use policy
 
