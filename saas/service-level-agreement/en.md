@@ -58,7 +58,7 @@ This SLA amends the Service Agreement between [OpenProject](https://www.openproj
 
 ### 1.1 Availability 
 
-OpenProject GmbH will make the Services available 99.9% of the time, excluding any *Excused Downtime*. In a given calendar month, we calculate “Service Availability” as follows:
+OpenProject GmbH will make the Services available 99.9% of the time, excluding any *Excused Downtime*. In a given calendar month, we calculate *Service Availability* as follows:
 
 **Service Availability = total minutes Services are available x 100 / (total minutes in the month – Excused Downtime)**
 
