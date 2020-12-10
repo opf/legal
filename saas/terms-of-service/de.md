@@ -1,4 +1,4 @@
-# Nutzungsbedingungen
+# Nutzungsbedingungen OpenProject Enterprise Cloud
 
 Stand: 07.12.2020
 
