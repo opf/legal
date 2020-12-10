@@ -1,5 +1,7 @@
 # Anlage 1: Technische und organisatorische Maßnahmen zur Datensicherheit
 
+Stand: 07.12.2020
+
 Die in dieser Anlage durch den Auftragnehmer definierten Datensicherheitsmaßnahmen werden als verbindlich festgelegt.
 
 ## 1. Vertraulichkeit (Art. 32 Abs. 1 lit. b DS-GVO)
