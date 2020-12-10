@@ -1,6 +1,6 @@
 
 
-# Terms of use
+# Terms of service
 
 Latest update: 2020-12-10
 
