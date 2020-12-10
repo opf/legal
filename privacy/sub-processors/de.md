@@ -1,10 +1,10 @@
-# Subcontractors
+# Unterauftragnehmer
 
 Stand: 07.12.2020
 
-## List of subcontractors employed by OpenProject GmbH.
+## Liste der Unterauftragnehmer der OpenProject GmbH.
 
-| **#** | **Subcontractor**                                            | **Subject of the assignment**                                | **Level of protection**                                      | OpenProject's data privacy strategy               |
+| **#** | **Unterauftragnehmer**                                            | **Titel der Aufgabe**                                | **Schutz-Level**                                      | OpenProject's Datenschutz-Strategie               |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------- |
 | 1     | WP Engine, Inc.  Irongate House, 22-30 Duke’s Place  London, EC3A 7LP, UK | Hosting of OpenProject website                               | Standard Privacy Policies (Art. 46 Abs. 2 litt. c und d DSGVO) | Migrate to a subcontractor based in the EU (2021) |
 | 2     | Amazon Web Services EMEA SARL  38 Avenue John F. Kennedy  L-1855, Luxemburg | Infrastructure-as-a-Service                                  | Standard Privacy Policies (Art. 46 Abs. 2 litt. c und d DSGVO) | Migrate to a subcontractor based in the EU (2021) |
