@@ -74,13 +74,13 @@ OpenProject GmbH will make the Services available 99.9% of the time, excluding a
 
 ### 2.2 Schedule maintenance
 
-**Scheduled Maintenance** includes any maintenance performed during the following windows or for which we provide reasonable notice or coordination with you in advance of the maintenance.
+**Scheduled maintenance** includes any maintenance performed during the following windows or for which we provide reasonable notice or coordination with you in advance of the maintenance.
 
 | **Data Center location** | **Maintenance window** |
 | ------------------------ | ---------------------- |
 | European Union           | 6:00 am - 08:00 am CET |
 
-**Emergency Maintenance** means any maintenance performed outside the Scheduled Maintenance windows without advance notice where such maintenance is reasonably and urgently required to protect the integrity, availability, or security of any online systems.
+**Emergency maintenance** means any maintenance performed outside the Scheduled Maintenance windows without advance notice where such maintenance is reasonably and urgently required to protect the integrity, availability, or security of any online systems.
 
 ### 2.2 SLA credits
 
@@ -102,7 +102,7 @@ The attachments and their versions are retained throughout the whole subscriptio
 
 ## 4. Software updates
 
-OpenProject will update the software providing the Service to the highest released [version](https://docs.openproject.org/release-notes/)of the OpenProject application within x days after a release. OpenProject might also install yet unreleased patches to the software in case they improve the service. Every installed software version will be tested by OpenProject prior to the deployment. In case the update requires a downtime, OpenProject will inform the Customer of the scheduled downtime with a 3 days notice.
+OpenProject will update the software providing the Service to the highest released [version](https://docs.openproject.org/release-notes/) of the OpenProject application within x days after a release. OpenProject might also install yet unreleased patches to the software in case they improve the service. Every installed software version will be tested by OpenProject prior to the deployment. In case the update requires a downtime, OpenProject will inform the Customer of the scheduled downtime with a 3 days notice.
 
 ## 5. Acceptable use policy
 
