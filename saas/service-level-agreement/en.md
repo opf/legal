@@ -88,13 +88,13 @@ You are entitled to a credit of 5% of the applicable monthly Fees for each full 
 
 ## 3. Backup
 
-### Database
+### 3.1 Database
 
 Automated Amazon Relational Database Service (RDS) backups are performed. Daily snapshots and transaction logs are retained for 30 days to allow for point-in-time data restoration within that time frame. Both snapshots and transaction logs are securely stored in S3.
 
 OpenProject Enterprise Cloud does not support the use of backup data to roll back changes.
 
-### Attachments
+### 3.2 Attachments
 
 Attachments are stored securely in S3 as well. The S3 storage is encrypted and replicated across multiple availability zones within the same region.
 This offers an availability of 99.99%. On top of that files are versioned. That is even if deleted they may be restored if absolutely necessary.
@@ -102,16 +102,7 @@ The attachments and their versions are retained throughout the whole subscriptio
 
 ## 4. Software updates
 
-OpenProject updates the deployed software systems in order to provide this Service.  
-
-| Software             | Version                                                      |
-| -------------------- | ------------------------------------------------------------ |
-| OpenProject software | latest tested and released [version](https://docs.openproject.org/release-notes/) |
-| Operating system     | according to [system requirements](https://docs.openproject.org/installation-and-operations/system-requirements/#system-requirements) |
-| Database             | according to [system requirements](https://docs.openproject.org/installation-and-operations/system-requirements/#system-requirements) |
-| Application server   | according to [system requirements](https://docs.openproject.org/installation-and-operations/system-requirements/#system-requirements) |
-| Webserver            | according to [system requirements](https://docs.openproject.org/installation-and-operations/system-requirements/#system-requirements) |
-| Runtime              | according to [system requirements](https://docs.openproject.org/installation-and-operations/system-requirements/#system-requirements) |
+OpenProject will update the software providing the Service to the highest released [version](https://docs.openproject.org/release-notes/)of the OpenProject application within x days after a release. OpenProject might also install yet unreleased patches to the software in case they improve the service. Every installed software version will be tested by OpenProject prior to the deployment. In case the update requires a downtime, OpenProject will inform the Customer of the scheduled downtime with a 3 days notice.
 
 ## 5. Acceptable use policy
 
