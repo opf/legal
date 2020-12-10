@@ -13,11 +13,8 @@
  and
 
 **OpenProject GmbH**
-
 Karl-Liebknecht-Str. 5
-
 D-10178 Berlin
-
 Germany
 
 \- Processor within the meaning of Art. 4(8) GDPR, hereinafter referred to as the “**Processor**” - 
