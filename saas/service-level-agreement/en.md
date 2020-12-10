@@ -88,11 +88,17 @@ You are entitled to a credit of 5% of the applicable monthly Fees for each full 
 
 ## 3. Backup
 
-Automated Amazon Relational Database Service (RDS) backups are generated daily and retained for 30 days to allow for point-in-time data restoration. Snapshots of the primary RDS are also taken daily. Copies of the snapshot are sent to a secondary region, where they’re kept for 3 days before being deleted. RDS snapshots are encrypted at rest. 
+### Database
+
+Automated Amazon Relational Database Service (RDS) backups are performed. Daily snapshots and transaction logs are retained for 30 days to allow for point-in-time data restoration within that time frame. Both snapshots and transaction logs are securely stored in S3.
 
 OpenProject Enterprise Cloud does not support the use of backup data to roll back changes.
 
-> Todo: Description of the backup of attachments on S3.
+### Attachments
+
+Attachments are stored securely in S3 as well. The S3 storage is encrypted and replicated across multiple availability zones within the same region.
+This offers an availability of 99.99%. On top of that files are versioned. That is even if deleted they may be restored if absolutely necessary.
+The attachments and their versions are retained throughout the whole subscription period.
 
 ## 4. Software updates
 
