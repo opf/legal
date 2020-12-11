@@ -1,6 +1,6 @@
-# Service Level Agreement OpenProject Enterprise Cloud
+# Description of Services OpenProject Enterprise Cloud
 
-Last change to this document: 2020-12-09
+Last change to this document: 2020-12-11
 
 This SLA amends the Service Agreement between [OpenProject](https://www.openproject.org/legal/imprint) and Customer. It specifies the service level in relation to the Services [OpenProject Enterprise Cloud](https://www.openproject.org/hosting/). We may update this SLA from time to time in our sole discretion.
 
