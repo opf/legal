@@ -70,17 +70,12 @@ Stand: 15.12.2020
 
 ## § 7 Haftungsbeschränkung
 
-Für den Fall, dass Leistungen von OpenProject von unberechtigten Dritten unter Verwendung der Zugangsdaten des Kunden in Anspruch genommen werden, haftet der Kunde für dadurch anfallende Entgelte im Rahmen der zivilrechtlichen Haftung bis zum Eingang des Kundenauftrages zur Änderung der Zugangsdaten oder der Meldung des Verlusts oder Diebstahls, sofern den Kunden am Zugriff des unberechtigten Dritten ein Verschulden trifft.
-
-OpenProject ist zur sofortigen Sperre des Speicherplatzes berechtigt, wenn der begründete Verdacht besteht, dass die gespeicherten Daten rechtswidrig sind und/oder Rechte Dritter verletzen. Ein begründeter Verdacht für eine Rechtswidrigkeit und/oder eine Rechtsverletzung liegt insbesondere dann vor, wenn Gerichte, Behörden und/oder sonstige Dritte OpenProject davon in Kenntnis setzen. OpenProject hat den Kunden von der Sperre und dem Grund hierfür unverzüglich zu verständigen. Die Sperre ist aufzuheben, sobald der Verdacht entkräftet ist.
-
-Schadensersatzansprüche gegen OpenProject sind unabhängig vom Rechtsgrund ausgeschlossen, es sei denn, OpenProject, seine gesetzlichen Vertreter oder Erfüllungsgehilfen haben vorsätzlich oder grob fahrlässig gehandelt. 
-
-Für leichte Fahrlässigkeit haftet OpenProject nur, wenn eine der vertragswesentlichen Pflichten durch OpenProject, seine gesetzlichen Vertreter oder leitende Angestellte oder Erfüllungsgehilfen verletzt wurde. OpenProject haftet dabei nur für vorhersehbare Schäden, mit deren Entstehung typischerweise gerechnet werden muss. Vertragswesentliche Pflichten sind solche Pflichten, die die Grundlage des Vertrags bilden, die entscheidend für den Abschluss des Vertrags waren und auf deren Erfüllung der Kunde vertrauen darf.
-
-Für den Verlust von Daten haftet OpenProject insoweit nicht, als der Schaden darauf beruht, dass es der Kunde unterlassen hat, Datensicherungen durchzuführen und dadurch sicherzustellen, dass verloren gegangene Daten mit vertretbarem Aufwand wiederhergestellt werden können.
-
-OpenProject haftet unbeschränkt für vorsätzlich oder fahrlässig verursachte Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit durch OpenProject, seine gesetzlichen Vertreter oder Erfüllungsgehilfen.
+1. Für den Fall, dass Leistungen von OpenProject von unberechtigten Dritten unter Verwendung der Zugangsdaten des Kunden in Anspruch genommen werden, haftet der Kunde für dadurch anfallende Entgelte im Rahmen der zivilrechtlichen Haftung bis zum Eingang des Kundenauftrages zur Änderung der Zugangsdaten oder der Meldung des Verlusts oder Diebstahls, sofern den Kunden am Zugriff des unberechtigten Dritten ein Verschulden trifft.
+2. OpenProject ist zur sofortigen Sperre des Speicherplatzes berechtigt, wenn der begründete Verdacht besteht, dass die gespeicherten Daten rechtswidrig sind und/oder Rechte Dritter verletzen. Ein begründeter Verdacht für eine Rechtswidrigkeit und/oder eine Rechtsverletzung liegt insbesondere dann vor, wenn Gerichte, Behörden und/oder sonstige Dritte OpenProject davon in Kenntnis setzen. OpenProject hat den Kunden von der Sperre und dem Grund hierfür unverzüglich zu verständigen. Die Sperre ist aufzuheben, sobald der Verdacht entkräftet ist.
+3. Schadensersatzansprüche gegen OpenProject sind unabhängig vom Rechtsgrund ausgeschlossen, es sei denn, OpenProject, seine gesetzlichen Vertreter oder Erfüllungsgehilfen haben vorsätzlich oder grob fahrlässig gehandelt. 
+4. Für leichte Fahrlässigkeit haftet OpenProject nur, wenn eine der vertragswesentlichen Pflichten durch OpenProject, seine gesetzlichen Vertreter oder leitende Angestellte oder Erfüllungsgehilfen verletzt wurde. OpenProject haftet dabei nur für vorhersehbare Schäden, mit deren Entstehung typischerweise gerechnet werden muss. Vertragswesentliche Pflichten sind solche Pflichten, die die Grundlage des Vertrags bilden, die entscheidend für den Abschluss des Vertrags waren und auf deren Erfüllung der Kunde vertrauen darf.
+5. Für den Verlust von Daten haftet OpenProject insoweit nicht, als der Schaden darauf beruht, dass es der Kunde unterlassen hat, Datensicherungen durchzuführen und dadurch sicherzustellen, dass verloren gegangene Daten mit vertretbarem Aufwand wiederhergestellt werden können.
+6. OpenProject haftet unbeschränkt für vorsätzlich oder fahrlässig verursachte Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit durch OpenProject, seine gesetzlichen Vertreter oder Erfüllungsgehilfen.
 
 ## § 8 Ereignis Höherer Gewalt
 
