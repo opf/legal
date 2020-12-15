@@ -2,19 +2,19 @@
 
  Supplemental agreement for contract data processing pursuant to Article 28 GDPR between
 
- `<Name>`  
- `<Organization>`  
- `<Street>`  
- `<Post Code/City>`  
- `<Country>`
+ NAME  
+ ORGANIZATION  
+ STREET  
+ POST CODE/CITY  
+ COUNTRY
 
  \- Controller within the meaning of Art. 4(7) GDPR, hereinafter referred to as the “**Controller**” -
 
  and
 
-**OpenProject GmbH**
-Karl-Liebknecht-Str. 5
-D-10178 Berlin
+**OpenProject GmbH**  
+Karl-Liebknecht-Str. 5  
+D-10178 Berlin  
 Germany
 
 \- Processor within the meaning of Art. 4(8) GDPR, hereinafter referred to as the “**Processor**” - 
