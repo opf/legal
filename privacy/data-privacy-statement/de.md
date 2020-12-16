@@ -132,13 +132,8 @@ Die Webanalyse kann durch den Nutzer der Webseiten technisch unterbunden werden,
 
 #### Widerspruchsrecht
 
-Sie können der Erfassung der vorgenannten Daten sowie deren Verarbeitung verhindern, indem Sie einen Java-Script-Blocker installieren, um die Erhebung sonstiger Website-Analysedaten zu verhindern. Sie können jederzeit der Speicherung und Auswertung dieser Daten durch Matomo widersprechen. In diesem Fall wird in Ihrem Browser dauerhaft ein **sog. Opt-Out-Cookie** abgelegt, der Matomo veranlasst, keinerlei Daten für die Speicherung und Auswertung zu erheben.
+Sie können der Erfassung der vorgenannten Daten sowie deren Verarbeitung verhindern, indem Sie einen Java-Script-Blocker installieren, um die Erhebung sonstiger Website-Analysedaten zu verhindern. Sie können jederzeit der Speicherung und Auswertung dieser Daten durch Matomo widersprechen. Am Ende dieser Seite befindet sich hierzu ein Opt-Out-Dialog. In diesem Fall wird in Ihrem Browser dauerhaft ein **sog. Opt-Out-Cookie** abgelegt, der Matomo veranlasst, keinerlei Daten für die Speicherung und Auswertung zu erheben.
 
-
-<iframe
-        style="border: 0; height: 200px; width: 600px;"
-        src="https://openproject.matomo.cloud/index.php?module=CoreAdminHome&action=optOut&language=de&backgroundColor=&fontColor=&fontSize=&fontFamily="
-        ></iframe>
 Alternativ verfügen die meisten modernen Browser über eine so genannte „Do Not Track“-Option, mit der sie Websites mitteilen, Ihre Nutzeraktivitäten nicht zu verfolgen. Matomo respektiert diese Option.
 
 ### Zweck der Datenverarbeitung
@@ -660,3 +655,5 @@ Die im Rahmen Ihrer Bewerbung angegebenen personenbezogenen Daten werden von uns
 Für den Fall, dass die Bewerbung in einem Beschäftigungsverhältnis mündet, werden Ihre personenbezogenen Daten in die Personalakte überführt.
 
 Im Falle der Absage einer Bewerbung werden die Daten sechs Monate nach Absage einer Bewerbung von uns gelöscht, es sei denn, Sie haben in die Aufnahme Ihrer personenbezogenen Daten in unseren Bewerberpool eingewilligt. Rechtsgrundlage der Verarbeitung ist in diesem Fall Art. 6 Abs. 1 lit. a DS-GVO. Die uns erteilte Einwilligung können Sie jederzeit widerrufen.
+
+# Matomo Opt-Out
