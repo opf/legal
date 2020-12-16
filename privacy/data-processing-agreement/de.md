@@ -12,7 +12,7 @@ COUNTRY
 
  und
 
-**OpenProject GmbH**  
+OpenProject GmbH  
 Karl-Liebknecht-Str. 5  
 D-10178 Berlin  
 Germany
