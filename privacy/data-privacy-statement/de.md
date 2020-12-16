@@ -130,10 +130,15 @@ Matomo ist eine Open Source Software des Anbieters InnoCraft ltd., 150 Willis St
 
 Die Webanalyse kann durch den Nutzer der Webseiten technisch unterbunden werden, indem dieser JavaScript in seinem Webbrowser deaktiviert. Details zu den hierzu notwendigen Einstellungen finden sich in den Produktbeschreibungen bzw. Anleitungen der verschiedenen Browser-Anbieter. Die Datenverarbeitung erfolgt in diesem Zusammenhang auf Grundlage von Art. 6 Abs. 1 lit. f DS-GVO. Weitergehende Informationen zu Nutzungsbedingungen und Datenschutz von Matomo finden Sie unter https://matomo.org/privacy-policy/.
 
-WiderspruchsrechtSie können der Erfassung der vorgenannten Daten sowie deren Verarbeitung verhindern, indem Sie einen Java-Script-Blocker installieren, um die Erhebung sonstiger Website-Analysedaten zu verhindern. Sie können jederzeit der Speicherung und Auswertung dieser Daten durch Matomo widersprechen. In diesem Fall wird in Ihrem Browser dauerhaft ein **sog. Opt-Out-Cookie** abgelegt, der Matomo veranlasst, keinerlei Daten für die Speicherung und Auswertung zu erheben.
+#### Widerspruchsrecht
 
-<img src="https://lh4.googleusercontent.com/D0zpmvz9LLrBjKOVk8Lnml6mw5rdjsFWKhbTZrE1RuZTkHqg-CC24FYWHZbLDl9NJor_Yqm1Q_udySby2pWiMcRnHOp2OpmXjZjVU9JY8D9U9FTaxTLKAJUzEAEW1W6x1ZnVqiCR" alt="img" style="zoom:50%;" />
+Sie können der Erfassung der vorgenannten Daten sowie deren Verarbeitung verhindern, indem Sie einen Java-Script-Blocker installieren, um die Erhebung sonstiger Website-Analysedaten zu verhindern. Sie können jederzeit der Speicherung und Auswertung dieser Daten durch Matomo widersprechen. In diesem Fall wird in Ihrem Browser dauerhaft ein **sog. Opt-Out-Cookie** abgelegt, der Matomo veranlasst, keinerlei Daten für die Speicherung und Auswertung zu erheben.
 
+
+<iframe
+        style="border: 0; height: 200px; width: 600px;"
+        src="https://openproject.matomo.cloud/index.php?module=CoreAdminHome&action=optOut&language=de&backgroundColor=&fontColor=&fontSize=&fontFamily="
+        ></iframe>
 Alternativ verfügen die meisten modernen Browser über eine so genannte „Do Not Track“-Option, mit der sie Websites mitteilen, Ihre Nutzeraktivitäten nicht zu verfolgen. Matomo respektiert diese Option.
 
 ### Zweck der Datenverarbeitung
