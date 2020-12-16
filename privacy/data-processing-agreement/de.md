@@ -160,6 +160,6 @@ Dieser Vereinbarung zur Auftragsverarbeitung sind folgende Anlagen beigefügt:
 
 ![Signature](Signature_Lindenthal.png)
 
-Niels Lindenthal - CEO OpenProject GmbH
+Niels Lindenthal - Geschäftsführer OpenProject GmbH
 
 Berlin, YYYY-MM-DD
