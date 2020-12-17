@@ -156,10 +156,26 @@ Dieser Vereinbarung zur Auftragsverarbeitung sind folgende Anlagen beigefügt:
 
 -  Anlage 1: Technisch-organisatorische Maßnahmen
 
-## § 17 Signatures
+## § 17 Unterschriften
+
+**Auftraggeber**
+
+
+
+
+
+
+
+NAME - ORGANIZATION
+
+CITY, YYYY-MM-DD
+
+
+
+**Auftragnehmer**
 
 ![Signature](Signature_Lindenthal.png)
 
-Niels Lindenthal - Geschäftsführer OpenProject GmbH
+Niels Lindenthal - OpenProject GmbH
 
 Berlin, YYYY-MM-DD
