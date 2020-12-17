@@ -160,14 +160,7 @@ Dieser Vereinbarung zur Auftragsverarbeitung sind folgende Anlagen beigefügt:
 
 **Auftraggeber**
 
-
-
-```
-
-_______________________________________________
-```
-
-
+\__________________
 
 NAME - ORGANIZATION
 
