@@ -17,17 +17,17 @@ Karl-Liebknecht-Str. 5
 D-10178 Berlin  
 Germany
 
-\- Auftragsverarbeiter im Sinne von Art. 4 Nr. 8 DS-GVO, nachstehend **Auftragnehmer** genannt - 
+\- Auftragsverarbeiter im Sinne von Art. 4 Nr. 8 DS-GVO, nachstehend **Auftragnehmer** genannt -
 
 # Präambel
 
 Diese Vereinbarung zur Auftragsverarbeitung regelt die Verpflichtungen der Vertragsparteien zum Datenschutz, die sich aus dem Leistungsvertrag nebst Produktbeschreibungen ergeben.
 
-`Product:         OpenProject Enterprise Cloud`  
-`Customer number: _________________________________`  
-`Contract number: _________________________________`  
-`URL:             _________________________________`  
-`Contract date:   _________________________________`
+**Produkt:**        OpenProject Enterprise Cloud  
+**Kundennummer:**   ________________________________  
+**Vertragsnummer:** ________________________________  
+**URL:**            ________________________________  
+**Vertragsdatum:**  ________________________________
 
 Sie findet Anwendung auf alle Tätigkeiten, die mit dem Hauptvertrag in Zusammenhang stehen und bei denen Beschäftigte des Auftragnehmers oder durch den Auftragnehmer beauftragte Dritte mit personenbezogenen Daten des Auftraggebers in Berührung kommen können. Der Auftragnehmer wird für den Auftraggeber personenbezogene Daten ausschließlich im Rahmen dieser Vereinbarung zur Auftragsverarbeitung gemäß Art. 28 DS-GVO erheben, verarbeiten und sonst wie nutzen.
 
@@ -39,17 +39,17 @@ Sie findet Anwendung auf alle Tätigkeiten, die mit dem Hauptvertrag in Zusammen
 
 ## § 2 Ort der vorgesehenen Verarbeitung von Daten
 
-Die Erbringung der vertraglich vereinbarten Datenverarbeitung findet innerhalb der Europäischen Union (EU) bzw. innerhalb des Europäischen Wirtschaftsraums (EWR) statt. Die Übermittlung personenbezogener Daten an Stellen, die weder in einem Mitgliedsstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ansässig sind (sog. Drittstaat), bedarf der Zustimmung des Auftraggebers und darf nur erfolgen, wenn die besonderen Voraussetzungen der Art. 44 ff. DS-GVO erfüllt sind. 
+Die Erbringung der vertraglich vereinbarten Datenverarbeitung findet innerhalb der Europäischen Union (EU) bzw. innerhalb des Europäischen Wirtschaftsraums (EWR) statt. Die Übermittlung personenbezogener Daten an Stellen, die weder in einem Mitgliedsstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ansässig sind (sog. Drittstaat), bedarf der Zustimmung des Auftraggebers und darf nur erfolgen, wenn die besonderen Voraussetzungen der Art. 44 ff. DS-GVO erfüllt sind.
 
 ## § 3 Art der Daten und Kreis der Betroffenen
 
-1. Gegenstand der Verarbeitung personenbezogener Daten sind folgende Datenarten/-kategorien (Aufzählung/Beschreibung der Datenkategorien): 
+1. Gegenstand der Verarbeitung personenbezogener Daten sind folgende Datenarten/-kategorien (Aufzählung/Beschreibung der Datenkategorien):
    - Name
    - Email-Addresse
    - Profilbild (Avatar-Bild)
    - Mobilfunknummer (optional im Falle der Nutzung der Zweifaktor-Authentifizierung)
 
-2. Die Kategorien der durch die Verarbeitung betroffenen Personen umfassen: 
+2. Die Kategorien der durch die Verarbeitung betroffenen Personen umfassen:
    - Mitarbeiter des Auftraggebers
    - Kunden des Auftraggebers
    - Lieferanten des Auftraggebers
@@ -87,11 +87,11 @@ Der Auftragnehmer wird seine innerbetriebliche Organisation so gestalten, dass s
 ## § 7 Pflichten des Auftragnehmers
 
 1. Der Auftragnehmer hat zusätzlich zu der Einhaltung der Regelungen dieser Vereinbarung die gesetzlichen Pflichten gemäß Art. 28 bis 33 DS-GVO zu erfüllen; insofern gewährleistet er insbesondere die Einhaltung folgender Vorgaben:
-2. Schriftliche Bestellung eines Datenschutzbeauftragten, der seine Tätigkeit gemäß Art. 38 und 39 DS-GVO ausübt. Die Kontaktdaten des Datenschutzbeauftragten sind in Anlage 1 aufgeführt. 
+2. Schriftliche Bestellung eines Datenschutzbeauftragten, der seine Tätigkeit gemäß Art. 38 und 39 DS-GVO ausübt. Die Kontaktdaten des Datenschutzbeauftragten sind in Anlage 1 aufgeführt.
 3. Die Wahrung der Vertraulichkeit gemäß Art. 28 Abs. 3 S. 2 lit. b, 29, 32 Abs. 4 DS-GVO. Der Auftragnehmer setzt bei der Durchführung der Arbeiten nur Beschäftigte ein, die auf die Vertraulichkeit verpflichtet und zuvor mit den für sie relevanten Bestimmungen zum Datenschutz vertraut gemacht wurden. Der Auftragnehmer und jede dem Auftragnehmer unterstellte Person, die Zugang zu personenbezogenen Daten des Auftraggebers haben, dürfen diese Daten ausschließlich entsprechend der Weisung des Auftraggebers verarbeiten, einschließlich der in dieser Vereinbarung zur Auftragsverarbeitung eingeräumten Befugnisse, es sei denn, dass sie gesetzlich zur Verarbeitung verpflichtet sind.
 4. Die Umsetzung und Einhaltung aller für diesen Auftrag erforderlichen technischen und organisatorischen Maßnahmen gemäß Art. 28 Abs. 3 S. 2 lit. c, 32 DS-GVO. Die technischen und organisatorischen Maßnahmen sind in Anlage 1 zu dieser Vereinbarung dokumentiert.
-5. Die Information des Auftraggebers über Kontrollhandlungen und Maßnahmen der Aufsichtsbehörde, soweit sie sich auf das zugrundeliegende Auftragsverhältnis beziehen. 
-6. Auskünfte gegenüber betroffenen Personen oder Dritten, das zugrundeliegende Auftragsverhältnis betreffend, darf der Auftragnehmer nur mit Zustimmung des Auftraggebers erteilen, es sei denn er ist gesetzlich dazu verpflichtet. 
+5. Die Information des Auftraggebers über Kontrollhandlungen und Maßnahmen der Aufsichtsbehörde, soweit sie sich auf das zugrundeliegende Auftragsverhältnis beziehen.
+6. Auskünfte gegenüber betroffenen Personen oder Dritten, das zugrundeliegende Auftragsverhältnis betreffend, darf der Auftragnehmer nur mit Zustimmung des Auftraggebers erteilen, es sei denn er ist gesetzlich dazu verpflichtet.
 
 ## § 8 Unterauftragnehmer
 
@@ -114,7 +114,7 @@ Der Auftragnehmer wird seine innerbetriebliche Organisation so gestalten, dass s
 
 ## § 10 Mitteilung bei Verstößen des Auftragnehmers
 
-1. Der Auftragnehmer teilt dem Auftraggeber Verletzungen des Schutzes personenbezogener Daten, Störungen, Verstöße des Auftragnehmers oder der bei ihm Beschäftigten oder von ihm beauftragten Personen gegen datenschutzrechtliche Bestimmungen oder die im Auftrag getroffenen Festlegungen, mit. Dies gilt vor allem auch im Hinblick auf eventuelle gesetzliche Informationspflichten des Auftraggebers gegenüber betroffenen Personen oder Aufsichtsbehörden. 
+1. Der Auftragnehmer teilt dem Auftraggeber Verletzungen des Schutzes personenbezogener Daten, Störungen, Verstöße des Auftragnehmers oder der bei ihm Beschäftigten oder von ihm beauftragten Personen gegen datenschutzrechtliche Bestimmungen oder die im Auftrag getroffenen Festlegungen, mit. Dies gilt vor allem auch im Hinblick auf eventuelle gesetzliche Informationspflichten des Auftraggebers gegenüber betroffenen Personen oder Aufsichtsbehörden.
 
 2. Der Auftragnehmer unterstützt den Auftraggeber bei der Einhaltung der in den Artikeln 30 bis 36 der DS-GVO genannten Pflichten zur Sicherheit personenbezogener Daten, Meldepflichten bei Datenpannen, Datenschutz-Folgeabschätzungen und vorherige Konsultationen nach Möglichkeit. Hierzu gehören insbesondere:
 
@@ -164,7 +164,7 @@ Dieser Vereinbarung zur Auftragsverarbeitung sind folgende Anlagen beigefügt:
 
 NAME - ORGANIZATION
 
-CITY, YYYY-MM-DD
+YYYY-MM-DD
 
 
 

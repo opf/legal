@@ -17,23 +17,23 @@ Karl-Liebknecht-Str. 5
 D-10178 Berlin  
 Germany
 
-\- Processor within the meaning of Art. 4(8) GDPR, hereinafter referred to as the “**Processor**” - 
+\- Processor within the meaning of Art. 4(8) GDPR, hereinafter referred to as the “**Processor**” -
 
 ## Preamble
 
 This contract data processing agreement governs the obligations of the contracting parties with regard to data protection arising under the service agreement, including product descriptions.
 
-`Product:         OpenProject Enterprise Cloud`  
-`Customer number: _________________________________`  
-`Contract number: _________________________________`  
-`URL:             _________________________________`  
-`Contract date:   _________________________________`
+**Product:**         OpenProject Enterprise Cloud  
+**Customer number:** ________________________________  
+**Contract number:** ________________________________  
+**URL:**             ________________________________  
+**Contract date:**   ________________________________
 
 This agreement applies to all activities related to the primary contract in which employees of the Processor or agents of the Processor may come into contact with personal data of the Controller. The Processor will collect, process and otherwise use personal data for the Controller exclusively within the scope of this contract data processing agreement in accordance with Art. 28 GDPR.
 
 ## § 1 Scope and responsibilities
 
-1. The subject, type and purpose of the contract are activities whose specification is based on the service contract referred to above and the associated product descriptions. 
+1. The subject, type and purpose of the contract are activities whose specification is based on the service contract referred to above and the associated product descriptions.
 2. The Processor shall not use data provided to them for processing for any other purposes. Copies and/or duplicates may not be made without the knowledge of the Controller. This does not include backup copies, to the extent necessary to ensure proper data processing, and data required to comply with the statutory retention obligations.
 3. The Controller is solely responsible for assessing the lawfulness of the collection, processing and use of personal data by the Processor within the framework of their contractual relationship with regard to the provisions of the European General Data Protection Regulation (GDPR) and other relevant laws and regulations concerning data protection.
 
@@ -43,13 +43,13 @@ The contractually agreed upon data processing shall take place exclusively withi
 
 ## § 3 Type of data processed and categories of data subjects
 
-1. The personal data undergoing processing pursuant to this agreement includes the following data types/categories (list/description of data categories): 
+1. The personal data undergoing processing pursuant to this agreement includes the following data types/categories (list/description of data categories):
    - Name
    - Email address
    - Telephone number (optionally for sending 2FA one-time-passwords)
    - Profile picture (avatar image)
 
-2. The categories of data subjects affected by the processing include: 
+2. The categories of data subjects affected by the processing include:
    - Employees of the Controller
    - Customers of the Controller
    - Suppliers of the Controller
@@ -59,7 +59,7 @@ The contractually agreed upon data processing shall take place exclusively withi
    - Billing address
    - Bank details
    - VAT ID
-   
+
 4. For the purpose of optimizing the product and service the Contractor processes the following data from the Controller:
    - Feedback and suggestions for improvement
    - User behavior
@@ -85,15 +85,15 @@ The Processor shall structure their internal organization in such a way that the
 ## § 7 Duties of the Processor
 
 1. In addition to complying with the provisions of this agreement, the Processor shall comply with the statutory obligations set out in Articles 28 to 33 GDPR. Without limitation, the Processor shall ensure compliance with the following requirements:
-2. Written appointment of a data protection officer who will perform their duties in accordance with Articles 38 and 39 GDPR. The contact details for the data protection officer are set out in Annex 1. 
+2. Written appointment of a data protection officer who will perform their duties in accordance with Articles 38 and 39 GDPR. The contact details for the data protection officer are set out in Annex 1.
 3. Maintaining confidentiality in accordance with Articles 28(3)(b), 29, 32(4) GDPR. In carrying out their work, the Processor shall exclusively use employees who are bound to maintain confidentiality and who have previously been familiarized with the relevant data protection provisions. The Processor and any person under their authority who has access to personal data of the Controller may only process such data exclusively in accordance with instructions from the Controller, including the authority granted in this agreement, unless they are legally obliged to process such data.
 4. The implementation and compliance with all technical and organizational measures required for the respective contract data processing in accordance with Articles 28(3)(c), 32 GDPR. The technical and organizational measures are documented in Annex 1 to this agreement.
-5. Notification of the Controller regarding control procedures and measures taken by the supervisory authority in so far as they relate to the underlying contractual relationship. 
-6. The Processor may only provide information to data subjects or third parties concerning the underlying contractual relationship with the consent of the Controller unless they are legally obliged to do so. 
+5. Notification of the Controller regarding control procedures and measures taken by the supervisory authority in so far as they relate to the underlying contractual relationship.
+6. The Processor may only provide information to data subjects or third parties concerning the underlying contractual relationship with the consent of the Controller unless they are legally obliged to do so.
 
 ## § 8 Subcontractors
 
-1. Subcontracting relationships within the meaning of this provision shall be understood to mean those services which relate directly to the provision of the principal service. This does not include ancillary services used by the Processor, e.g. telecommunications services, postal/transport services, maintenance and user services or the disposal of data carriers as well as other measures to ensure the confidentiality, availability, integrity and resilience of the hardware and software used in data processing systems. However, the Processor shall be obliged to undertake appropriate and legally binding contractual agreements and control measures to ensure the data protection and the data security of the Controller's data, including in relation to outsourced ancillary services. 
+1. Subcontracting relationships within the meaning of this provision shall be understood to mean those services which relate directly to the provision of the principal service. This does not include ancillary services used by the Processor, e.g. telecommunications services, postal/transport services, maintenance and user services or the disposal of data carriers as well as other measures to ensure the confidentiality, availability, integrity and resilience of the hardware and software used in data processing systems. However, the Processor shall be obliged to undertake appropriate and legally binding contractual agreements and control measures to ensure the data protection and the data security of the Controller's data, including in relation to outsourced ancillary services.
 2. The Processor may only engage subcontractors to process personal data of the Controller if they are located in a Member State of the European Union or in another country which is a signatory to the Agreement on the European Economic Area (EEA). Forwarding, storing and processing data using automated data processing systems outside the EU or the EEA is not permitted.
 3. The Controller agrees to the engagement of those subcontractors listed on our website at the time the respective contract was concluded (list available at: https://www.openproject.org/data-privacy-and-security/subcontractors/) on condition of a contractual agreement in accordance with Art. 28(2)-(4) GDPR.
 4. Outsourcing to further subcontractors or changing an existing subcontractor shall become an integral element of the contract provided that:
@@ -111,7 +111,7 @@ The Processor shall structure their internal organization in such a way that the
 
 ## § 10 Notification of breaches by the Processor
 
-1. The Processor shall inform the Controller of violations of the protection of personal data, disturbances, breaches of data protection regulations or the specifications made in a specific agreement by the Processor or persons employed by them or engaged by them. This is especially the case with regard to any legal obligations of the Controller to notify data subjects or the supervisory authorities. 
+1. The Processor shall inform the Controller of violations of the protection of personal data, disturbances, breaches of data protection regulations or the specifications made in a specific agreement by the Processor or persons employed by them or engaged by them. This is especially the case with regard to any legal obligations of the Controller to notify data subjects or the supervisory authorities.
 2. To the extent possible, the Processor shall assist the Controller in complying with the obligations set out in Articles 30 to 36 GDPR concerning the security of personal data, notification obligations in the event of personal data breaches, data protection impact assessments and prior consultations. This includes, in particular:
 
    - Subdivision of the facility into individual security areas;
@@ -155,18 +155,11 @@ The following Annexes are appended to this contract data processing agreement:
 
 **Controller**
 
-
-
-```
-
-_______________________________________________
-```
-
-
+\__________________
 
 NAME - ORGANIZATION
 
-CITY, YYYY-MM-DD
+YYYY-MM-DD
 
 
 
