@@ -8,7 +8,7 @@ Stand: 16.12.2020
 
 Unsere Systeme und Prozesse sind auf Ihre Privatsphäre und auf das Prinzip der Daten-Minimierung ausgelegt. Die [OpenProject GmbH](https://www.openproject.org/de/impressum/) erfüllt alle Anforderungen der EU-Datenschutz-Grundverordnung.
 
-<img src="https://github.com/opf/legal/blob/main/privacy/data-privacy-statement/Niels-Lindenthal.png" alt="Niels Lindenthal" style="width: 30%;"/>
+<img src="https://raw.githubusercontent.com/opf/legal/main/privacy/data-privacy-statement/Niels-Lindenthal.png" alt="Niels Lindenthal" style="width: 30%;"/>
 
 > *Datenschutz und Informationssicherheit haben einen zentralen Stellenwert in unserem Unternehmen und sind eine der Hauptmotive für die Entwicklung dieser Open Source Software. Wir sind sehr stolz auf die bisherigen Ergebnisse aber auch wir müssen noch “Data Privacy Debt” abbauen. Wir werden hier viel Energie und Lebenszeit investieren. Unser Ziel ist es OpenProject als Leuchtturmprojekt für „Datenschutz Made in Europe“ zur Perfektion zu bringen.* Wir haben uns große Mühe gegeben, um diese Richtlinie möglichst klar und einfach zu formulieren. Wir möchten, dass Sie alles verstehen. Sie sollen sich nicht durch viele Seiten unverständlichen Rechtstext hindurchkämpfen müssen. Daher freuen wir uns sehr über Ihre Rückmeldung und vielleicht sogar einen Austausch zum Thema Datenschutz und Sicherheit. In diesem Sinne unterliegt auch diese Datenschutzerklärung konsequenterweise einer [Open Source Lizenz](https://github.com/opf/legal/blob/main/data-protection/data-processing-agreement/de.md).
 >
@@ -607,7 +607,7 @@ Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 lit. f DS-GVO.
 
 ## Widerspruchsrecht
 
-Sie können den Aufruf der Release-API in Ihrer OpenProject-Instanz deaktivieren, in dem Sie den Haken unter „Administration > Systemeinstellungen > Allgemein > Plakette zur Update-Sicherheit anzeigen“ entfernen oder die Konfigurationsrichtlinie `security_badge_displayed: false` setzen. Weitere Informationen hierzu entnehmen Sie bitte der [Dokumentation](https://docs.openproject.org/system-admin-guide/information/#security-badge). 
+Sie können den Aufruf der Release-API in Ihrer OpenProject-Instanz deaktivieren, in dem Sie den Haken unter „Administration > Systemeinstellungen > Allgemein > Plakette zur Update-Sicherheit anzeigen“ entfernen oder die Konfigurationsrichtlinie `security_badge_displayed: false` setzen. Weitere Informationen hierzu entnehmen Sie bitte der [Dokumentation](https://docs.openproject.org/system-admin-guide/information/#security-badge).
 
 Im Falle der Deaktivierung der automatischen Prüfung, bleibt es Ihnen überlassen, die Verfügbarkeit neuer Versionen manuell zu überprüfen.  
 
