@@ -153,8 +153,27 @@ The following Annexes are appended to this contract data processing agreement:
 
 ## § 17 Signatures
 
+**Controller**
+
+
+
+```
+
+_______________________________________________
+```
+
+
+
+NAME - ORGANIZATION
+
+CITY, YYYY-MM-DD
+
+
+
+**Processor**
+
 ![Signature](Signature_Lindenthal.png)
 
-Niels Lindenthal - CEO OpenProject GmbH
+Niels Lindenthal - OpenProject GmbH
 
 Berlin, YYYY-MM-DD
