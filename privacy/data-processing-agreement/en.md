@@ -159,7 +159,7 @@ The following Annexes are appended to this contract data processing agreement:
 
 NAME - ORGANIZATION
 
-YYYY-MM-DD
+CITY, YYYY-MM-DD
 
 
 

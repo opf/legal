@@ -164,7 +164,7 @@ Dieser Vereinbarung zur Auftragsverarbeitung sind folgende Anlagen beigefügt:
 
 NAME - ORGANIZATION
 
-YYYY-MM-DD
+CITY, YYYY-MM-DD
 
 
 
