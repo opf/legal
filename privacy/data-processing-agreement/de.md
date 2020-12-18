@@ -29,7 +29,7 @@ Diese Vereinbarung zur Auftragsverarbeitung regelt die Verpflichtungen der Vertr
 **URL:**            ________________________________  
 **Vertragsdatum:**  ________________________________
 
-Sie findet Anwendung auf alle Tätigkeiten, die mit dem Hauptvertrag in Zusammenhang stehen und bei denen Beschäftigte des Auftragnehmers oder durch den Auftragnehmer beauftragte Dritte mit personenbezogenen Daten des Auftraggebers in Berührung kommen können. Der Auftragnehmer wird für den Auftraggeber personenbezogene Daten ausschließlich im Rahmen dieser Vereinbarung zur Auftragsverarbeitung gemäß Art. 28 DS-GVO erheben, verarbeiten und sonst wie nutzen.
+Sie findet Anwendung auf alle Tätigkeiten, die mit dem Hauptvertrag in Zusammenhang stehen und bei denen Beschäftigte des Auftragnehmers oder durch den Auftragnehmer beauftragte Dritte mit personenbezogenen Daten des Auftraggebers in Berührung kommen können. Der Auftragnehmer wird für den Auftraggeber personenbezogene Daten ausschließlich im Rahmen dieser Vereinbarung zur Auftragsverarbeitung gemäß Art. 28 DS-GVO erheben, verarbeiten und sonst wie nutzen. Mit Abschluss dieser Vereinbarung werden alle, soweit vorhanden, vorherigen geschlossenen AV-Verträge hinfällig.
 
 ## § 1 Anwendungsbereich und Verantwortlichkeit
 

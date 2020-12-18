@@ -29,7 +29,7 @@ This contract data processing agreement governs the obligations of the contracti
 **URL:**             ________________________________  
 **Contract date:**   ________________________________
 
-This agreement applies to all activities related to the primary contract in which employees of the Processor or agents of the Processor may come into contact with personal data of the Controller. The Processor will collect, process and otherwise use personal data for the Controller exclusively within the scope of this contract data processing agreement in accordance with Art. 28 GDPR.
+This agreement applies to all activities related to the primary contract in which employees of the Processor or agents of the Processor may come into contact with personal data of the Controller. The Processor will collect, process and otherwise use personal data for the Controller exclusively within the scope of this contract data processing agreement in accordance with Art. 28 GDPR. Upon conclusion of this agreement, all previously concluded Data Privacy Agreements, if any, shall become invalid.
 
 ## § 1 Scope and responsibilities
 
