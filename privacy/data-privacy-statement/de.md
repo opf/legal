@@ -401,7 +401,7 @@ In Ihrer OpenProject-Instanz können Sie optional eine Servicevereinbarung für 
 
 ### Auftragsverarbeitungsvertrag gem. Art. 28 DS-GVO
 
-Gemäß den Anforderungen Art. 28 Datenschutz-Grundverordnung (DS-GVO) bietet die OpenProject GmbH als Auftragsverarbeiter unseren Kunden als Auftraggebern eine [Zusatzvereinbarung zur Auftragsverarbeitung gemäß Art. 28 DS-GVO](https://www.openproject.org/gdpr/openproject_zusatzvereinbarung-zur-auftragsverarbeitung-nach-ds-gvo/) an. Diese Vereinbarung zur Auftragsverarbeitung regelt die Verpflichtungen der Vertragsparteien zum Datenschutz, die sich aus dem Leistungsvertrag nebst Produktbeschreibungen ergeben.
+Gemäß den Anforderungen Art. 28 Datenschutz-Grundverordnung (DS-GVO) bietet die OpenProject GmbH als Auftragsverarbeiter unseren Kunden als Auftraggebern eine [Zusatzvereinbarung zur Auftragsverarbeitung](https://www.openproject.org/de/rechtliches/vertrag-zur-auftragsverarbeitung/) an. Diese Vereinbarung zur Auftragsverarbeitung regelt die Verpflichtungen der Vertragsparteien zum Datenschutz, die sich aus dem Leistungsvertrag nebst Produktbeschreibungen ergeben.
 
 ### Optionale Authentifizierung über externe Authentifizierungsanbieter (Google)
 
