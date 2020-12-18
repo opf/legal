@@ -659,6 +659,6 @@ Im Falle der Absage einer Bewerbung werden die Daten sechs Monate nach Absage ei
 
 # Matomo Opt-Out
 
-You can opt-out to Matomo here:
+Hier geht es zum Opt-out:
 
 <iframe style="border: 0; height: 200px; width: 600px;" src="https://openproject.matomo.cloud/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=de&amp;backgroundColor=&amp;fontColor=&amp;fontSize=&amp;fontFamily="></iframe>
