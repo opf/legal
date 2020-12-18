@@ -658,7 +658,3 @@ Für den Fall, dass die Bewerbung in einem Beschäftigungsverhältnis mündet, w
 Im Falle der Absage einer Bewerbung werden die Daten sechs Monate nach Absage einer Bewerbung von uns gelöscht, es sei denn, Sie haben in die Aufnahme Ihrer personenbezogenen Daten in unseren Bewerberpool eingewilligt. Rechtsgrundlage der Verarbeitung ist in diesem Fall Art. 6 Abs. 1 lit. a DS-GVO. Die uns erteilte Einwilligung können Sie jederzeit widerrufen.
 
 # Matomo Opt-Out
-
-Hier geht es zum Opt-out:
-
-<iframe style="border: 0; height: 200px; width: 600px;" src="https://openproject.matomo.cloud/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=de&amp;backgroundColor=&amp;fontColor=&amp;fontSize=&amp;fontFamily="></iframe>
