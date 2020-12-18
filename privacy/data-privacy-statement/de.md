@@ -132,9 +132,10 @@ Die Webanalyse kann durch den Nutzer der Webseiten technisch unterbunden werden,
 
 #### Widerspruchsrecht
 
-Sie können der Erfassung der vorgenannten Daten sowie deren Verarbeitung verhindern, indem Sie einen Java-Script-Blocker installieren, um die Erhebung sonstiger Website-Analysedaten zu verhindern. Sie können jederzeit der Speicherung und Auswertung dieser Daten durch Matomo widersprechen. Am Ende dieser Seite befindet sich hierzu ein Opt-Out-Dialog. In diesem Fall wird in Ihrem Browser dauerhaft ein **sog. Opt-Out-Cookie** abgelegt, der Matomo veranlasst, keinerlei Daten für die Speicherung und Auswertung zu erheben.
-
-Alternativ verfügen die meisten modernen Browser über eine so genannte „Do Not Track“-Option, mit der sie Websites mitteilen, Ihre Nutzeraktivitäten nicht zu verfolgen. Matomo respektiert diese Option.
+> Sie können der Erfassung der vorgenannten Daten sowie deren Verarbeitung verhindern, indem Sie einen Java-Script-Blocker installieren, um die Erhebung sonstiger Website-Analysedaten zu verhindern. Sie können jederzeit der Speicherung und Auswertung dieser Daten durch Matomo widersprechen. Am Ende dieser Seite befindet sich hierzu ein Opt-Out-Dialog. In diesem Fall wird in Ihrem Browser dauerhaft ein **sog. Opt-Out-Cookie** abgelegt, der Matomo veranlasst, keinerlei Daten für die Speicherung und Auswertung zu erheben.
+>
+> Alternativ verfügen die meisten modernen Browser über eine so genannte „Do Not Track“-Option, mit der sie Websites mitteilen, Ihre Nutzeraktivitäten nicht zu verfolgen. Matomo respektiert diese Option.
+>
 
 ### Zweck der Datenverarbeitung
 
