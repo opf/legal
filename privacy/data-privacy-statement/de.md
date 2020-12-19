@@ -2,7 +2,7 @@
 
 # Datenschutzerklärung
 
-Stand: 16.12.2020
+Stand: 19.12.2020
 
 ## Zusammenfassung
 
@@ -69,15 +69,19 @@ GPG Key: [BDCFE01EDE84EA199AE172CE7D669C6D47533958](https://keys.openpgp.org/vks
 
 Der **Datenschutzbeauftragte** der OpenProject GmbH ist:
 
-Herr Ingo Wolff
+Herr Markus Strauss
 
-tacticx GmbH
+tacticx Consulting GmbH
+
+Walbecker Str. 53
 
 47608 Geldern
 
+E-Mail: [privacy@openproject.com](mailto:privacy@openproject.com)
+
 ## Rechtsgrundlagen für die Verarbeitung personenbezogener Daten
 
-Die Verarbeitung Ihrer personenbezogener Daten erfolgt regelmäßig nach Einwilligung, gem. Art. 6 Abs. 1 lit. a DS-GVO. Eine Ausnahme gilt in solchen Fällen, in denen eine vorherige Einholung einer Einwilligung aus tatsächlichen Gründen nicht möglich ist und uns die Verarbeitung der Daten durch gesetzliche Vorschriften gestattet ist. Sofern die Datenverarbeitung für die Erfüllung eines Vertrags oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist, erfolgt dies auf Grundlage von Art. 6 Abs. 1 lit. b DS-GVO. Eine Datenverarbeitung, die auf unserem berechtigtem Interesse beruht, richtet sich nach Art. 6 Abs. 1 lit. f DS-GVO. Zusätzlich zu den Datenschutzregelungen der Datenschutz-Grundverordnung gelten nationale Regelungen zum Datenschutz in Deutschland. Hierzu gehört insbesondere das Gesetz zum Schutz vor Missbrauch personenbezogener Daten bei der Datenverarbeitung (Bundesdatenschutzgesetz – BDSG).
+Die Verarbeitung Ihrer personenbezogener Daten erfolgt regelmäßig nach Einwilligung, gem. Art. 6 Abs. 1 lit. a DS-GVO. Eine Ausnahme gilt in solchen Fällen, in denen eine vorherige Einholung einer Einwilligung aus tatsächlichen Gründen nicht möglich ist und uns die Verarbeitung der Daten durch gesetzliche Vorschriften gestattet ist. Sofern die Datenverarbeitung für die Erfüllung eines Vertrags oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist, erfolgt dies auf Grundlage von Art. 6 Abs. 1 lit. b DS-GVO. Eine Datenverarbeitung, die auf unserem berechtigtem Interesse beruht, richtet sich nach Art. 6 Abs. 1 lit. f DS-GVO. Zusätzlich zu den Datenschutzregelungen der Datenschutz-Grundverordnung gelten nationale Regelungen zum Datenschutz in Deutschland. Hierzu gehört insbesondere das Bundesdatenschutzgesetz (BDSG).
 
 ## Rechte der betroffenen Person
 
@@ -92,11 +96,11 @@ Wenn wir Ihre personenbezogenen Daten verarbeiten, sind Sie betroffene Person ge
 - Widerspruchsrecht (Art. 21 DS-GVO)
 - Recht auf Beschwerde bei einer Aufsichtsbehörde (Art. 77 DS-GVO)
 - Recht auf Widerruf Ihrer datenschutzrechtlichen Einwilligungserklärung (Art. 7 Abs. 3 DS-GVO)
-  Sie haben das Recht, Ihre Einwilligung uns gegenüber jederzeit zu widerrufen, bspw. durch E-Mail an privacy@openproject.com. Durch den Widerruf der Einwilligung wird die Rechtmäßigkeit der – aufgrund der Einwilligung bis zum Widerruf erfolgten – bisherigen Datenverarbeitung nicht berührt.
+  **Sie haben das Recht, Ihre Einwilligung uns gegenüber jederzeit zu widerrufen, bspw. durch E-Mail an privacy@openproject.com.** Durch den Widerruf der Einwilligung wird die Rechtmäßigkeit der – aufgrund der Einwilligung bis zum Widerruf erfolgten – bisherigen Datenverarbeitung nicht berührt.
 
 **Widerspruchsrecht (Art. 21 DS-GVO)**
 
-> Sie haben gemäß Art. 21 DS-GVO das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung Ihrer personenbezogenen Daten, die auf Grundlage von Art. 6 Abs. 1 lit. e oder f DS-GVO erfolgt, Widerspruch zu erheben; dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling. Den Widerspruch können Sie an eine unserer angegebene Kontaktadressen richten, beispielsweise an [privacy@openproject.com](mailto:privacy@openproject.com). Wir verarbeiten Ihre personenbezogenen Daten in der Folge nicht weiter, es sei denn, wir können zwingende schutzwürdige Gründe für unsere Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+> **Sie haben gemäß Art. 21 DS-GVO das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung Ihrer personenbezogenen Daten, die auf Grundlage von Art. 6 Abs. 1 lit. e oder f DS-GVO erfolgt, Widerspruch zu erheben; dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling**. Den Widerspruch können Sie an eine unserer angegebene Kontaktadressen richten, beispielsweise an [privacy@openproject.com](mailto:privacy@openproject.com). Wir verarbeiten Ihre personenbezogenen Daten in der Folge nicht weiter, es sei denn, wir können zwingende schutzwürdige Gründe für unsere Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
 
 Wenn Sie ein solches Recht ausüben möchten, nehmen Sie bitte Kontakt per E-Mail mit unserem Datenschutzbeauftragten auf. Wir bitten Sie darum, diese E-Mail zu verschlüsseln – die Verschlüsselung ist jedoch optional. Den dazu erforderlichen öffentlichen Schlüssel mit der ID [BDCF E01E DE84 EA19 9AE1 72CE 7D66 9C6D 4753 3958](https://keys.openpgp.org/vks/v1/by-fingerprint/BDCFE01EDE84EA199AE172CE7D669C6D47533958) können Sie [hier](https://keys.openpgp.org/vks/v1/by-fingerprint/BDCFE01EDE84EA199AE172CE7D669C6D47533958) herunterladen.
 
@@ -118,28 +122,28 @@ Unsere Webseiten enthalten Links zu Webseiten externer Anbieter. Wir haben keine
 
 In folgenden Anwendungen nutzen wir Matomo für die Erstellung von Zugriffsstatistiken:
 
-- Webseite,
+- Webseiten,
 - Community Plattform,
 - SaaS Plattform.
 
 Matomo ist eine Open Source Software des Anbieters InnoCraft ltd., 150 Willis St, 6011 Wellington, Neuseeland.
 
-**Durch den Einsatz von Matomo werden keine personenbezogenen Nutzerprofile erstellt, sondern nur anonyme Messwerte erhoben. Mit der Webanalyse bezwecken wir die Verbesserung der Qualität unserer Webseiten und ihrer Inhalte. Hierbei werden keine Cookies eingesetzt.**
+**Durch den Einsatz von Matomo werden keine personenbezogenen Nutzerprofile erstellt, sondern nur anonyme Messwerte erhoben. Ein Rückschluss auf Ihre Person ist nicht möglich. Mit der Webanalyse bezwecken wir die Verbesserung der Qualität unserer Webseiten und ihrer Inhalte. Hierbei werden keine Cookies eingesetzt.**
 
 ### Rechtsgrundlage
 
-Die Webanalyse kann durch den Nutzer der Webseiten technisch unterbunden werden, indem dieser JavaScript in seinem Webbrowser deaktiviert. Details zu den hierzu notwendigen Einstellungen finden sich in den Produktbeschreibungen bzw. Anleitungen der verschiedenen Browser-Anbieter. Die Datenverarbeitung erfolgt in diesem Zusammenhang auf Grundlage von Art. 6 Abs. 1 lit. f DS-GVO. Weitergehende Informationen zu Nutzungsbedingungen und Datenschutz von Matomo finden Sie unter https://matomo.org/privacy-policy/.
+Die Webanalyse können Sie technisch unterbinden, indem Sie JavaScript in Ihrem Webbrowser deaktivieren. Details zu den hierzu notwendigen Einstellungen finden sich in den Produktbeschreibungen bzw. Anleitungen der verschiedenen Browser-Anbieter. Die Datenverarbeitung erfolgt in diesem Zusammenhang auf Grundlage von Art. 6 Abs. 1 lit. f DS-GVO. Weitergehende Informationen zu Nutzungsbedingungen und Datenschutz von Matomo finden Sie unter https://matomo.org/privacy-policy/.
 
 #### Widerspruchsrecht
 
 > Sie können der Erfassung der vorgenannten Daten sowie deren Verarbeitung verhindern, indem Sie einen Java-Script-Blocker installieren, um die Erhebung sonstiger Website-Analysedaten zu verhindern. Sie können jederzeit der Speicherung und Auswertung dieser Daten durch Matomo widersprechen. Am Ende dieser Seite befindet sich hierzu ein Opt-Out-Dialog. In diesem Fall wird in Ihrem Browser dauerhaft ein **sog. Opt-Out-Cookie** abgelegt, der Matomo veranlasst, keinerlei Daten für die Speicherung und Auswertung zu erheben.
 >
-> Alternativ verfügen die meisten modernen Browser über eine so genannte „Do Not Track“-Option, mit der sie Websites mitteilen, Ihre Nutzeraktivitäten nicht zu verfolgen. Matomo respektiert diese Option.
+> Alternativ verfügen die meisten modernen Browser über eine so genannte „Do Not Track“-Option, mit der Sie Webseiten mitteilen, Ihre Nutzeraktivitäten nicht zu verfolgen. Matomo respektiert diese Option.
 >
 
 ### Zweck der Datenverarbeitung
 
-Die Verwendung von Matomo erfolgt zu dem Zweck, die Qualität unserer Website und ihre Inhalte zu verbessern. Dadurch erfahren wir, wie die Website genutzt wird und können so unser Angebot stetig optimieren.
+Die Verwendung von Matomo erfolgt zu dem Zweck, die Qualität unserer Webseiten und ihre Inhalte zu verbessern. Dadurch erfahren wir, wie die Webseiten genutzt werden und können so unser Angebot stetig optimieren.
 
 ### Dauer der Speicherung Ihrer personenbezogenen Daten
 
@@ -147,7 +151,7 @@ Wir speichern alle mittels Matomo erhobenen Web-Tracking-Daten auf unbestimmte Z
 
 ## Verwendung von Cookies
 
-**Wir verwenden ausschließlich Cookies, welche für die Nutzung der Webseite technisch erforderlich sind. Cookies zur Reichweitenmessung oder zur Nutzungsanalyse werden** **nicht** **eingesetzt. Wir verwenden Ihre durch technisch notwendige Cookies erhobenen Nutzerdaten nicht zur Erstellung von Nutzerprofilen.**
+**Wir verwenden ausschließlich Cookies, welche für die Nutzung der Webseiten technisch erforderlich sind. Cookies zur Reichweitenmessung oder zur Nutzungsanalyse werden** **nicht** **eingesetzt. Wir verwenden Ihre durch technisch notwendige Cookies erhobenen Nutzerdaten nicht zur Erstellung von Nutzerprofilen.**
 
 ### Notwendige Cookies
 
@@ -166,7 +170,7 @@ Die Verarbeitung personenbezogener Daten unter Verwendung von notwendigen Cookie
 
 Es besteht keine Möglichkeit, unsere Webseiten ohne eine solche Verarbeitung von Daten zu nutzen, d.h. Sie haben keine Widerspruchsmöglichkeit.
 
-# A: Webseiten
+# 1. Webseiten
 
 ## Umfang der Datenverarbeitung
 
@@ -193,7 +197,7 @@ Ihre Daten werden gelöscht, sobald Sie unsere Webseiten verlassen und damit die
 
 ### Blog (WordPress)
 
-Wir nutzen auf unserer Webseite einen Blog, um Sie über aktuelle Entwicklungen und Aktionen zu informieren. Ihre Daten werden nur insoweit verarbeitet, als es für dessen Darstellung und die Kommunikation zwischen Autoren und Lesern oder aus Gründen der Sicherheit erforderlich ist. Sofern Sie Kommentare hinterlassen, kann Ihre IP-Adresse auf Grundlage unseres berechtigten Interesses gespeichert werden. Dies erfolgt aus sicherheitsrechtlichen Gründen für den Fall, dass jemand in Kommentaren widerrechtliche Inhalte hinterlassen sollte. Folgende personenbezogene Daten können von Ihnen erfasst werden:
+Wir nutzen auf unseren Webseiten einen Blog, um Sie über aktuelle Entwicklungen und Aktionen zu informieren. Ihre Daten werden nur insoweit verarbeitet, als es für dessen Darstellung und die Kommunikation zwischen Autoren und Lesern oder aus Gründen der Sicherheit erforderlich ist. Sofern Sie Kommentare hinterlassen, kann Ihre IP-Adresse auf Grundlage unseres berechtigten Interesses gespeichert werden. Dies erfolgt aus sicherheitsrechtlichen Gründen für den Fall, dass jemand in Kommentaren widerrechtliche Inhalte hinterlassen sollte. Folgende personenbezogene Daten können von Ihnen erfasst werden:
 
 - Name,
 - Adresse,
@@ -205,7 +209,7 @@ Wir nutzen auf unserer Webseite einen Blog, um Sie über aktuelle Entwicklungen 
 
 #### Rechtsgrundlage
 
-Rechtsgrundlage für die Datenverarbeitung ist unser berechtigtes Interesse gem. Art. 6 Abs. 1 lit. f. DS-GVO.
+Rechtsgrundlage für die Datenverarbeitung im Zusammenhang mit unserem Blog ist unser berechtigtes Interesse gem. Art. 6 Abs. 1 lit. f. DS-GVO.
 
 **Widerspruchsrecht**
 
@@ -217,17 +221,17 @@ Die Verarbeitung erfolgt zu dem Zweck der Bereitstellung unseres Onlineangebots 
 
 #### Dauer der Speicherung Ihrer personenbezogenen Daten
 
-Die Daten verbleiben grundsätzlich auf unseren Webseiten, bis der kommentierte Blogeintrag nicht mehr auf unseren Webseiten zur Verfügung steht, die Kommentare aus rechtlichen Gründen gelöscht werden müssen oder Sie selbst diese löschen.
+Die Daten verbleiben auf unseren Webseiten, bis der kommentierte Blogeintrag nicht mehr auf unseren Webseiten zur Verfügung steht, die Kommentare aus rechtlichen Gründen gelöscht werden müssen oder Sie selbst diese löschen.
 
-### Suche auf der Webseite (Algolia)
+### Suche auf den Webseiten (Algolia)
 
 #### Umfang der Datenverarbeitung
 
-Diese Website nutzt über eine API die Suchtechnologie Algolia. Anbieter ist die Algolia, Inc., 589 Howard St Suite 5, San Francisco, CA 94105, Vereinigte Staaten. Zur Nutzung der Funktionen der Algolia Suche ist es notwendig, Ihre IP Adresse und Ihre Suchanfrage zu speichern. Diese Informationen werden in der Regel an einen Server von Algolia in Europa oder den USA übertragen und dort gespeichert. Wir haben keinen Einfluss auf diese Datenübertragung. Bitte beachten Sie die [Nutzungsbedingungen](https://www.algolia.com/policies/terms) von Algolia sowie die [Datenschutzrichtlinie](https://www.algolia.com/policies/privacy) von Algolia. Algolia überträgt die erhobenen Daten nicht an Dritte, sondern verarbeitet diese ausschließlich intern für statistische Auswertungen und das Monitoring seiner Services.
+Unsere Webseiten nutzen über eine API die Suchtechnologie Algolia. Anbieter ist die Algolia, Inc., 589 Howard St Suite 5, San Francisco, CA 94105, Vereinigte Staaten. Zur Nutzung der Funktionen der Algolia Suche ist es notwendig, Ihre IP Adresse und Ihre Suchanfrage zu speichern. Diese Informationen werden in der Regel an einen Server von Algolia in Europa oder den USA übertragen und dort gespeichert. Wir haben keinen Einfluss auf diese Datenübertragung. Bitte beachten Sie die [Nutzungsbedingungen](https://www.algolia.com/policies/terms) von Algolia sowie die [Datenschutzrichtlinie](https://www.algolia.com/policies/privacy) von Algolia. Algolia überträgt die erhobenen Daten nicht an Dritte, sondern verarbeitet diese ausschließlich intern für statistische Auswertungen und das Monitoring seiner Services.
 
 #### Rechtsgrundlage
 
-Rechtsgrundlage für die Verarbeitung der Daten ist Art. 6 Abs. 1 lit. f DSGVO.
+Rechtsgrundlage für die Verarbeitung der Daten im Zusammenhang mit Algolia ist Art. 6 Abs. 1 lit. f DSGVO.
 
 Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Algolia:[ https://www.algolia.com/policies/privacy](https://www.algolia.com/policies/privacy).
 
@@ -237,13 +241,13 @@ Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzer
 
 #### Zweck der Datenverarbeitung
 
-Damit Sie auf unserer Netzseite einfacher navigieren und die gesuchten Inhalte leichter finden können, haben wir die Algolia-Suche eingebaut. Darin besteht auch unser berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit f. DSGVO.
+Damit Sie auf unseren Webseiten einfacher navigieren und die gesuchten Inhalte leichter finden können, haben wir die Algolia-Suche eingebaut. Darin besteht auch unser berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit f. DSGVO.
 
 #### Dauer der Speicherung Ihrer personenbezogene Daten
 
 Die Daten werden auf dem Server von Algolia für einen Zeitraum von 90 Tagen gespeichert.
 
-# B: Kontaktaufnahme
+# 2. Kontaktaufnahme
 
 Sie können auf verschiedenen Wegen Kontakt zu uns aufnehmen:
 
@@ -274,7 +278,7 @@ Auf unseren Webseiten sind Kontaktformulare vorhanden, welche Sie für die Konta
 
 **Die Verwendung der HubSpot-Plattform ist ein Relikt aus alter Zeit (Data Privacy Debt). Wir arbeiten derzeit an der vollständigen Ablösung dieses Dienstes.**
 
-Für die Bearbeitung Ihrer Kontaktanfragen setzen wir als externen Dienst das CRM-System des Herstellers HubSpot ein (HubSpot Inc., 25 First Street, Cambridge, MA 02141 USA). Unser Anmelde-Service ermöglicht es Besuchern unserer Website, mehr über unser Unternehmen zu erfahren und ihre Kontaktinformationen zur Verfügung zu stellen. Diese Informationen sowie die Inhalte unserer Website werden auf Servern von HubSpot gespeichert. Sie können von uns genutzt werden, um mit Besuchern unserer Website in Kontakt zu treten. Hierbei kann nicht ausgeschlossen werden, dass HubSpot die Informationen auch an einen US-amerikanischen Server übermittelt. Weiterführende Hinweise zur Datenverarbeitung durch HubSpot finden Sie im Netz unter https://legal.hubspot.com/privacy-policy.
+Für die Bearbeitung Ihrer Kontaktanfragen setzen wir als externen Dienst das CRM-System des Herstellers HubSpot ein (HubSpot Inc., 25 First Street, Cambridge, MA 02141 USA). Natürlich haben wir mit diesem Dienstleister einen Auftragsverarbeitungsvertrag abgeschlossen. Unser Anmelde-Service ermöglicht es Besuchern unserer Webseiten, mehr über unser Unternehmen zu erfahren und ihre Kontaktinformationen zur Verfügung zu stellen. Diese Informationen sowie die Inhalte unserer Webseiten werden auf Servern von HubSpot gespeichert. Sie können von uns genutzt werden, um mit Besuchern unserer Webseiten in Kontakt zu treten. Hierbei kann nicht ausgeschlossen werden, dass HubSpot die Informationen auch an einen US-amerikanischen Server übermittelt. Weiterführende Hinweise zur Datenverarbeitung durch HubSpot finden Sie im Netz unter https://legal.hubspot.com/privacy-policy.
 
 ### Google G Suite
 
@@ -305,11 +309,11 @@ Zweck der Datenverarbeitung ist die Bearbeitung Ihrer Kontaktanfrage. Die Daten 
 
 ## Dauer der Speicherung Ihrer personenbezogenen Daten
 
-Nach vollständiger Abwicklung der Kontaktanfrage schränken wir Ihre Daten für die weitere Verarbeitung ein. Die Löschung Ihrer Daten erfolgt nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen. Diese betragen gemäß § 147 Abs. 1 Abgabenordnung (AO) für Buchungsbelege 10 Jahre und gemäß § 257 Abs. 1 Handelsgesetzbuch (HGB) für Geschäftsunterlagen 6 Jahre.
+Nach vollständiger Abwicklung der Kontaktanfrage schränken wir Ihre Daten für die weitere Verarbeitung ein. Die Löschung Ihrer Daten erfolgt nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen. Diese betragen gemäß § 147 Abgabenordnung (AO) für Buchungsbelege volle 10 Jahre und gemäß § 257 Handelsgesetzbuch (HGB) für Geschäftsunterlagen volle 6 Jahre.
 
 Sie sind nicht zur Bereitstellung Ihrer personenbezogenen Daten verpflichtet. Die Nichtbereitstellung könnte jedoch ggfs. zur Folge habe, dass Sie unser Kontaktformular nicht bzw. nicht vollumfänglich nutzen können, bzw. nicht mit uns in Kontakt treten können.
 
-# C: Newsletter
+# 3. Newsletter
 
 ## Umfang der Datenverarbeitung
 
@@ -322,11 +326,11 @@ Auf unseren Webseiten besteht die Möglichkeit, unsere kostenfreien Newsletter z
 
 Für die Verarbeitung der Daten wird im Rahmen des Anmeldevorgang Ihre Einwilligung eingeholt. Wir sichern die Anmeldung durch ein sog. Double-Opt-In-Verfahren ab. Hierdurch stellen wir sicher, dass die im Zusammenhang mit dem Newsletter-Abonnement angegebene E-Mail-Adresse tatsächlich Ihnen zugeordnet ist. Nachdem Sie in die jeweilige Eingabemasken Ihre erforderlichen Daten (Name, E-Mail-Adresse) eingegeben haben, erhalten Sie eine automatisierte E-Mail mit einem Aktivierungslink. Mit Bestätigung des Links haben Sie unseren Newsletter abonniert.
 
-Der Versand unserer Newsletter erfolgt durch HubSpot, eine Software der HubSpot Inc., 25 First Street, Cambridge, MA 02141 USA. HubSpot ist ein Dienst, mit dem u.a. der Versand von Newslettern organisiert und analysiert werden kann. Weiterführende Hinweise zur Datenverarbeitung durch HubSpot finden Sie unter https://legal.hubspot.com/privacy-policy.
+Der Versand unserer Newsletter erfolgt durch HubSpot, eine Software der HubSpot Inc., 25 First Street, Cambridge, MA 02141 USA. Wir haben mit HubSpot einen Auftragsverarbeitungsvertrag abgeschlossen. HubSpot ist ein Dienst, mit dem u.a. der Versand von Newslettern organisiert und analysiert werden kann. Weiterführende Hinweise zur Datenverarbeitung durch HubSpot finden Sie unter https://legal.hubspot.com/privacy-policy.
 
 ## Rechtsgrundlagen für die Verarbeitung personenbezogener Daten
 
-Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten ist Art. 6 Abs. 1 lit. a DS-GVO.
+Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten im Zusammenhang mit unserem Newsletter ist Art. 6 Abs. 1 lit. a DS-GVO.
 
 ## Widerrufsrecht
 
@@ -334,7 +338,7 @@ Sie haben das Recht, Ihre Einwilligung jederzeit ohne Angabe von Gründen mit Wi
 
 ## Zweck der Datenverarbeitung
 
-Wir geben Ihre Daten im Rahmen des gesetzlich Zulässigen an unseren Dienstleister HubSpot Inc., 25 First Street, Cambridge, MA 02141 USA, weiter. Dieser übernimmt für uns den Newsletterversand.
+Wir geben Ihre Daten im Rahmen des gesetzlich Zulässigen an unseren Dienstleister HubSpot Inc., 25 First Street, Cambridge, MA 02141 USA, weiter. Dieser übernimmt für uns den Newsletter-Versand.
 
 ## Dauer der Speicherung Ihrer personenbezogenen Daten
 
@@ -342,7 +346,7 @@ Wir speichern Ihre personenbezogenen Daten für die Dauer Ihres jeweiligen Abonn
 
 Sie sind nicht zur Bereitstellung Ihrer personenbezogenen Daten verpflichtet. Die Bereitstellung ist weder gesetzlich noch vertraglich vorgeschrieben. Die Nichtbereitstellung könnte jedoch ggfs. zur Folge habe, dass Sie unseren Newsletter nicht abonnieren können.
 
-# D: OpenProject Enterprise Cloud (SaaS)
+# 4. OpenProject Enterprise Cloud (SaaS)
 
 Besucher unserer Webseiten können sich in unser SaaS-Plattform eine eigene OpenProject-Instanz erstellen.
 
@@ -365,7 +369,7 @@ Für das Anlegen einer eigenen OpenProject-Instanz werden folgende personenbezog
 
 ### Zwei-Faktor-Authentisierung
 
-Wir empfehlen, den Zugriff auf Ihre OpenProject-Instanz über eine Zwei-Faktor-Authentisierung abzusichern. In diesem Fall werden folgende sicherheitsspezifische Einstellungen von uns erfasst und verarbeitet:
+Wir empfehlen, den Zugriff auf Ihre OpenProject-Instanz über eine Zwei-Faktor-Authentisierung abzusichern. In diesem Fall werden folgende zusätzliche sicherheitsspezifische Einstellungen von uns erfasst und verarbeitet:
 
 - Telefonnummer für den Versand von Einmal-Kennwörtern per SMS,
 - OATH-Geheimcode (z.B. für die 2FA-App FreeOTP).
@@ -402,7 +406,7 @@ In Ihrer OpenProject-Instanz können Sie optional eine Servicevereinbarung für 
 
 ### Auftragsverarbeitungsvertrag gem. Art. 28 DS-GVO
 
-Gemäß den Anforderungen Art. 28 Datenschutz-Grundverordnung (DS-GVO) bietet die OpenProject GmbH als Auftragsverarbeiter unseren Kunden als Auftraggebern eine [Zusatzvereinbarung zur Auftragsverarbeitung](https://www.openproject.org/de/rechtliches/vertrag-zur-auftragsverarbeitung/) an. Diese Vereinbarung zur Auftragsverarbeitung regelt die Verpflichtungen der Vertragsparteien zum Datenschutz, die sich aus dem Leistungsvertrag nebst Produktbeschreibungen ergeben.
+Im Zusammenhang mit unserer OpenProject Enterprise Cloud (SaaS) bieten wir als Auftragsverarbeiter unseren Kunden als Auftraggebern eine [Zusatzvereinbarung zur Auftragsverarbeitung gemäß Art. 28 DS-GVO](https://www.openproject.org/de/rechtliches/vertrag-zur-auftragsverarbeitung/) an. Diese Vereinbarung zur Auftragsverarbeitung regelt die Verpflichtungen der Vertragsparteien zum Datenschutz, die sich aus dem Leistungsvertrag nebst Produktbeschreibungen ergeben.
 
 ### Optionale Authentifizierung über externe Authentifizierungsanbieter (Google)
 
@@ -439,7 +443,7 @@ Die Weitergabe Ihrer Daten erfolgt ausschließlich zum Zwecke der Zahlungsabwick
 
 #### Dauer der Speicherung Ihrer personenbezogenen Daten
 
-Wir verarbeiten Ihre Daten für die Dauer unserer Vertragsbeziehung. Das schließt auch die Anbahnung eines Vertrages mit ein (vorvertragliches Rechtsverhältnis). Die Löschung Ihrer Daten erfolgt nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen. Diese betragen gemäß § 147 Abs. 1 Abgabenordnung (AO) für Buchungsbelege 10 Jahre und gemäß § 257 Abs. 1 Handelsgesetzbuch (HGB) für Geschäftsunterlagen 6 Jahre.
+Wir verarbeiten Ihre Daten für die Dauer unserer Vertragsbeziehung. Das schließt auch die Anbahnung eines Vertrages mit ein (vorvertragliches Rechtsverhältnis). Die Löschung Ihrer Daten erfolgt nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen. Diese betragen gemäß § 147 Abgabenordnung (AO) für Buchungsbelege volle 10 Jahre und gemäß § 257 Handelsgesetzbuch (HGB) für Geschäftsunterlagen volle 6 Jahre.
 
 ## Rechtsgrundlage
 
@@ -455,13 +459,13 @@ Wir verwenden die erfassten Daten zur Verwaltung Ihres Benutzerkontos sowie für
 
 ## Dauer der Speicherung Ihrer personenbezogenen Daten
 
-Wir verarbeiten Ihre Daten für die Dauer unserer Vertragsbeziehung. Das schließt auch die Anbahnung eines Vertrages mit ein (vorvertragliches Rechtsverhältnis). Ihre OpenProject-Instanz wird automatisch sechs Monate nach Ablauf Ihres Vertrages gelöscht. Dies beinhaltet die von Ihnen eingetragenen Inhalte. Eine weitergehende Löschung Ihrer Daten erfolgt nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen. Diese betragen gemäß § 147 Abs. 1 Abgabenordnung (AO) für Buchungsbelege 10 Jahre und gemäß § 257 Abs. 1 Handelsgesetzbuch (HGB) für Geschäftsunterlagen 6 Jahre.
+Wir verarbeiten Ihre Daten für die Dauer unserer Vertragsbeziehung. Das schließt auch die Anbahnung eines Vertrages mit ein (vorvertragliches Rechtsverhältnis). Ihre OpenProject-Instanz wird automatisch sechs Monate nach Ablauf Ihres Vertrages gelöscht. Dies beinhaltet die von Ihnen eingetragenen Inhalte. Eine weitergehende Löschung Ihrer Daten erfolgt nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen. Diese betragen gemäß § 147 Abgabenordnung (AO) für Buchungsbelege volle 10 Jahre und gemäß § 257 Handelsgesetzbuch (HGB) für Geschäftsunterlagen volle 6 Jahre.
 
-# E: OpenProject Enterprise On-Premises
+# 5. OpenProject Enterprise On-Premises
 
 ## Umfang der Datenverarbeitung
 
-Auf unserer Webseite bieten wir Ihnen die Möglichkeit, in unserem Buchungssystem Bestellungen zu tätigen oder sich im Vorfeld ein kostenloses Angebot zukommen zu lassen. Um die Bestellung abwickeln zu können, verarbeiten wir die von Ihnen im Rahmen des Bestellvorgangs oder des Angebotsvorgangs angegebenen personenbezogene Daten (u.a. Name, Rechnungsanschrift, E-Mail-Adresse, Zahlungsdaten). Wir verwenden die Daten für die Bestellabwicklung und ggfs. für die Kommunikation mit Ihnen. Wir geben Ihre Daten im Rahmen des gesetzlich Zulässigen an unsere Dienstleister weiter, die uns bei den Abrechnungsmodalitäten unterstützen. Diese Unternehmen sind ihrerseits verpflichtet, die geltenden Datenschutzbestimmungen einzuhalten, insbesondere dürfen diese Unternehmen die Daten ausschließlich zur Erfüllung ihrer Aufgaben in unserem Auftrag und nur nach unserer Weisung verarbeiten.
+Auf unseren Webseiten bieten wir Ihnen die Möglichkeit, in unserem Buchungssystem Bestellungen zu tätigen oder sich im Vorfeld ein kostenloses Angebot zukommen zu lassen. Um die Bestellung abwickeln zu können, verarbeiten wir die von Ihnen im Rahmen des Bestellvorgangs oder des Angebotsvorgangs angegebenen personenbezogene Daten (u.a. Name, Rechnungsanschrift, E-Mail-Adresse, Zahlungsdaten). Wir verwenden die Daten für die Bestellabwicklung und ggfs. für die Kommunikation mit Ihnen. Wir geben Ihre Daten im Rahmen des gesetzlich Zulässigen an unsere Dienstleister weiter, die uns bei den Abrechnungsmodalitäten unterstützen. Diese Unternehmen sind ihrerseits verpflichtet, die geltenden Datenschutzbestimmungen einzuhalten, insbesondere dürfen diese Unternehmen die Daten ausschließlich zur Erfüllung ihrer Aufgaben in unserem Auftrag und nur nach unserer Weisung verarbeiten.
 
 ### Kreditkarten-Zahlungen (Stripe)
 
@@ -492,15 +496,11 @@ Die Weitergabe Ihrer Daten erfolgt ausschließlich zum Zwecke der Zahlungsabwick
 
 #### Dauer der Speicherung Ihrer personenbezogenen Daten
 
-Wir verarbeiten Ihre Daten für die Dauer unserer Vertragsbeziehung. Das schließt auch die Anbahnung eines Vertrages mit ein (vorvertragliches Rechtsverhältnis). Die Löschung Ihrer Daten erfolgt nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen. Diese betragen gemäß § 147 Abs. 1 Abgabenordnung (AO) für Buchungsbelege 10 Jahre und gemäß § 257 Abs. 1 Handelsgesetzbuch (HGB) für Geschäftsunterlagen 6 Jahre.
+Wir verarbeiten Ihre Daten für die Dauer unserer Vertragsbeziehung. Das schließt auch die Anbahnung eines Vertrages mit ein (vorvertragliches Rechtsverhältnis). Die Löschung Ihrer Daten erfolgt nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen. Diese betragen gemäß § 147 Abgabenordnung (AO) für Buchungsbelege volle 10 Jahre und gemäß § 257 Handelsgesetzbuch (HGB) für Geschäftsunterlagen volle 6 Jahre.
 
 ## Rechtsgrundlage
 
 Die Datenverarbeitung im Zusammenhang mit dem Bestellprozess erfolgt auf Grundlage des Art. 6 Absatz 1 lit. b DS-GVO, d.h. die Verarbeitung Ihrer Daten ist für die Bestellabwicklung erforderlich.
-
-**Widerspruchsrecht**
-
-> Nach Art. 21 DS-GVO haben Sie das Recht, der Verarbeitung Ihrer personenbezogenen Daten jederzeit mit Wirkung für die Zukunft zu widersprechen, beispielsweise per E-Mail an privacy@openproject.com.Wir verarbeiten Ihre personenbezogenen Daten in der Folge nicht weiter, es sei denn, wir können zwingende schutzwürdige Gründe für unsere Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
 
 ## Zweck der Datenverarbeitung
 
@@ -508,11 +508,11 @@ Zweck der Datenverarbeitung ist die Abwicklung von über unser Buchungstool gesc
 
 ## Dauer der Speicherung Ihrer personenbezogenen Daten
 
-Wir verarbeiten Ihre Daten für die Dauer unserer Vertragsbeziehung. Das schließt auch die Anbahnung eines Vertrages mit ein (vorvertragliches Rechtsverhältnis). Die Löschung Ihrer Daten erfolgt nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen. Diese betragen gemäß § 147 Abs. 1 Abgabenordnung (AO) für Buchungsbelege 10 Jahre und gemäß § 257 Abs. 1 Handelsgesetzbuch (HGB) für Geschäftsunterlagen 6 Jahre.
+Wir verarbeiten Ihre Daten für die Dauer unserer Vertragsbeziehung. Das schließt auch die Anbahnung eines Vertrages mit ein (vorvertragliches Rechtsverhältnis). Die Löschung Ihrer Daten erfolgt nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen. Diese betragen gemäß § 147 Abgabenordnung (AO) für Buchungsbelege volle 10 Jahre und gemäß § 257 Handelsgesetzbuch (HGB) für Geschäftsunterlagen volle 6 Jahre.
 
 Die Bereitstellung Ihrer personenbezogenen Daten ist für einen Vertragsabschluss erforderlich.
 
-# F: OpenProject Community-Plattform
+# 6. OpenProject Community-Plattform
 
 Für die Vernetzung der Open Source Community und zur Weiterentwicklung der OpenProject-Applikation betreibt OpenProject eine öffentlich zugängliche [OpenProject-Instanz](https://community.openproject.com/) innerhalb der OpenProject SaaS-Plattform, d.h. Nutzer können ohne Login die öffentlichen Inhalte anderer Nutzer einsehen (z.b. Forenbeiträge, Fehlerberichte, Anforderungen). Für die Erstellung eines Beitrages ist die vorherige Registrierung eines Benutzerkontos erforderlich.
 
@@ -531,7 +531,7 @@ Für die Erstellung eines Beitrages auf unserer SaaS-Plattform ist die Registrie
 
 **Für die Authentifizierung gegenüber OpenProject können Sie alternativ auch Ihr bestehendes Google Konto verwenden. Wir empfehlen jedoch, zum Schutz Ihrer personenbezogenen Daten auf die Nutzung von Google-Diensten zu verzichten**.
 
-Bei der Anmeldung werden Sie an Server der Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland weitergeleitet. Hierbei wird Ihre IP-Adresse und weitere personenbezogenen Daten von Google erhoben. Sie können dabei nicht auszuschließen, dass Daten auch in die USA übertragen werden. Nähere Informationen zu Datenschutzbestimmungen von Google finden Sie unter https://policies.google.com/privacy.
+Bei der Anmeldung werden Sie an Server der Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland weitergeleitet. Hierbei wird Ihre IP-Adresse und weitere personenbezogenen Daten von Google erhoben. Es kann dabei nicht ausgeschlossen werden, dass Daten auch in die USA übertragen werden. Nähere Informationen zu Datenschutzbestimmungen von Google finden Sie unter https://policies.google.com/privacy.
 
 ### Erstellen eines Nutzerbeitrages
 
@@ -545,23 +545,26 @@ In der Projektumgebung können Sie sich mit anderen Nutzern zu verschiedenen The
 
 **Die Verwendung von Google reCAPTCHA ist ein Relikt aus alter Zeit (Data Privacy Debt). Wir arbeiten derzeit an der vollständigen Ablösung dieses Dienstes.**
 
-In der Community Plattform können sich Nutzer selbständig und ohne manuelle Freigabe durch einen Moderator ein Benutzerkonto registrieren. Um hier Missbrauch durch automatisierte Programme (Bots) zu verhindern, setzen wir bei der Registrierung den Dienst reCAPTCHA von Google ein . Hierzu analysiert Google reCAPTCHA Ihren Webseitenbesuch anhand verschiedener Merkmale. Diese Analyse beginnt automatisch, sobald Sie das Registrierungsformular besuchen. Zur Analyse werden verschiedene Informationen (z.B. IP-Adresse, Ihre Verweildauer auf unseren Webseiten oder Ihre getätigte Mausbewegungen) ausgewertet. Die bei der Analyse erfassten Daten werden an Google übermittelt. Hierbei kann nicht ausgeschlossen werden, dass Google die Informationen auch an einen US-amerikanischen Server übermittelt. Weiterführende Informationen zu Google reCAPTCHA sowie die Datenschutzerklärung von Google können Sie einsehen unter: https://www.google.com/intl/de/policies/privacy/
+In der Community Plattform können sich Nutzer selbständig und ohne manuelle Freigabe durch einen Moderator ein Benutzerkonto registrieren. Um hier Missbrauch durch automatisierte Programme (Bots) zu verhindern, setzen wir bei der Registrierung den Dienst reCAPTCHA von Google ein. Hierzu analysiert Google reCAPTCHA Ihren Webseitenbesuch anhand verschiedener Merkmale. Diese Analyse beginnt automatisch, sobald Sie das Registrierungsformular besuchen. Zur Analyse werden verschiedene Informationen (z.B. IP-Adresse, Ihre Verweildauer auf unseren Webseiten oder Ihre getätigte Mausbewegungen) ausgewertet. Die bei der Analyse erfassten Daten werden an Google übermittelt. Hierbei kann nicht ausgeschlossen werden, dass Google die Informationen auch an einen US-amerikanischen Server übermittelt. Weiterführende Informationen zu Google reCAPTCHA sowie die Datenschutzerklärung von Google können Sie einsehen unter: https://www.google.com/intl/de/policies/privacy/
 
 Rechtsgrundlage für die Verarbeitung der Daten ist Art. 6 Abs. 1 lit. f DS-GVO. Unser hierfür erforderliches berechtigtes Interesse liegt in der Verhinderung von missbräuchlichen Verhalten auf unseren Webseiten. Der Einsatz von Google reCAPTCHA erhöht den Grad der Zuverlässigkeit der auf unseren Webseiten vorgenommenen Eingaben und führt zur Beschleunigung und Vereinfachung unseres Arbeitsaufwandes.
 
 **Widerspruchsrecht**
 
-> Nach Art. 21 DS-GVO haben Sie das Recht, der Verarbeitung Ihrer personenbezogenen Daten jederzeit mit Wirkung für die Zukunft zu widersprechen, beispielsweise per E-Mail an privacy@openproject.com.Wir verarbeiten Ihre personenbezogenen Daten in der Folge nicht weiter, es sei denn, wir können zwingende schutzwürdige Gründe für unsere Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+> Nach Art. 21 DS-GVO haben Sie das Recht, der Verarbeitung Ihrer personenbezogenen Daten jederzeit mit Wirkung für die Zukunft zu widersprechen, beispielsweise per E-Mail an privacy@openproject.com. Wir verarbeiten Ihre personenbezogenen Daten in der Folge nicht weiter, es sei denn, wir können zwingende schutzwürdige Gründe für unsere Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
 >
 > Sie sind nicht zur Bereitstellung Ihrer personenbezogenen Daten verpflichtet. Die Bereitstellung ist weder gesetzlich oder vertraglich vorgeschrieben noch für einen Vertragsabschluss erforderlich. Die Nichtbereitstellung könnte jedoch ggfs. zur Folge habe, dass Sie unsere Webseiten nicht bzw. nicht vollumfänglich nutzen können.
 
 ## Rechtsgrundlage
 
-Rechtsgrundlage für die Verarbeitung Ihrer Daten ist neben Ihrer Einwilligung gem. Art. 6 Absatz 1 lit. a DS-GVO unser berechtigtes Interesse gem. Art. 6 Abs. 1 lit. f DS-GVO. Es ist unser berechtigtes Interesse, die von Ihnen verfassten Kommentare im Rahmen unserer Community Plattform zu verarbeiten.
+Rechtsgrundlage für die Verarbeitung Ihrer Daten im Zusammenhang mit der OpenProjct Community-Plattform ist neben Ihrer Einwilligung gem. Art. 6 Absatz 1 lit. a DS-GVO unser berechtigtes Interesse gem. Art. 6 Abs. 1 lit. f DS-GVO. Es ist unser berechtigtes Interesse, die von Ihnen verfassten Kommentare im Rahmen unserer Community Plattform zu verarbeiten.
 
-**Widerspruchsrecht**
+### Widerrufsrecht 
+Sie haben das Recht, Ihre Einwilligung jederzeit ohne Angabe von Gründen mit Wirkung für die Zukunft zu widerrufen, beispielsweise indem Sie Ihren Beitrag löschen. In diesem Fall können Sie jedoch nicht weiter auf unsere Systeme zugreifen.
 
+### Widerspruchsrecht 
 > Nach Art. 21 DS-GVO haben Sie das Recht, der Verarbeitung Ihrer personenbezogenen Daten jederzeit mit Wirkung für die Zukunft zu widersprechen, beispielsweise per E-Mail an privacy@openproject.com. Wir verarbeiten Ihre personenbezogenen Daten in der Folge nicht weiter, es sei denn, wir können zwingende schutzwürdige Gründe für unsere Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+>
 
 ## Zweck der Datenverarbeitung
 
@@ -579,7 +582,7 @@ Der Nutzer kann sein Nutzerkonto selbständig löschen. Hierbei werden folgende 
 
 Die Kommentare und die damit verbundenen Daten (z.B. IP-Adresse) werden gespeichert und verbleiben auf dieser Umgebung, bis der kommentierte Inhalt vollständig gelöscht wurde oder die Kommentare aus rechtlichen Gründen gelöscht werden müssen (z.B. beleidigende Kommentare). Sofern Sie Ihr Nutzerkonto gelöscht haben, werden alle erstellten Beiträge einem anonymen Sammelnutzer zugeordnet. Gesetzliche Aufbewahrungsfristen bleiben unberührt.
 
-# G: OpenProject Release API
+# 7. OpenProject Release API
 
 Die Release API ermöglicht es Nutzern einer selbstgehosteten OpenProject-Applikation, zu prüfen, ob eine neue Software-Versionen veröffentlicht wurde.
 
@@ -604,7 +607,7 @@ Für die Anonymisierung des Aufrufs enthält der Aufruf ein zufällig generierte
 
 ## Rechtsgrundlage der Datenverarbeitung
 
-Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 lit. f DS-GVO.
+Rechtsgrundlage für die Verarbeitung im Zusammenhang mit der OpenProject Release API ist Art. 6 Abs. 1 lit. f DS-GVO.
 
 ## Widerspruchsrecht
 
@@ -620,7 +623,7 @@ Zweck dieser Funktion ist die Vermeidung fehlerhafter und unsicherer OpenProject
 
 Server-Logs werden für maximal 90 Tage gespeichert.
 
-# H: Bewerbung
+# 8. Bewerbung
 
 ## Umfang der Datenverarbeitung
 
@@ -628,7 +631,7 @@ Server-Logs werden für maximal 90 Tage gespeichert.
 
 Auf unseren [Webseiten](https://www.openproject.org/career/) bieten wir Ihnen die Möglichkeit, sich unter Angabe personenbezogener Daten auf ausgeschriebene Stellenangebote zu bewerben. Ihre im Zusammenhang mit Ihrer Bewerbung übermittelten personenbezogenen Daten werden durch uns gespeichert. Welche Daten verarbeitet werden, ist aus den jeweiligen Eingabeformularen ersichtlich. In den Formularen sind nur solche Felder als Pflichtfelder angegeben, die zwingend zur Nutzung des jeweiligen Angebots erforderlich sind.
 
-Für die Bearbeitung Ihrer Bewerbung nutzen wir das Online Bewerbungstool von SmartRecruiters Inc. 225 Bush Street, Suite #300, San Francisco CA 94 104. Dieses Unternehmen ist seinerseits verpflichtet, die geltenden Datenschutzbestimmungen einzuhalten, insbesondere darf das Unternehmen die Daten ausschließlich zur Erfüllung seiner Aufgaben in unserem Auftrag und nur nach unserer Weisung verarbeiten. Weitere Informationen zum Datenschutz finden Sie unter: https://www.smartrecruiters.com/legal/candidate-privacy-policy/august-13-2020/.
+Für die Bearbeitung Ihrer Bewerbung nutzen wir das Online Bewerbungstool von SmartRecruiters Inc. 225 Bush Street, Suite #300, San Francisco CA 94 104, USA. Wir haben mit diesem Dienstleister einen Auftragsverarbeitungsvertrag abgeschlossen. Dieses Unternehmen ist seinerseits verpflichtet, die geltenden Datenschutzbestimmungen einzuhalten, insbesondere darf das Unternehmen die Daten ausschließlich zur Erfüllung seiner Aufgaben in unserem Auftrag und nur nach unserer Weisung verarbeiten. Weitere Informationen zum Datenschutz finden Sie unter: https://www.smartrecruiters.com/legal/candidate-privacy-policy/august-13-2020/.
 
 Für Ihre Teilnahme am Bewerbungsverfahren ist die Angabe personenbezogener Daten notwendig, die aus den von Ihnen uns bereitgestellten Dokumenten wie Bewerbungsanschreiben, Lebenslauf, Bewerbungsfoto, Zeugnissen oder anderen berufsqualifizierenden Nachweisen entstammen. Bei diesen Daten kann es sich unter anderem um persönliche Stammdaten wie Name, Anschrift, Geburtsdatum, Kontaktdaten wie Telefonnummer oder E-Mail-Adresse sowie auch um Daten im Zusammenhang mit Ihrem schulischen und/oder beruflichen Werdegang wie Schul- und Arbeitszeugnisse, Daten über Ausbildungen, Praktika oder frühere Arbeitgeber handeln.
 
@@ -641,11 +644,7 @@ Neben der Bewerbung per Online-Tool können Sie uns Ihre Bewerbungsunterlagen au
 
 ## Rechtsgrundlage
 
-Die Verarbeitung personenbezogener Daten erfolgt auf Grundlage von Art. 88 Abs. 1 DS-GVO i.V.m. § 26 BDSG.
-
-**Widerrufsrecht**
-
-> Sie haben das Recht, Ihre Einwilligung jederzeit ohne Angabe von Gründen mit Wirkung für die Zukunft zu widerrufen. Senden Sie hierzu bitte eine E-Mail an privacy@openproject.com. In diesem Fall werden Ihre Daten aus unserem Bewerberpool gelöscht.
+Die Verarbeitung personenbezogener Daten im Zusammenhang mit Ihrer Bewerbung erfolgt auf Grundlage von Art. 88 Abs. 1 DS-GVO i.V.m. § 26 BDSG.
 
 ## Zweck der Datenverarbeitung
 
@@ -655,6 +654,6 @@ Die im Rahmen Ihrer Bewerbung angegebenen personenbezogenen Daten werden von uns
 
 Für den Fall, dass die Bewerbung in einem Beschäftigungsverhältnis mündet, werden Ihre personenbezogenen Daten in die Personalakte überführt.
 
-Im Falle der Absage einer Bewerbung werden die Daten sechs Monate nach Absage einer Bewerbung von uns gelöscht, es sei denn, Sie haben in die Aufnahme Ihrer personenbezogenen Daten in unseren Bewerberpool eingewilligt. Rechtsgrundlage der Verarbeitung ist in diesem Fall Art. 6 Abs. 1 lit. a DS-GVO. Die uns erteilte Einwilligung können Sie jederzeit widerrufen.
+Im Falle der Absage einer Bewerbung werden die Daten sechs Monate nach Absage einer Bewerbung von uns gelöscht, es sei denn, Sie haben in die Aufnahme Ihrer personenbezogenen Daten in unseren Bewerberpool eingewilligt. Rechtsgrundlage der Verarbeitung ist in diesem Fall Art. 6 Abs. 1 lit. a DS-GVO.
 
 # Matomo Opt-Out
