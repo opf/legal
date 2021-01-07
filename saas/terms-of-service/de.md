@@ -100,7 +100,7 @@ Stand: 15.12.2020
 ## § 10 Datenschutz
 
 1. Der Kunde wird bei der Nutzung der Software die anwendbaren datenschutzrechtlichen Bestimmungen einhalten. OpenProject ist insoweit nicht Verantwortlicher im Sinne des Art. 4 Nr. 7 DS-GVO.
-2. Die Vertragsparteien sind sich einig, dass separat in einem Vertrag zur Auftragsverarbeitung insbesondere Gegenstand und Dauer der Verarbeitung, Art und Zweck der Verarbeitung, die Art der personenbezogenen Daten, die Kategorien betroffener Personen und die im Rahmen der Auftragsverarbeitung bestehenden Pflichten und Rechte des Kunden festgelegt werden.
+2. Die Vertragsparteien sind sich einig, dass in einem [Vertrag zur Auftragsverarbeitung](https://www.openproject.org/de/rechtliches/vertrag-zur-auftragsverarbeitung/) insbesondere Gegenstand und Dauer der Verarbeitung, Art und Zweck der Verarbeitung, die Art der personenbezogenen Daten, die Kategorien betroffener Personen und die im Rahmen der Auftragsverarbeitung bestehenden Pflichten und Rechte des Kunden festgelegt werden.
 
 ## § 11 Übertragung von Rechten und Pflichten
 
