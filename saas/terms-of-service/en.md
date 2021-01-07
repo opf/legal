@@ -2,7 +2,7 @@
 
 # Terms of Use for OpenProject Enterprise Cloud
 
-Last updated: 12/19/2020
+Last updated: 01/07/2021
 
 ## Preamble
 
@@ -102,7 +102,7 @@ Last updated: 12/19/2020
 ## § 10 Data protection
 
 1. The Customer shall comply with the applicable legal data protection regulations when using the Software. OpenProject is not the controller as defined in Article 4(7) GDPR in this respect.
-2. The Parties agree that the object and duration of the processing, the nature and purpose of the processing, the nature of the personal data, the categories of data subjects and the Customer’s rights and obligations in relation to the processing in particular will be stipulated in a separate data processing agreement.
+2. The Parties agree that the object and duration of the processing, the nature and purpose of the processing, the nature of the personal data, the categories of data subjects and the Customer’s rights and obligations in relation to the processing in particular will be stipulated in a [data processing agreement](https://www.openproject.org/legal/data-processing-agreement/).
 
 ## § 11 Transfer of rights and obligations
 
