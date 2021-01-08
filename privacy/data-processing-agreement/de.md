@@ -41,7 +41,7 @@ Mit Abschluss dieser Vereinbarung werden alle, soweit vorhanden, vorherigen gesc
 
 ## § 2 Ort der vorgesehenen Verarbeitung von Daten
 
-Die Erbringung der vertraglich vereinbarten Datenverarbeitung findet innerhalb der Europäischen Union (EU) bzw. innerhalb des Europäischen Wirtschaftsraums (EWR) statt. Die Übermittlung personenbezogener Daten an Stellen, die weder in einem Mitgliedsstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ansässig sind (sog. Drittstaat), bedarf der Zustimmung des Auftraggebers und darf nur erfolgen, wenn die besonderen Voraussetzungen der Art. 44 ff. DS-GVO erfüllt sind.
+Die Erbringung der vertraglich vereinbarten Datenverarbeitung findet innerhalb der Europäischen Union (EU) bzw. innerhalb des Europäischen Wirtschaftsraums (EWR) statt. Die Übermittlung personenbezogener Daten an Stellen, die weder in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ansässig sind (sog. Drittstaat), bedarf der Zustimmung des Auftraggebers und darf nur erfolgen, wenn die besonderen Voraussetzungen der Art. 44 ff. DS-GVO erfüllt sind.
 
 ## § 3 Art der Daten und Kreis der Betroffenen
 
