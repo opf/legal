@@ -47,7 +47,7 @@ Die Erbringung der vertraglich vereinbarten Datenverarbeitung findet innerhalb d
 
 1. Gegenstand der Verarbeitung personenbezogener Daten sind folgende Datenarten/-kategorien (Aufzählung/Beschreibung der Datenkategorien):
    - Name
-   - Email-Addresse
+   - Email-Adresse
    - Profilbild (Avatar-Bild)
    - Mobilfunknummer (optional im Falle der Nutzung der Zweifaktor-Authentifizierung)
 
