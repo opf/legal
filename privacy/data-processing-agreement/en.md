@@ -57,7 +57,8 @@ The Processor shall process data through its own personnel only within the EEA. 
 
 ## § 4 Technical and organizational measures
 
-The Processor shall structure their internal organization in such a way that they will meet the special requirements applicable to data protection. The measures implemented by the Processor are set out in Annex 1 to this contract data processing agreement. The Processor shall keep their documentation of technical and organizational measures up to date at all times.
+1. The Processor shall organize its internal organization in such a way that it meets the special requirements of data protection. The measures taken by the Processor are listed in the overview of [technical and organizational measures](https://www.openproject.org/legal/data-processing-agreement/technical-and-organizational-data-security-measures).
+2. The Parties agree that changes to the technical and organizational measures may be necessary in order to adapt to technical and legal circumstances. The Contractor shall coordinate significant changes that may affect the integrity, confidentiality or availability of the personal data with the Controller in advance. Measures that involve only minor technical or organizational changes and do not negatively affect the integrity, confidentiality and availability of the personal data may be implemented by the Processor without coordination with the Controller. 
 
 ## § 5 Rectification, restriction and erasure of data
 

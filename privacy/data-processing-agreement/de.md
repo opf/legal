@@ -57,7 +57,8 @@ Der Auftragnehmer verarbeitet durch eigenes Personal Daten nur innerhalb des EWR
 
 ## § 4 Technisch-organisatorische Maßnahmen
 
-Der Auftragnehmer wird seine innerbetriebliche Organisation so gestalten, dass sie den besonderen Anforderungen des Datenschutzes gerecht wird. Die vom Auftragnehmer ergriffenen Maßnahmen sind in Anlage 1 dieser Vereinbarung zur Auftragsverarbeitung aufgeführt. Der Auftragnehmer wird die Dokumentation der technischen und organisatorischen Maßnahmen auf dem jeweils aktuellen Stand halten.
+1. Der Auftragnehmer wird seine innerbetriebliche Organisation so gestalten, dass sie den besonderen Anforderungen des Datenschutzes gerecht wird. Die vom Auftragnehmer ergriffenen Maßnahmen sind in der Übersicht über die [technischen und organisatorischen Maßnahmen](https://www.openproject.org/de/rechtliches/vertrag-zur-auftragsverarbeitung/technische-und-organisatorische-massnahmen/ ) aufgeführt.
+2. Die Parteien sind sich darüber einig, dass zur Anpassung an technische und rechtliche Gegebenheiten Änderungen der technischen und organisatorischen Maßnahmen erforderlich werden können. Wesentliche Änderungen, die die Integrität, Vertraulichkeit oder Verfügbarkeit der personenbezogenen Daten beeinträchtigen können, wird der Auftragnehmer im Voraus mit dem Auftraggeber abstimmen. Maßnahmen, die lediglich geringfügige technische oder organisatorische Änderungen mit sich bringen und die Integrität, Vertraulichkeit und Verfügbarkeit der personenbezogenen Daten nicht negativ beeinträchtigen, können vom Auftragnehmer ohne Abstimmung mit dem Auftraggeber umgesetzt werden. 
 
 ## § 5 Berichtigung, Einschränkung und Löschung von Daten
 
