@@ -52,20 +52,8 @@ The Processor shall process data through its own personnel only within the EEA. 
    - Profile picture (avatar image)
 
 2. The categories of data subjects affected by the processing include:
-   - Employees of the Controller
-   - Customers of the Controller
-   - Suppliers of the Controller
-
-3. For billing purposes the Processor processes the following data from the Controller:
-   - Company name
-   - Billing address
-   - Bank details
-   - VAT ID
-
-4. For the purpose of optimizing the product and service the Contractor processes the following data from the Controller:
-   - Feedback and suggestions for improvement
-   - User behavior
-   - Ratings
+   - Persons for whom users store data in the application, e.g. customers, employees or contractors of the client
+   
 
 ## § 4 Technical and organizational measures
 

@@ -52,21 +52,8 @@ Der Auftragnehmer verarbeitet durch eigenes Personal Daten nur innerhalb des EWR
    - Mobilfunknummer (optional im Falle der Nutzung der Zweifaktor-Authentifizierung)
 
 2. Die Kategorien der durch die Verarbeitung betroffenen Personen umfassen:
-   - Mitarbeiter des Auftraggebers
-   - Kunden des Auftraggebers
-   - Lieferanten des Auftraggebers
-
-3. Zum Zwecke der Abrechnung der erbrachten Leistung erfasst der Auftragnehmer folgende Daten des Auftraggebers:
-   - Unternehmensname
-   - Adresse
-   - Telefonnummer
-   - Bankverbindung
-   - Umsatzsteuer-Identifikationsnummer
-
-4. Zum Zwecke der Optimierung des Produktes sowie der Dienstleistung verarbeitet der Auftragnehmer zusätzlich folgende Daten des Auftraggebers:
-   - Verbesserungsvorschläge
-   - Nutzungsverhalten
-   - Bewertungen
+   - Personen, zu denen Benutzer Daten in der Anwendung speichern, z. B. Kunden, Mitarbeiter oder Dienstleister des Auftraggebers
+   
 
 ## § 4 Technisch-organisatorische Maßnahmen
 
