@@ -1,6 +1,6 @@
 # Vertrag zur Auftragsverarbeitung
 
-Zusatzvereinbarung zur Auftragsverarbeitung gemäß Art. 28 DS-GVO zwischen
+Vereinbarung zur Auftragsverarbeitung gemäß Art. 28 DS-GVO zwischen
 
 NAME  
 ORGANIZATION  
@@ -29,7 +29,9 @@ Diese Vereinbarung zur Auftragsverarbeitung regelt die Verpflichtungen der Vertr
 **URL:**            ________________________________  
 **Vertragsdatum:**  ________________________________
 
-Sie findet Anwendung auf alle Tätigkeiten, die mit dem Hauptvertrag in Zusammenhang stehen und bei denen Beschäftigte des Auftragnehmers oder durch den Auftragnehmer beauftragte Dritte mit personenbezogenen Daten des Auftraggebers in Berührung kommen können. Der Auftragnehmer wird für den Auftraggeber personenbezogene Daten ausschließlich im Rahmen dieser Vereinbarung zur Auftragsverarbeitung gemäß Art. 28 DS-GVO erheben, verarbeiten und sonst wie nutzen. Mit Abschluss dieser Vereinbarung werden alle, soweit vorhanden, vorherigen geschlossenen AV-Verträge hinfällig.
+Sie findet Anwendung auf alle Tätigkeiten des Auftragnehmers, durch die er personenbezogene Daten im Auftrag des Auftraggebers verarbeitet.  Grundsätzlich bezieht sich das auf die Bereitstellung des Produkts [OpenProject Enterprise Cloud](https://www.openproject.org/de/rechtliches/leistungsbeschreibung/) als Software-as-a-Service. Die Verarbeitung personenbezogener Daten umfasst zum einen die Daten der Benutzer von OpenProject und zum anderen die personenbezogenen Daten, die von den Benutzern in OpenProject gespeichert werden (z. B. Kommentare zu Arbeitspaketen).
+
+Mit Abschluss dieser Vereinbarung werden alle, soweit vorhanden, vorherigen geschlossenen AV-Verträge hinfällig.
 
 ## § 1 Anwendungsbereich und Verantwortlichkeit
 
@@ -149,29 +151,3 @@ Sollten einzelne oder mehrere Bestimmungen dieser Vereinbarung ganz oder teilwei
 ## § 15 Inkrafttreten
 
 Diese Vereinbarung tritt mit ihrer Unterzeichnung in Kraft.
-
-## § 16 Anhänge
-
-Dieser Vereinbarung zur Auftragsverarbeitung sind folgende Anlagen beigefügt:
-
--  Anlage 1: Technisch-organisatorische Maßnahmen
-
-## § 17 Unterschriften
-
-**Auftraggeber**
-
-\__________________
-
-NAME - ORGANIZATION
-
-CITY, YYYY-MM-DD
-
-
-
-**Auftragnehmer**
-
-![Signature](Signature_Lindenthal.png)
-
-Niels Lindenthal - OpenProject GmbH
-
-Berlin, YYYY-MM-DD

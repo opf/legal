@@ -1,6 +1,6 @@
 # Data Processing Agreement
 
- Supplemental agreement for contract data processing pursuant to Article 28 GDPR between
+ Agreement for contract data processing pursuant to Article 28 GDPR between
 
  NAME  
  ORGANIZATION  
@@ -29,7 +29,9 @@ This contract data processing agreement governs the obligations of the contracti
 **URL:**             ________________________________  
 **Contract date:**   ________________________________
 
-This agreement applies to all activities related to the primary contract in which employees of the Processor or agents of the Processor may come into contact with personal data of the Controller. The Processor will collect, process and otherwise use personal data for the Controller exclusively within the scope of this contract data processing agreement in accordance with Art. 28 GDPR. Upon conclusion of this agreement, all previously concluded Data Privacy Agreements, if any, shall become invalid.
+It applies to all data-processing activities of the Processor which is required to provide the SaaS product [OpenProject Enterprise Cloud](https://www.openproject.org/de/rechtliches/leistungsbeschreibung/). The processing of personal data includes the data of the users of OpenProject and also the user-generated data entered by the users in OpenProject (e.g. comments on work packages).
+
+Upon conclusion of this agreement, all previously concluded Data Privacy Agreements, if any, shall become invalid.
 
 ## § 1 Scope and responsibilities
 
@@ -144,29 +146,3 @@ Should one or more provisions of this agreement be or become invalid or unenforc
 ## § 15 Effective date
 
 This agreement is effective upon its signing.
-
-## § 16 Annexes
-
-The following Annexes are appended to this contract data processing agreement:
-
--  Annex 1: Technical and organizational data security measures
-
-## § 17 Signatures
-
-**Controller**
-
-\__________________
-
-NAME - ORGANIZATION
-
-CITY, YYYY-MM-DD
-
-
-
-**Processor**
-
-![Signature](Signature_Lindenthal.png)
-
-Niels Lindenthal - OpenProject GmbH
-
-Berlin, YYYY-MM-DD
