@@ -37,7 +37,7 @@ Upon conclusion of this agreement, all previously concluded Data Privacy Agreeme
 
 1. The subject, type and purpose of the contract are activities whose specification is based on the service contract referred to above and the associated product descriptions.
 2. The Processor shall not use data provided to them for processing for any other purposes. Copies and/or duplicates may not be made without the knowledge of the Controller. This does not include backup copies, to the extent necessary to ensure proper data processing, and data required to comply with the statutory retention obligations.
-3. The Controller is solely responsible for assessing the lawfulness of the collection, processing and use of personal data by the Processor within the framework of their contractual relationship with regard to the provisions of the European General Data Protection Regulation (GDPR) and other relevant laws and regulations concerning data protection.
+3. The Controller is solely responsible for assessing the lawfulness of the processing of personal data by the Processor within the framework of their contractual relationship with regard to the provisions of the European General Data Protection Regulation (GDPR) and other relevant laws and regulations concerning data protection.
 
 ## § 2 Location of the intended data processing
 
