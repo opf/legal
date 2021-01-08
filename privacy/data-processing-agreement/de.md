@@ -72,7 +72,6 @@ Der Auftragnehmer verarbeitet durch eigenes Personal Daten nur innerhalb des EWR
 1. Der Auftraggeber ist für alle Daten, automatisierte Verfahren und Datenverarbeitungsanlagen in seinem Zuständigkeitsbereich sowie für die Wahrung der Rechte der betroffenen Personen verantwortlich.
 2. Der Auftraggeber hat das Recht die vom Auftragnehmer zur Verfügung gestellten technischen und organisatorischen Maßnahmen dahingehend zu überprüfen, ob diese für seine Datenverarbeitungen angemessen sind. Darüber hinausgehende Maßnahmen sind vom Auftraggeber festzulegen. Die Kosten solcher technischen und organisatorischen Maßnahmen, die aufgrund einer besonderen Anforderung des Auftraggebers im Betrieb des Auftragnehmers implementiert werden müssen, trägt der Auftraggeber.
 3. Der Auftraggeber hat das Recht, Weisungen über Art, Umfang und Ablauf der Arbeiten zu erteilen; sie sind schriftlich zu fassen. Mündliche Weisungen hat der Auftraggeber unverzüglich schriftlich zu bestätigen.
-4. Die weisungs-, empfangs- und kontrollberechtigten Personen sind schriftlich zu benennen. Sie haben sich bei der Ausübung ihrer Befugnisse zu legitimieren.
 
 ## § 7 Pflichten des Auftragnehmers
 

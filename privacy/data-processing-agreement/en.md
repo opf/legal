@@ -71,7 +71,6 @@ The Processor shall process data through its own personnel only within the EEA. 
 1. The Controller is responsible for all data, automated procedures and data processing equipment within their area of responsibility as well as for safeguarding the rights of data subjects.
 2. The Client shall review the technical and organizational measures provided by the Contractor to determine whether they are appropriate for their data processing. Further measures shall be determined by the Client. The costs of such technical and organiational measures that must be implemented as part of the Contractor’s operations due to any special requirement by the Client shall be borne by the Client.
 3. The Controller has the right to issue instructions concerning the type, scope and sequence of the work. All such instructions must be issued in writing. Oral instructions must be confirmed by the Controller in writing without undue delay.
-4. Persons who are authorized to issue instructions, take receipt of consignments and perform monitoring must be named in writing. They must identify themselves when performing their functions.
 
 ## § 7 Duties of the Processor
 
