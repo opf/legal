@@ -146,3 +146,9 @@ Should one or more provisions of this agreement be or become invalid or unenforc
 ## § 15 Effective date
 
 This agreement is effective upon its signing.
+
+![Signature](Signature_Lindenthal.png)
+
+Niels Lindenthal - OpenProject GmbH
+
+Berlin, YYYY-MM-DD

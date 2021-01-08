@@ -151,3 +151,9 @@ Sollten einzelne oder mehrere Bestimmungen dieser Vereinbarung ganz oder teilwei
 ## § 15 Inkrafttreten
 
 Diese Vereinbarung tritt mit ihrer Unterzeichnung in Kraft.
+
+![Signature](Signature_Lindenthal.png)
+
+Niels Lindenthal - OpenProject GmbH
+
+Berlin, YYYY-MM-DD
