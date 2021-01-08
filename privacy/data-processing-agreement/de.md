@@ -37,7 +37,7 @@ Mit Abschluss dieser Vereinbarung werden alle, soweit vorhanden, vorherigen gesc
 
 1. Der Gegenstand, Art und Zweck des Auftrags sind Tätigkeiten, deren Konkretisierung sich aus dem oben bezeichneten Leistungsvertrag und den zugehörigen Produktbeschreibungen ergeben.
 2. Der Auftragnehmer verwendet die zur Datenverarbeitung überlassenen Daten für keine anderen Zwecke. Kopien und/oder Duplikate werden ohne Wissen des Auftraggebers nicht erstellt. Hiervon ausgenommen sind Sicherheitskopien, soweit sie zur Gewährleistung einer ordnungsgemäßen Datenverarbeitung erforderlich sind, sowie Daten, die im Hinblick auf die Einhaltung gesetzlicher Aufbewahrungspflichten erforderlich sind.
-3. Der Auftraggeber ist allein verantwortlich für die Beurteilung der rechtlichen Zulässigkeit der im Rahmen des Auftragsverhältnisses durchgeführten  Verarbeitungen personenbezogener Daten durch den Auftragnehmer im Hinblick auf die Regelungen der Europäischen Datenschutzgrundverodnung (DS-GVO) und anderer einschlägiger Vorschriften über den Datenschutz.
+3. Der Auftraggeber ist allein verantwortlich für die Beurteilung der rechtlichen Zulässigkeit der im Rahmen des Auftragsverhältnisses durchgeführten  Verarbeitungen personenbezogener Daten durch den Auftragnehmer im Hinblick auf die Regelungen der Europäischen Datenschutzgrundverordnung (DS-GVO) und anderer einschlägiger Vorschriften über den Datenschutz.
 
 ## § 2 Ort der vorgesehenen Verarbeitung von Daten
 
