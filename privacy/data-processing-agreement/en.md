@@ -117,7 +117,7 @@ Should one or more provisions of this agreement be or become invalid or unenforc
 
 ## § 13 Final provisions
 
-1. Amendments or supplements to this agreement must be made in writing and must be signed by both parties. This also applies to the amendment of this written form clause. E-mail does not satisfy the written form requirement.
+1. Changes or additions to this agreement must be made in writing.
 2. The assertion of a right of retention within the meaning of section 273 of the German Civil Code (BGB) is excluded with respect to the processed data and the associated data storage devices.
 3. This agreement is governed exclusively by the laws of the Federal Republic of Germany. The place of jurisdiction for all disputes arising under or in connection with this contract is Berlin.
 

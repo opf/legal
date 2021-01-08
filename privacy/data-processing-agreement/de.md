@@ -126,7 +126,7 @@ Sollten einzelne oder mehrere Bestimmungen dieser Vereinbarung ganz oder teilwei
 
 ## § 13 Schlussbestimmungen
 
-1. Änderungen oder Ergänzungen zu dieser Vereinbarung bedürfen der Schriftform und sind von beiden Vertragsparteien zu unterschreiben. Dies gilt auch für die Änderung dieser Schriftformklausel. E-Mail wahrt die Schriftform nicht.
+1. Änderungen oder Ergänzungen zu dieser Vereinbarung bedürfen der Schriftform.
 2. Die Einrede des Zurückbehaltungsrechts i.S.v. § 273 BGB wird hinsichtlich der verarbeiteten Daten und der zugehörigen Datenträger ausgeschlossen.
 3. Es gilt ausschließlich das Recht der Bundesrepublik Deutschland. Gerichtsstand für alle Streitigkeiten aus diesem oder im Zusammenhang mit diesem Vertrag ist Berlin.
 
