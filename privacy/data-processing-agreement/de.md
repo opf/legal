@@ -109,8 +109,6 @@ Der Auftragnehmer verarbeitet durch eigenes Personal Daten nur innerhalb des EWR
 
 2. Der Auftragnehmer unterstützt den Auftraggeber bei der Einhaltung der in den Artikeln 30 bis 36 der DS-GVO genannten Pflichten zur Sicherheit personenbezogener Daten, Meldepflichten bei Datenpannen, Datenschutz-Folgeabschätzungen und vorherige Konsultationen nach Möglichkeit. Hierzu gehören insbesondere:
 
-   - Untergliederung der Einrichtung in einzelne Sicherheitsbereiche,
-   - die Sicherstellung eines angemessenen Schutzniveaus durch technische und organisatorische Maßnahmen, die die Umstände und Zwecke der Verarbeitung sowie die prognostizierte Wahrscheinlichkeit und Schwere einer möglichen Rechtsverletzung durch Sicherheitslücken berücksichtigen und eine sofortige Feststellung von relevanten Verletzungsereignissen ermöglichen;
    - die Verpflichtung, Verletzungen personenbezogener Daten an den Auftraggeber zu melden;
    - die Verpflichtung, dem Auftraggeber im Rahmen seiner Informationspflicht gegenüber den betroffenen Personen zu unterstützen;
    - die Unterstützung des Auftraggebers bei dessen Pflichten zur Durchführung von Datenschutz-Folgenabschätzungen;

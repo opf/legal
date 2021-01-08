@@ -101,8 +101,6 @@ The Processor shall process data through its own personnel only within the EEA. 
 1. The Processor shall inform the Controller of violations of the protection of personal data, disturbances, breaches of data protection regulations or the specifications made in a specific agreement by the Processor or persons employed by them or engaged by them. This is especially the case with regard to any legal obligations of the Controller to notify data subjects or the supervisory authorities.
 2. To the extent possible, the Processor shall assist the Controller in complying with the obligations set out in Articles 30 to 36 GDPR concerning the security of personal data, notification obligations in the event of personal data breaches, data protection impact assessments and prior consultations. This includes, in particular:
 
-   - Subdivision of the facility into individual security areas;
-   - Ensuring an adequate level of protection by means of technical and organiational measures that consider the circumstances and purposes of the processing, as well as the predicted likelihood and severity of a possible infringement due to vulnerabilities and that make immediate identification of relevant violations possible;
    - The obligation to report personal data breaches to the Controller;
    - The obligation to support the Controller in connection with their duty to inform data subjects;
    - Supporting the Controller in connection with their obligations to carry out data protection impact assessments;
