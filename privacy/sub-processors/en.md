@@ -1,6 +1,6 @@
 # Sub-processors
 
-Latest update: 2020-12-07
+Latest update: 2021-01-08
 
 ## List of subcontractors employed by OpenProject GmbH.
 
