@@ -84,16 +84,19 @@ Der Auftragnehmer verarbeitet durch eigenes Personal Daten nur innerhalb des EWR
 ## § 8 Unterauftragnehmer
 
 1. Als Unterauftragsverhältnisse im Sinne dieser Regelung sind solche Dienstleistungen zu verstehen, die sich unmittelbar auf die Erbringung der Hauptleistung beziehen. Nicht hierzu gehören Nebenleistungen, die der Auftragnehmer in Anspruch nimmt z.B. als Telekommunikations-, Post- oder Transportdienstleistungen. Der Auftragnehmer ist jedoch verpflichtet, zur Gewährleistung des Datenschutzes und der Sicherheit der Daten des Auftraggebers auch bei ausgelagerten Nebenleistungen angemessene und gesetzeskonforme vertragliche Vereinbarungen zu ergreifen.
-2. Der Auftragnehmer darf Unterauftragnehmer mit der Verarbeitung personenbezogener Daten des Auftraggebers nur beauftragen, soweit diese in einem Mitgliedsstaat der Europäischen Union (EU) oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum (EWR) ansässig sind. Die Weiterleitung, Speicherung und Datenverarbeitung auf automatisierten Datenverarbeitungsanlagen außerhalb der EU oder des EWR ist nicht zulässig.
-3. Der Auftraggeber stimmt den Unterbeauftragungen solcher Unterauftragnehmer, die zum Zeitpunkt des Vertragsschlusses auf der Landing-Page gelistet sind (abrufbar hier:
-    https://www.openproject.org/de/legal/unterauftragnehmer/), unter der Bedingung einer vertraglichen Vereinbarung nach Maßgabe des Art. 28 Abs. 2-4 DS-GVO, zu.
-4. Die Auslagerung auf weitere Unterauftragnehmer oder der Wechsel eines bestehenden Unterauftragnehmers wird verbindlicher Vertragsbestandteilt, soweit:
-   - der Auftragnehmer eine solche Auslagerung auf Unterauftragnehmer dem Auftraggeber vor Beginn der Verarbeitung durch den Unterauftragnehmer in Textform anzeigt. Dies geschieht mittels Versands eines Newsletters, der die geplante Abänderung der Unterauftragsverhältnisse beinhaltet. Das Widerspruchsrecht des Auftraggebers gilt zwei Wochen ab Anzeige und erfolgt schriftlich oder in Textform. Nach Ablauf der Widerspruchsfrist gilt die Abänderung i.S.d. Art. 28 Abs. 2 DSGVO als genehmigt.
-   - eine vertragliche Vereinbarung nach Maßgabe des Art. 28 Abs. 2-4 DS-GVO zugrunde gelegt wird.
-5. Der Auftragnehmer wird die Einhaltung der datenschutzrechtlichen Anforderungen beim Unterauftragnehmer regelmäßig überprüfen. Es ist vertraglich zu regeln, dass der Unterauftragsverarbeiter diese Kontrollmaßnahmen und etwaige Vor-Ort-Kontrollen zu dulden hat. Der Auftraggeber ist berechtigt, auf Anforderung Auskunft über den wesentlichen Vertragsinhalt und die Umsetzung der datenschutzrelevanten Verpflichtungen des Unterauftragnehmers zu erhalten, erforderlichenfalls auch durch Einsicht in die relevanten Vertragsunterlagen.
-6. Die Weitergabe von personenbezogenen Daten des Auftraggebers an den Unterauftragnehmer und dessen erstmaliges Tätigwerden sind erst mit Vorliegen aller Voraussetzungen für eine Unterbeauftragung gestattet.
-7. Für die Durchführung einer Abänderung der Unterauftragsverhältnisse im Wege des Newsletter-Versands wird die E-Mail-Adresse des Auftraggebers verwendet.
-8. Widerspricht der Auftraggeber der Abänderung der Unterauftragsverhältnisse, ohne hierfür datenschutzrelevante Einwände zu erheben, steht dem Auftragnehmer ein außerordentliches Kündigungsrecht des in § 1 genannten Leistungsvertrages zu, sofern ihm das Festhalten an dem Leistungsvertrag unter Beibehaltung der Unterauftragsverhältnisse unzumutbar wäre.
+
+2. Der Auftraggeber stimmt den [Unterauftragnehmern](https://www.openproject.org/de/rechtliches/vertrag-zur-auftragsverarbeitung/unterauftragnehmer/) zu, die zum Zeitpunkt des Vertragsschlusses genannt sind. Der Auftragnehmer sichert zu, dass mit allen genannten Unterauftragnehmern eine Vereinbarung nach Maßgabe des Art. 28 Abs. 2-4 DS-GVO abgeschlossen wurde.
+
+3. Der Auftraggeber gestattet, dass der Auftragnehmer weitere Unterauftragnehmer beauftragen oder bisherige Unterauftragnehmer auswechseln darf, soweit:
+
+4. - der Auftragnehmer eine solche neue Unterbeauftragung dem Auftraggeber vor Beginn der Verarbeitung durch den Unterauftragnehmer in Textform, z.B. per E-Mail, anzeigt und der Auftraggeber der Unterbeauftragung nicht innerhalb von zwei Wochen in Textform widerspricht. Nach Ablauf der Widerspruchsfrist gilt die Abänderung im Sinne des Art. 28 Abs. 2 DSGVO als genehmigt.
+    - Der Auftragnehmer mit dem Unterauftragnehmer eine Vereinbarung nach Maßgabe des Art. 28 Abs. 2-4 DS-GVO schließt.
+
+5. Soll ein Unterauftragnehmer in Anspruch genommen werden, der personenbezogene Daten des Auftraggebers außerhalb des Europäischen Wirtschaftsraums verarbeitet, ist das nur gestattet, wenn die Vorgaben zum internationalen Datentransfer nach Art. 44 ff. DS-GVO eingehalten werden. Das ist insbesondere der Fall, wenn die Verarbeitung in einem Land erfolgt, dessen Datenschutzniveau von der EU-Kommission nach Art. 45 DS-GVO als angemessen anerkannt worden ist. Außerdem ist ein Datentransfer rechtmäßig, wenn mit dem Empfänger EU-Standarddatenschutzklauseln abgeschlossen wurden.
+
+6. Der Auftragnehmer wird die Einhaltung der datenschutzrechtlichen Anforderungen beim Unterauftragnehmer regelmäßig überprüfen. Es ist vertraglich zu regeln, dass der Unterauftragsverarbeiter diese Kontrollmaßnahmen und etwaige Vor-Ort-Kontrollen zu dulden hat. Der Auftraggeber ist berechtigt, auf Anforderung Auskunft über den wesentlichen Vertragsinhalt und die Umsetzung der datenschutzrelevanten Verpflichtungen des Unterauftragnehmers zu erhalten, erforderlichenfalls auch durch Einsicht in die relevanten Vertragsunterlagen.
+
+7. Die Weitergabe von personenbezogenen Daten des Auftraggebers an den Unterauftragnehmer und dessen erstmaliges Tätigwerden sind erst mit Vorliegen aller Voraussetzungen für eine Unterbeauftragung gestattet.
 
 ## § 9 Kontrollrechte des Auftraggebers
 
