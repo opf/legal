@@ -1,5 +1,7 @@
 # Annex 1: Technical and Organizational Data Security Measures
 
+Last updated: 01/08/2021
+
 The data security measures defined by the Processor in this Annex have been agreed as binding.
 
 ## 1. Confidentiality (Art. 32(1)(b) GDPR)

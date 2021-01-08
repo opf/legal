@@ -1,6 +1,6 @@
 # Anlage 1: Technische und organisatorische Maßnahmen zur Datensicherheit
 
-Stand: 07.12.2020
+Stand: 08.01.2021
 
 Die in dieser Anlage durch den Auftragnehmer definierten Datensicherheitsmaßnahmen werden als verbindlich festgelegt.
 
