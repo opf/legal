@@ -106,27 +106,22 @@ The Processor shall process data through its own personnel only within the EEA. 
    - Supporting the Controller in connection with their obligations to carry out data protection impact assessments;
    - Supporting the Controller in connection with prior consultations with the supervisory authority.
 
-## § 11 Confidentiality obligations
-
-1. Both parties agree that all information obtained in the course of executing this contract shall be treated as confidential for an indefinite period and shall be used exclusively to perform the tasks agreed herein. Neither party is entitled to use this information in whole or in part for any other purposes other than those referred to above or to disclose such information to third parties.
-2. The foregoing obligation does not apply to information which one of the parties has demonstrably received from third parties without being bound to maintain confidentiality or which is publicly known.
-
-## § 12 Contract term
+## § 11 Contract term
 
 1. The validity of this agreement for contract data processing (“term”) corresponds to the term of the service agreement referred to in section 1. The confidentiality obligation survives the term of this contract.
 2. A violation of legal or contractual data protection provisions by the Processor represents good cause for the Controller to exercise their right of extraordinary termination as reserved in the service agreement referred to in section 1.
 
-## § 13 Severability
+## § 12 Severability
 
 Should one or more provisions of this agreement be or become invalid or unenforceable, this shall not affect the validity of the remaining provisions of this agreement.
 
-## § 14 Final provisions
+## § 13 Final provisions
 
 1. Amendments or supplements to this agreement must be made in writing and must be signed by both parties. This also applies to the amendment of this written form clause. E-mail does not satisfy the written form requirement.
 2. The assertion of a right of retention within the meaning of section 273 of the German Civil Code (BGB) is excluded with respect to the processed data and the associated data storage devices.
 3. This agreement is governed exclusively by the laws of the Federal Republic of Germany. The place of jurisdiction for all disputes arising under or in connection with this contract is Berlin.
 
-## § 15 Effective date
+## § 14 Effective date
 
 This agreement is effective upon its signing.
 

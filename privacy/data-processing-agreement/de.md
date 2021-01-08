@@ -115,27 +115,22 @@ Der Auftragnehmer verarbeitet durch eigenes Personal Daten nur innerhalb des EWR
    - die Unterstützung des Auftraggebers im Rahmen vorheriger Konsultationen mit der Aufsichtsbehörde.
 3. Dem Auftragnehmer ist bekannt, dass für den Auftraggeber eine Meldepflicht nach Art. 33 DSGVO bestehen kann, die eine erste Meldung an die Aufsichtsbehörde binnen 72 Stunden nach Bekanntwerden vorsieht. Der Auftragnehmer wird den Auftraggeber bei entsprechenden Meldepflichten angemessen und fristgerecht unterstützen.
 
-## § 11 Geheimhaltungspflichten
-
-1. Beide Parteien verpflichten sich, alle Informationen, die sie im Zusammenhang mit der Durchführung dieses Vertrages erhalten, zeitlich unbegrenzt vertraulich zu behandeln und nur zur Durchführung des Vertrages zu verwenden. Keine Partei ist berechtigt, diese Informationen ganz oder teilweise zu anderen als den soeben genannten Zwecken zu nutzen oder diese Information Dritten zugänglich zu machen.
-2. Die vorstehende Verpflichtung gilt nicht für Informationen, die eine der Parteien nachweisbar von Dritten erhalten hat, ohne zur Geheimhaltung verpflichtet zu sein, oder die öffentlich bekannt sind.
-
-## § 12 Dauer des Auftrags
+## § 11 Dauer des Auftrags
 
 1. Die Gültigkeit dieser Vereinbarung zur Auftragsverarbeitung (Laufzeit) entspricht der Laufzeit des Leistungsvertrages gemäß § 1. Die Geheimhaltungspflicht reicht über das Vertragsende hinaus.
 2. Die Verletzung von gesetzlichen oder vertraglichen Datenschutzbestimmungen durch den Auftragnehmer ist ein wichtiger Grund für den Auftraggeber, das in den vertraglichen Vereinbarungen des unter § 1 genannten Leistungsvertrages vorbehaltene Recht zur außerordentlichen Kündigung auszuüben.
 
-## § 13 Salvatorische Klausel
+## § 12 Salvatorische Klausel
 
 Sollten einzelne oder mehrere Bestimmungen dieser Vereinbarung ganz oder teilweise unwirksam sein oder werden, so wird hierdurch die Gültigkeit der übrigen Regelungen dieser Vereinbarung nicht berührt.
 
-## § 14 Schlussbestimmungen
+## § 13 Schlussbestimmungen
 
 1. Änderungen oder Ergänzungen zu dieser Vereinbarung bedürfen der Schriftform und sind von beiden Vertragsparteien zu unterschreiben. Dies gilt auch für die Änderung dieser Schriftformklausel. E-Mail wahrt die Schriftform nicht.
 2. Die Einrede des Zurückbehaltungsrechts i.S.v. § 273 BGB wird hinsichtlich der verarbeiteten Daten und der zugehörigen Datenträger ausgeschlossen.
 3. Es gilt ausschließlich das Recht der Bundesrepublik Deutschland. Gerichtsstand für alle Streitigkeiten aus diesem oder im Zusammenhang mit diesem Vertrag ist Berlin.
 
-## § 15 Inkrafttreten
+## § 14 Inkrafttreten
 
 Diese Vereinbarung tritt mit ihrer Unterzeichnung in Kraft.
 
