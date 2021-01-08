@@ -45,8 +45,6 @@ Der Auftragnehmer hat unerlaubte Tätigkeiten in den datenverarbeitenden Systeme
 
 Der Zugriff auf Daten des Auftraggebers für Kundendienst-Mitarbeiter des Auftragnehmers ist auf Stammdaten und Abrechnungsdaten beschränkt, welche für die Wahrnehmung ihrer Kundendienst-Aufgabe und der Abrechnung der Hosting-Dienstleistung erforderlich sind. Kundendienst-Mitarbeiter haben keinen Zugriff auf die Kundendaten innerhalb einer OpenProject-Instanz. 
 
-Kreditkarten-Daten ihrer Auftraggeber werden ausschließlich durch den Bezahldienstleister gespeichert; der Auftragnehmer hat keinen Zugriff auf diese Daten. 
-
 Administratoren ist der Zugriff auf Kundendaten nur gestattet, wenn eine Störung vorliegt, die nicht durch den Auftraggeber und oder den Kundendienst des Auftragnehmers alleine gelöst werden kann.
 
 ### 1.4. Trennungskontrolle

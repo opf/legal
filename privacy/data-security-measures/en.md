@@ -45,8 +45,6 @@ addition, the Controller has the option of adapting the preconfigured roles and 
 needs via an administrative interface.
 Access to the Controller's data by the Processor’s customer service representatives is limited to master data and
 billing data necessary for the performance of their customer service functions and invoicing hosting services. Customer service representatives do not have access to customer data within an OpenProject instance.
-Credit card data of their controllers are exclusively stored by the payment service provider; the Processor has no
-access to this data.
 Administrators are only allowed access to customer data if there is a fault that cannot be resolved by the Controller
 and/or the Processor's customer service alone.
 
