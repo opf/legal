@@ -1,5 +1,7 @@
 # Vertrag zur Auftragsverarbeitung
 
+Stand: 08.01.2021
+
 Vereinbarung zur Auftragsverarbeitung gemäß Art. 28 DS-GVO zwischen
 
 NAME  
@@ -132,7 +134,7 @@ Sollten einzelne oder mehrere Bestimmungen dieser Vereinbarung ganz oder teilwei
 
 ## § 14 Inkrafttreten
 
-Diese Vereinbarung tritt mit ihrer Unterzeichnung in Kraft.
+Diese Vereinbarung tritt über das Setzen des entsprechenden Zustimmungshakens in Kraft.
 
 ![Signature](Signature_Lindenthal.png)
 

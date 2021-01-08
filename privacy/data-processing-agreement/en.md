@@ -1,6 +1,8 @@
 # Data Processing Agreement
 
- Agreement for contract data processing pursuant to Article 28 GDPR between
+Last updated: 01/08/2021 
+
+Agreement for contract data processing pursuant to Article 28 GDPR between
 
  NAME  
  ORGANIZATION  
