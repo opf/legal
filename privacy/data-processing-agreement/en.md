@@ -41,7 +41,7 @@ Upon conclusion of this agreement, all previously concluded Data Privacy Agreeme
 
 ## § 2 Location of the intended data processing
 
-The contractually agreed upon data processing shall take place exclusively within a Member State of the European Union or in another state that is party to the Agreement on the European Economic Area (EEA). The transfer of personal data to entities domiciled neither in a Member State of the European Union nor any other contracting state to the Agreement on the European Economic Area (so-called “third country”) requires the consent of the Controller and may only take place if the special requirements of Art. 44 ff. GDPR have been satisfied.
+The Processor shall process data through its own personnel only within the EEA. Processing in third countries only takes place if sub processors are involved, which process the data outside the EEA. The list of [sub-processors](https://www.openproject.org/legal/data-processing-agreement/sub-processors) describes the cases when the Controller's data is processed by sub-processors in third countries and specifies the legal basis according to Art. 44 ff. DS-GVO.
 
 ## § 3 Type of data processed and categories of data subjects
 

@@ -37,11 +37,11 @@ Mit Abschluss dieser Vereinbarung werden alle, soweit vorhanden, vorherigen gesc
 
 1. Der Gegenstand, Art und Zweck des Auftrags sind Tätigkeiten, deren Konkretisierung sich aus dem oben bezeichneten Leistungsvertrag und den zugehörigen Produktbeschreibungen ergeben.
 2. Der Auftragnehmer verwendet die zur Datenverarbeitung überlassenen Daten für keine anderen Zwecke. Kopien und/oder Duplikate werden ohne Wissen des Auftraggebers nicht erstellt. Hiervon ausgenommen sind Sicherheitskopien, soweit sie zur Gewährleistung einer ordnungsgemäßen Datenverarbeitung erforderlich sind, sowie Daten, die im Hinblick auf die Einhaltung gesetzlicher Aufbewahrungspflichten erforderlich sind.
-3. Der Auftraggeber ist allein verantwortlich für die Beurteilung der rechtlichen Zulässigkeit der im Rahmen des Auftragsverhältnisses durchgeführten  Verarbeitungen personenbezogener Daten durch den Auftragnehmer im Hinblick auf die Regelungen der Europäischen Datenschutzgrundverordnung (DS-GVO) und anderer einschlägiger Vorschriften über den Datenschutz.
+3. Der Auftraggeber ist allein verantwortlich für die Beurteilung der rechtlichen Zulässigkeit der im Rahmen des Auftragsverhältnisses durchgeführten Verarbeitungen personenbezogener Daten durch den Auftragnehmer im Hinblick auf die Regelungen der Europäischen Datenschutzgrundverordnung (DS-GVO) und anderer einschlägiger Vorschriften über den Datenschutz.
 
 ## § 2 Ort der vorgesehenen Verarbeitung von Daten
 
-Die Erbringung der vertraglich vereinbarten Datenverarbeitung findet innerhalb der Europäischen Union (EU) bzw. innerhalb des Europäischen Wirtschaftsraums (EWR) statt. Die Übermittlung personenbezogener Daten an Stellen, die weder in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ansässig sind (sog. Drittstaat), bedarf der Zustimmung des Auftraggebers und darf nur erfolgen, wenn die besonderen Voraussetzungen der Art. 44 ff. DS-GVO erfüllt sind.
+Der Auftragnehmer verarbeitet durch eigenes Personal Daten nur innerhalb des EWR. Eine Verarbeitung in Drittstaaten erfolgt nur, wenn Unterauftragnehmer des Auftragnehmers eingebunden sind, die ihrerseits die ihnen zugänglich gemachte Daten außerhalb des EWR verarbeiten. Die [Übersicht der Unterauftragnehmer](https://www.openproject.org/de/rechtliches/vertrag-zur-auftragsverarbeitung/unterauftragnehmer/) informiert, in welchen Fällen Daten in Drittstaaten verarbeitet werden und welche Voraussetzungen nach Art. 44 ff. DS-GVO den Drittstaatentransfer legitimieren.
 
 ## § 3 Art der Daten und Kreis der Betroffenen
 
