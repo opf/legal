@@ -98,7 +98,7 @@ Der Auftragnehmer verarbeitet durch eigenes Personal Daten nur innerhalb des EWR
 
 6. Der Auftragnehmer wird die Einhaltung der datenschutzrechtlichen Anforderungen beim Unterauftragnehmer regelmäßig überprüfen. Es ist vertraglich zu regeln, dass der Unterauftragsverarbeiter diese Kontrollmaßnahmen und etwaige Vor-Ort-Kontrollen zu dulden hat. Der Auftraggeber ist berechtigt, auf Anforderung Auskunft über den wesentlichen Vertragsinhalt und die Umsetzung der datenschutzrelevanten Verpflichtungen des Unterauftragnehmers zu erhalten, erforderlichenfalls auch durch Einsicht in die relevanten Vertragsunterlagen.
 
-7. Die Weitergabe von personenbezogenen Daten des Auftraggebers an den Unterauftragnehmer und dessen erstmaliges Tätigwerden sind erst mit Vorliegen aller Voraussetzungen für eine Unterbeauftragung gestattet.
+7. Die Weitergabe von personenbezogenen Daten des Auftraggebers an den Unterauftragnehmer ist erst mit Vorliegen aller Voraussetzungen für eine Unterbeauftragung gestattet.
 
 ## § 9 Kontrollrechte des Auftraggebers
 
