@@ -135,7 +135,7 @@ Sollten einzelne oder mehrere Bestimmungen dieser Vereinbarung ganz oder teilwei
 
 ## § 14 Inkrafttreten
 
-Diese Vereinbarung tritt über das Setzen des entsprechenden Zustimmungshakens in Kraft.
+Diese Vereinbarung tritt über das Setzen des entsprechenden Zustimmungshakens im Kundenkonto in Kraft.
 
 ![Signature](Signature_Lindenthal.png)
 
