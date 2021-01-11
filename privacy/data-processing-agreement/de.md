@@ -33,7 +33,7 @@ Diese Vereinbarung zur Auftragsverarbeitung regelt die Verpflichtungen der Vertr
 
 Sie findet Anwendung auf alle Tätigkeiten des Auftragnehmers, durch die er personenbezogene Daten im Auftrag des Auftraggebers verarbeitet.  Grundsätzlich bezieht sich das auf die Bereitstellung des Produkts [OpenProject Enterprise Cloud](https://www.openproject.org/de/rechtliches/leistungsbeschreibung/) als Software-as-a-Service. Die Verarbeitung personenbezogener Daten umfasst zum einen die Daten der Benutzer von OpenProject und zum anderen die personenbezogenen Daten, die von den Benutzern in OpenProject gespeichert werden (z. B. Kommentare zu Arbeitspaketen).
 
-Mit Abschluss dieser Vereinbarung werden alle, soweit vorhanden, vorherigen geschlossenen AV-Verträge hinfällig.
+Mit Abschluss dieser Vereinbarung werden alle, soweit vorhanden, zuvor geschlossenen AV-Verträge hinfällig.
 
 ## § 1 Anwendungsbereich und Verantwortlichkeit
 
