@@ -126,7 +126,7 @@ Should one or more provisions of this agreement be or become invalid or unenforc
 
 ## § 14 Effective date
 
-This agreement is effective upon its signing.
+This agreement is effective upon checkbox confirmation in customer account.
 
 ![Signature](Signature_Lindenthal.png)
 
