@@ -54,7 +54,8 @@ The Processor shall process data through its own personnel only within the EEA. 
    - Profile picture (avatar image)
 
 2. The categories of data subjects affected by the processing include:
-   - Persons for whom users store data in the application, e.g. customers, employees or contractors of the client
+   - Users of the application
+   - Persons named by users in application data, e.g. customers, employees or contractors of the Controller
    
 
 ## § 4 Technical and organizational measures
