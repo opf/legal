@@ -38,12 +38,12 @@ Upon conclusion of this agreement, all previously concluded Data Privacy Agreeme
 ## § 1 Scope and responsibilities
 
 1. The subject, type and purpose of the contract are activities whose specification is based on the service contract referred to above and the associated product descriptions.
-2. The Processor shall not use data provided to them for processing for any other purposes. Copies and/or duplicates may not be made without the knowledge of the Controller. This does not include backup copies, to the extent necessary to ensure proper data processing, and data required to comply with the statutory retention obligations.
+2. The Processor shall not use data provided to it for processing for any other purposes. Copies and/or duplicates may not be made without the knowledge of the Controller. This does not include backup copies, to the extent necessary to ensure proper data processing, and data required to comply with the statutory retention obligations.
 3. The Controller is solely responsible for assessing the lawfulness of the processing of personal data by the Processor within the framework of their contractual relationship with regard to the provisions of the European General Data Protection Regulation (GDPR) and other relevant laws and regulations concerning data protection.
 
 ## § 2 Location of the intended data processing
 
-The Processor shall process data through its own personnel only within the EEA. Processing in third countries only takes place if sub processors are involved, which process the data outside the EEA. The list of [sub-processors](https://www.openproject.org/legal/data-processing-agreement/sub-processors) describes the cases when the Controller's data is processed by sub-processors in third countries and specifies the legal basis according to Art. 44 ff. DS-GVO.
+The Processor shall process data through its own personnel only within the EEA. Processing in third countries only takes place if sub-processors are involved, which process the data outside the EEA. The list of [sub-processors](https://www.openproject.org/legal/data-processing-agreement/sub-processors) describes the cases when the Controller's data is processed by sub-processors in third countries and specifies the legal basis according to Art. 44 ff. DS-GVO.
 
 ## § 3 Type of data processed and categories of data subjects
 
@@ -80,7 +80,7 @@ The Processor shall process data through its own personnel only within the EEA. 
 3. Maintaining confidentiality in accordance with Articles 28(3)(b), 29, 32(4) GDPR. In carrying out their work, the Processor shall exclusively use employees who are bound to maintain confidentiality and who have previously been familiarized with the relevant data protection provisions. The Processor and any person under their authority who has access to personal data of the Controller may only process such data exclusively in accordance with instructions from the Controller, including the authority granted in this agreement, unless they are legally obliged to process such data.
 4. The implementation and compliance with all [technical and organizational measures](https://www.openproject.org/legal/data-processing-agreement/technical-and-organizational-data-security-measures/) required for the respective contract data processing in accordance with Articles 28(3)(c), 32 GDPR.
 5. Notification of the Controller regarding control procedures and measures taken by the supervisory authority in so far as they relate to the underlying contractual relationship.
-6. The Processor may only provide information to data subjects or third parties concerning the underlying contractual relationship with the consent of the Controller unless they are legally obliged to do so.
+6. The Processor may only provide information to data subjects or third parties concerning the underlying contractual relationship with the consent of the Controller unless it is legally obliged to do so.
 
 ## § 8 Sub-processors
 
