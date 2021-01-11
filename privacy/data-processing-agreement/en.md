@@ -91,7 +91,7 @@ The Processor shall process data through its own personnel only within the EEA. 
    - The Processor concludes an agreement with the sub-processor in accordance with Art. 28 (2-4) GDPR.
 4. If a sub-processor is to be used who processes personal data of the Controller outside the European Economic Area, this is only permitted if the requirements for international data transfer pursuant to Art. 44 et seq. GDPR are complied with. This is particularly the case if the processing takes place in a country whose level of data protection has been recognized as adequate by the EU Commission pursuant to Art. 45 GDPR. In addition, a data transfer is lawful if EU standard contractual clauses have been concluded with the sub-processor.
 5. The Processor shall regularly check the sub-processor's compliance with GDPR. It shall be contractually stipulated that the sub-processor shall tolerate these control measures and possible on-site inspections. The Controller shall be entitled to receive information on request about the essential content of the contract and the implementation of the Sub-processor's obligations relevant to data protection, if necessary also by inspecting the relevant contractual documents.
-6. The transfer of personal data of the Controller to the sub-processor and the subcontractor's initial activity shall only be permitted once all legal requirements for subcontracting have been met.
+6. The transfer of personal data of the Controller to the sub-processor shall only be permitted once all legal requirements for subcontracting have been met.
 
 ## § 9 Control rights of the Controller
 
