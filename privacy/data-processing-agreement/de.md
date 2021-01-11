@@ -54,6 +54,7 @@ Der Auftragnehmer verarbeitet durch eigenes Personal Daten nur innerhalb des EWR
    - Mobilfunknummer (optional im Falle der Nutzung der Zweifaktor-Authentifizierung)
 
 2. Die Kategorien der durch die Verarbeitung betroffenen Personen umfassen:
+   - Benutzer der Anwendung
    - Personen, zu denen Benutzer Daten in der Anwendung speichern, z. B. Kunden, Mitarbeiter oder Dienstleister des Auftraggebers
    
 
