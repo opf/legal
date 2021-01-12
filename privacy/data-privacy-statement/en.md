@@ -70,7 +70,7 @@ GPG Key: [BDCFE01EDE84EA199AE172CE7D669C6D47533958](https://keys.openpgp.org/vks
 
 The **Data Protection Officer** for OpenProject GmbH is:
 
-Herr David Heimburger
+Mr. David Heimburger
 
 Friedensallee 114
 
@@ -78,7 +78,7 @@ Friedensallee 114
 
 Email: [dh@davidheimburger.de](mailto:dh@davidheimburger.de)
 
-GPG Key: BC5D D292 8DD3 3B95 B6F7 0272 FE3F 95A3 135C 46A1
+GPG Key: [BC5D D292 8DD3 3B95 B6F7 0272 FE3F 95A3 135C 46A1](https://keys.openpgp.org/vks/v1/by-fingerprint/BC5DD2928DD33B95B6F70272FE3F95A3135C46A1)
 
 ## Legal bases for the processing of personal data
 

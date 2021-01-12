@@ -119,13 +119,15 @@ receive regular training in connection with their deployment.
 
 ### 5.1. Contact details of the Processor (s) or the Processor’s representative (s)
 
-Herr David Heimburger (Data Protection Officer)
+Mr. David Heimburger (Data Protection Officer)
 
 Friedensallee 114
 
 22763 Hamburg
 
-[dh@davidheimburger.de](mailto:dh@davidheimburger.de) GPG Key: BC5D D292 8DD3 3B95 B6F7 0272 FE3F 95A3 135C 46A1
+Email: [dh@davidheimburger.de](mailto:dh@davidheimburger.de)
+
+GPG Key: [BC5D D292 8DD3 3B95 B6F7 0272 FE3F 95A3 135C 46A1](https://keys.openpgp.org/vks/v1/by-fingerprint/BC5DD2928DD33B95B6F70272FE3F95A3135C46A1)
 
 ### 5.2. Process for regular testing, assessment and evaluation (Art. 32(1)(d); Art. 25(1) GDPR)
 

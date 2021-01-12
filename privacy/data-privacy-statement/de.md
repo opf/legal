@@ -69,7 +69,7 @@ GPG Key: [BDCFE01EDE84EA199AE172CE7D669C6D47533958](https://keys.openpgp.org/vks
 
 Der **Datenschutzbeauftragte** der OpenProject GmbH ist:
 
-Herr David Heimburger (Datenschutzbeauftragter)
+Herr David Heimburger
 
 Friedensallee 114
 
