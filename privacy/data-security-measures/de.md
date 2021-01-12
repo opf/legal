@@ -99,13 +99,13 @@ Es bestehen Notfallpläne, welche im Falle einer Störung exakte Handlungsanweis
 
 ### 5.1. Verantwortliche Ansprechpartner des Auftragnehmers
 
-Herr Ingo Wolff (Datenschutzbeauftragter)
+Herr David Heimburger (Datenschutzbeauftragter)
 
-Tacticx GmbH
+Friedensallee 114
 
-Walbecker Straße 53
+22763 Hamburg
 
-47608 Geldern
+[dh@davidheimburger.de](mailto:dh@davidheimburger.de) GPG Key: BC5D D292 8DD3 3B95 B6F7 0272 FE3F 95A3 135C 46A1
 
 ### 5.2. Verfahren zur regelmäßigen Überprüfung, Bewertung und Evaluierung (Art. 32 Abs. 1 lit. d DS-GVO; Art. 25 Abs. 1 DS-GVO)
 

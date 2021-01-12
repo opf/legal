@@ -69,15 +69,13 @@ GPG Key: [BDCFE01EDE84EA199AE172CE7D669C6D47533958](https://keys.openpgp.org/vks
 
 Der **Datenschutzbeauftragte** der OpenProject GmbH ist:
 
-Herr Markus Strauss
+Herr David Heimburger (Datenschutzbeauftragter)
 
-tacticx Consulting GmbH
+Friedensallee 114
 
-Walbecker Str. 53
+22763 Hamburg
 
-47608 Geldern
-
-E-Mail: [privacy@openproject.com](mailto:privacy@openproject.com)
+[dh@davidheimburger.de](mailto:dh@davidheimburger.de) GPG Key: BC5D D292 8DD3 3B95 B6F7 0272 FE3F 95A3 135C 46A1
 
 ## Rechtsgrundlagen für die Verarbeitung personenbezogener Daten
 
