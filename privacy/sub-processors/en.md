@@ -1,6 +1,6 @@
 # Sub-processors
 
-Latest update: 2021-01-10
+Latest update: 2021-01-19
 
 ## List of subcontractors employed by OpenProject GmbH.
 
@@ -10,4 +10,4 @@ Latest update: 2021-01-10
 | Google Ireland Limited  Gordon House, Barrow Street  Dublin 4, Ireland | E-Mail, Kalender, Dokumenten-Management                      | Standard Privacy Policies (Art. 46 Abs. 2 litt. c und d DSGVO) | Migrate to mailbox.org                             |
 | MessageBird B.V.  Baarsjesweg 285-H  1058 AE Amsterdam, Netherlands | Transmission of authorization token via SMS or voice call for two-factor authentication | Standard Privacy Policies (Art. 46 Abs. 2 litt. c und d DSGVO) |                                                    |
 | Wildbit LLC – Postmark  225 Chestnut St  Philadelphia, PA, 19106, USA | Sending of email messages                                    | Standard Privacy Policies (Art. 46 Abs. 2 litt. c und d DSGVO) | Migrate to a subcontractor based in the EU (2021)  |
-| HubSpot, Inc.  25 First Street, 2nd Floor  Cambridge, MA 02141, USA | Management of customer sales and support requests as well as user surveys and usage analytics | Standard Privacy Policies (Art. 46 Abs. 2 litt. c und d DSGVO) | Migrate to a subcontractor based in the EU (2021)  |
+| HubSpot, Inc.  25 First Street, 2nd Floor  Cambridge, MA 02141, USA | Answering sales and support inquiries and sending newsletters | Standard Privacy Policies (Art. 46 Abs. 2 litt. c und d DSGVO) | Migrate to a subcontractor based in the EU (2021)  |
