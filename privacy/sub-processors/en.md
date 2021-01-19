@@ -2,9 +2,9 @@
 
 Latest update: 2021-01-19
 
-## List of subcontractors employed by OpenProject GmbH.
+## List of sub-processors assigned by OpenProject GmbH.
 
-| **Subcontractor**                                            | **Service**                                | **Protection of third country transfer**                                      | OpenProject's data privacy strategy                |
+| **Sub-processor**                                            | **Service**                                | **Protection of third country transfer**                                      | OpenProject's data privacy strategy                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------- |
 | Amazon Web Services EMEA SARL  38 Avenue John F. Kennedy  L-1855, Luxembourg | Infrastructure-as-a-Service - we only host in Dublin, Ireland (EU) | Standard Data Protection Clauses (Art. 46 para. 2 lit. c GDPR) | Migrate to a subcontractor headquartered in the EU |
 | Google Ireland Limited  Gordon House, Barrow Street  Dublin 4, Ireland | Email, calendar, document management                      | Standard Data Protection Clauses (Art. 46 para. 2 lit. c GDPR) | Migrate to mailbox.org                             |
