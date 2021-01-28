@@ -1,6 +1,6 @@
 # Annex 1: Technical and Organizational Data Security Measures
 
-Last updated: 01/08/2021
+Last updated: 2021-01-28
 
 The data security measures defined by the Processor in this Annex have been agreed as binding.
 
