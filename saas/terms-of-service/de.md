@@ -1,6 +1,6 @@
 # Nutzungsbedingungen OpenProject Enterprise Cloud
 
-Stand: 07.01.2021
+Stand: 2021-01-28
 
 ## Präambel
 
