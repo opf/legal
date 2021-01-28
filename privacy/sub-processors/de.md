@@ -1,6 +1,6 @@
 # Unterauftragnehmer
 
-Stand: 2020-01-09
+Stand: 2021-01-28
 
 ## Liste der Unterauftragnehmer der OpenProject GmbH.
 
