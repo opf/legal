@@ -104,8 +104,10 @@ The attachments and their versions are retained throughout the whole subscriptio
 
 ## 4. Software updates
 
-OpenProject will update the software providing the Service to the highest released [version](https://docs.openproject.org/release-notes/) of the OpenProject application within x days after a release. OpenProject might also install yet unreleased patches to the software in case they improve the service. Every installed software version will be tested by OpenProject prior to the deployment. In case the update requires a downtime, OpenProject will inform the Customer of the scheduled downtime with a 3 days notice.
+OpenProject will update the software providing the Service to the highest released [version](https://docs.openproject.org/release-notes/) of the OpenProject application within 10 days after a release. OpenProject might also install yet unreleased patches to the software in case they improve the service. Every installed software version will be tested by OpenProject prior to the deployment. In case the update requires a downtime, OpenProject will inform the Customer of the scheduled downtime with a 3 days notice.
 
 ## 5. Acceptable use policy
 
-You may not interfere with our business or our ability to provide services to other customers, nor take any action nor make any use of the Services that places excessive burdens on the network or systems used to provide such services. Specifically, you may not use the service for use cases other than project management, team collaboration, product management and product lifecycle management. If your use of the Services materially exceeds the use by similarly situated customers, we may offer to move you to a different plan or charge you for the additional use. If you refuse, we may place restrictions on your use of the Services. You may not perform any vulnerability or penetration testing of OpenProject’s network or systems without our prior written approval.
+You may not interfere with our business or our ability to provide services to other customers, nor take any action nor make any use of the Services that places excessive burdens on the network or systems used to provide such services. Specifically, you may not use the service for use cases other than project management, team collaboration, product management and product lifecycle management.
+
+You may not perform any vulnerability or penetration testing of OpenProject’s network or systems without our prior written approval.

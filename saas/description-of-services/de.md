@@ -1,10 +1,6 @@
 # Leistungsbeschreibung OpenProject Enterprise Cloud
 
-*Letzte inhaltliche Änderung an diesem Dokument: 11.12.2020*
-
-*Dies ist eine Übersetzung. Der verbindliche Text findet sich im englischen Service Level Agreement, das unter https://www.openproject.org/legal/description-of-services/ eingesehen werden kann.*
-
- 
+Stand: 2021-01-28 
 
 Dieses SLA (Service Level Agreement / Dienstleistungsgütevereinbarung) ergänzt den Servicevertrag zwischen [OpenProject](https://www.openproject.org/de/impressum/) und dem Kunden. Es spezifiziert den Service-Level in Bezug auf den Service [OpenProject Enterprise Cloud](https://www.openproject.org/de/hosting/). Wir können dieses SLA von Zeit zu Zeit nach eigenem Ermessen aktualisieren.
 
@@ -47,7 +43,6 @@ Dieses SLA (Service Level Agreement / Dienstleistungsgütevereinbarung) ergänzt
 
 - In der Projektübersichtsseite überschneiden sich zwei Widgets, die aber noch nutzbar sind.
 
-  
 
 ### 1.3 Kommunikationskanal für den Support
 
@@ -66,7 +61,7 @@ Dieses SLA (Service Level Agreement / Dienstleistungsgütevereinbarung) ergänzt
 
 ### 1.1 Verfügbarkeit
 
-OpenProject GmbH wird die Dienste zu 99,9% der Zeit verfügbar machen, ausgenommen entschuldigte Ausfallzeiten. In einem bestimmten Kalendermonat berechnen wir die *Serviceverfügbarkeit* wie folgt: 
+OpenProject GmbH wird die Dienste zu 99,9 % der Zeit verfügbar machen, ausgenommen entschuldigte Ausfallzeiten. In einem bestimmten Kalendermonat berechnen wir die *Serviceverfügbarkeit* wie folgt: 
 
 **Serviceverfügbarkeit = Gesamtminuten, in denen die Services verfügbar sind x 100 / (Gesamtminuten im Monat – Entschuldigte Ausfallzeiten)**
 
@@ -101,7 +96,7 @@ Zu den **planmäßigen Wartungsarbeiten** gehören alle Wartungsarbeiten, die in
 
 Sie haben Anspruch auf eine Gutschrift in Höhe von 5 % der jeweiligen monatlichen Gebühren für jede volle Stunde Ausfallzeit, die über die Serviceverfügbarkeitsziele hinausgeht. (Zum Beispiel erhalten Sie eine Gutschrift in Höhe von 5 % für eine Ausfallzeit zwischen 1 und 60 Minuten, die über die Serviceverfügbarkeitsziele hinausgeht, eine Gutschrift in Höhe von 10 % für eine Ausfallzeit zwischen 61 und 120 Minuten, usw.) Um eine Gutschrift zu erhalten, müssen Sie sich innerhalb von 30 Tagen nach dem Ereignis, das zu der Gutschrift geführt hat, an den Support wenden. Gutschriften basieren auf unserer Überwachung, dürfen 100 % der anwendbaren monatlichen Gebühren nicht überschreiten, können nicht übertragen oder kumuliert werden, verfallen bei Ablauf oder Beendigung der Vereinbarung und werden nicht ausgezahlt oder als Erstattung gewährt.
 
-## 3. Sicherung
+## 3. Backup
 
 ### 3.1 Datenbank
 
@@ -115,8 +110,10 @@ Anhänge werden ebenfalls sicher in S3 gespeichert. Der S3-Speicher ist verschl�
 
 ## 4. Software-Aktualisierungen
 
-OpenProject wird die Software, die den Service zur Verfügung stellt, innerhalb von x Tagen nach einer Freigabe auf die höchste freigegebene [Version](https://docs.openproject.org/release-notes/) der OpenProject-Anwendung aktualisieren. OpenProject kann auch noch nicht freigegebene Patches für die Software installieren, falls diese den Dienst verbessern. Jede installierte Softwareversion wird von OpenProject vor dem Einsatz getestet. Sollte das Update eine Ausfallzeit erfordern, wird OpenProject den Kunden mit einer Frist von 3 Tagen über die geplante Ausfallzeit informieren.
+OpenProject wird die Software, die den Service zur Verfügung stellt, innerhalb von 10 Tagen nach einer Freigabe auf die höchste freigegebene [Version](https://docs.openproject.org/release-notes/) der OpenProject-Anwendung aktualisieren. OpenProject kann auch noch nicht freigegebene Patches für die Software installieren, falls diese den Dienst verbessern. Jede installierte Softwareversion wird von OpenProject vor dem Einsatz getestet. Sollte das Update eine Ausfallzeit erfordern, wird OpenProject den Kunden mit einer Frist von 3 Tagen über die geplante Ausfallzeit informieren.
 
 ## 5. Richtlinie zur akzeptablen Nutzung
 
-Sie dürfen unseren Geschäftsbetrieb oder unsere Fähigkeit, Dienstleistungen für andere Kunden zu erbringen, nicht beeinträchtigen und keine Handlungen vornehmen oder die Dienstleistungen nutzen, die das Netzwerk oder die Systeme, die zur Erbringung dieser Dienstleistungen verwendet werden, übermäßig belasten. Insbesondere dürfen Sie den Dienst nicht für andere Anwendungsfälle als Projektmanagement, Teamzusammenarbeit, Produktmanagement und Product Lifecycle Management nutzen. Wenn Ihre Nutzung der Dienste die Nutzung durch ähnlich gelagerte Kunden wesentlich übersteigt, können wir Ihnen anbieten, Sie in einen anderen Plan zu verschieben oder Ihnen die zusätzliche Nutzung in Rechnung zu stellen. Wenn Sie dies ablehnen, können wir Ihre Nutzung der Dienste einschränken. Sie dürfen ohne unsere vorherige schriftliche Genehmigung keine Schwachstellen- oder Penetrationstests des Netzwerks oder der Systeme von OpenProject durchführen.
+Sie dürfen unseren Geschäftsbetrieb oder unsere Fähigkeit, Dienstleistungen für andere Kunden zu erbringen, nicht beeinträchtigen und keine Handlungen vornehmen oder die Dienstleistungen nutzen, die das Netzwerk oder die Systeme, die zur Erbringung dieser Dienstleistungen verwendet werden, übermäßig belasten. Insbesondere dürfen Sie den Dienst nicht für andere Anwendungsfälle als Projektmanagement, Teamzusammenarbeit, Produktmanagement und Product Lifecycle Management nutzen.
+
+Sie dürfen ohne unsere vorherige schriftliche Genehmigung keine Schwachstellen- oder Penetrationstests des Netzwerks oder der Systeme von OpenProject durchführen.
