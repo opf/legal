@@ -1,8 +1,8 @@
 # Leistungsbeschreibung OpenProject Enterprise Cloud
 
-Stand: 2021-01-28 
+Stand: 2021-01-29 
 
-Dieses SLA (Service Level Agreement / Dienstleistungsgütevereinbarung) ergänzt den Servicevertrag zwischen [OpenProject](https://www.openproject.org/de/impressum/) und dem Kunden. Es spezifiziert den Service-Level in Bezug auf den Service [OpenProject Enterprise Cloud](https://www.openproject.org/de/hosting/). Wir können dieses SLA von Zeit zu Zeit nach eigenem Ermessen aktualisieren.
+Diese Leistungsbeschreibung ergänzt die Nutzungsbedingungen zwischen [OpenProject](https://www.openproject.org/de/impressum/) und dem Kunden. Es spezifiziert den Service-Level in Bezug auf den Service [OpenProject Enterprise Cloud](https://www.openproject.org/de/hosting/). Wir können diese Leistungsbeschreibung von Zeit zu Zeit nach eigenem Ermessen aktualisieren.
 
 ## 1. Unterstützung
 

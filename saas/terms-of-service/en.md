@@ -1,8 +1,8 @@
 
 
-# Terms of Use for OpenProject Enterprise Cloud
+# Terms of Service for OpenProject Enterprise Cloud
 
-Last updated: 2021-01-28
+Last updated: 2021-01-29
 
 ## Preamble
 
