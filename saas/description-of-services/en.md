@@ -72,7 +72,7 @@ OpenProject GmbH will make the Services available 99.9% of the time, excluding a
 4. Force majeure events; and
 5. the actions or omissions of you, your Authorized Users, or any third-party acting on your behalf or at your direction, including any unauthorized use of the Services, breach of the Agreement or Acceptable Use Policy, or any use or configuration of the Services that exceeds OpenProject's recommendations or advertised limits.
 
-### 2.2 Schedule maintenance
+### 2.2 Scheduled maintenance
 
 **Scheduled maintenance** includes any maintenance performed during the following windows or for which we provide reasonable notice or coordination with you in advance of the maintenance.
 
@@ -80,9 +80,11 @@ OpenProject GmbH will make the Services available 99.9% of the time, excluding a
 | ------------------------ | ---------------------- |
 | European Union           | 6:00 am - 08:00 am CET |
 
+### 2.3 Emergency maintenance
+
 **Emergency maintenance** means any maintenance performed outside the Scheduled Maintenance windows without advance notice where such maintenance is reasonably and urgently required to protect the integrity, availability, or security of any online systems.
 
-### 2.2 SLA credits
+### 2.4 SLA credits
 
 You are entitled to a credit of 5% of the applicable monthly Fees for each full hour of downtime in excess of the Service Availability targets. (For example, you will receive a 5% credit for between 1 and 60 minutes of downtime in excess of the Service Availability targets, a 10% credit for between 61 and 120 minutes, etc.) In order to receive a credit, you must contact Support within 30 days of the event giving rise to the credit. Credits are based on our monitoring, shall not exceed 100% of the applicable monthly Fees, may not be carried over or aggregated, are forfeited at the expiration or termination of the Agreement, and will not be paid or provided as a refund.
 
