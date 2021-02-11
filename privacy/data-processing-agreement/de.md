@@ -92,14 +92,15 @@ Der Auftragnehmer verarbeitet durch eigenes Personal Daten nur innerhalb des EWR
 
 3. Der Auftraggeber gestattet, dass der Auftragnehmer weitere Unterauftragnehmer beauftragen oder bisherige Unterauftragnehmer auswechseln darf, soweit:
 
-4. - der Auftragnehmer eine solche neue Unterbeauftragung dem Auftraggeber vor Beginn der Verarbeitung durch den Unterauftragnehmer in Textform, z.B. per E-Mail, anzeigt und der Auftraggeber der Unterbeauftragung nicht innerhalb von zwei Wochen in Textform widerspricht. Nach Ablauf der Widerspruchsfrist gilt die Abänderung im Sinne des Art. 28 Abs. 2 DSGVO als genehmigt.
+   - der Auftragnehmer eine solche neue Unterbeauftragung dem Auftraggeber vor Beginn der Verarbeitung durch den Unterauftragnehmer in Textform, z.B. per E-Mail, anzeigt und der Auftraggeber der Unterbeauftragung nicht innerhalb von zwei Wochen in Textform widerspricht. Nach Ablauf der Widerspruchsfrist gilt die Abänderung im Sinne des Art. 28 Abs. 2 DSGVO als genehmigt.
+
     - Der Auftragnehmer mit dem Unterauftragnehmer eine Vereinbarung nach Maßgabe des Art. 28 Abs. 2-4 DS-GVO schließt.
 
-5. Soll ein Unterauftragnehmer in Anspruch genommen werden, der personenbezogene Daten des Auftraggebers außerhalb des Europäischen Wirtschaftsraums verarbeitet, ist das nur gestattet, wenn die Vorgaben zum internationalen Datentransfer nach Art. 44 ff. DS-GVO eingehalten werden. Das ist insbesondere der Fall, wenn die Verarbeitung in einem Land erfolgt, dessen Datenschutzniveau von der EU-Kommission nach Art. 45 DS-GVO als angemessen anerkannt worden ist. Außerdem ist ein Datentransfer rechtmäßig, wenn mit dem Empfänger EU-Standarddatenschutzklauseln abgeschlossen wurden.
+4. Soll ein Unterauftragnehmer in Anspruch genommen werden, der personenbezogene Daten des Auftraggebers außerhalb des Europäischen Wirtschaftsraums verarbeitet, ist das nur gestattet, wenn die Vorgaben zum internationalen Datentransfer nach Art. 44 ff. DS-GVO eingehalten werden. Das ist insbesondere der Fall, wenn die Verarbeitung in einem Land erfolgt, dessen Datenschutzniveau von der EU-Kommission nach Art. 45 DS-GVO als angemessen anerkannt worden ist. Außerdem ist ein Datentransfer rechtmäßig, wenn mit dem Empfänger EU-Standarddatenschutzklauseln abgeschlossen wurden.
 
-6. Der Auftragnehmer wird die Einhaltung der datenschutzrechtlichen Anforderungen beim Unterauftragnehmer regelmäßig überprüfen. Es ist vertraglich zu regeln, dass der Unterauftragsverarbeiter diese Kontrollmaßnahmen und etwaige Vor-Ort-Kontrollen zu dulden hat. Der Auftraggeber ist berechtigt, auf Anforderung Auskunft über den wesentlichen Vertragsinhalt und die Umsetzung der datenschutzrelevanten Verpflichtungen des Unterauftragnehmers zu erhalten, erforderlichenfalls auch durch Einsicht in die relevanten Vertragsunterlagen.
+5. Der Auftragnehmer wird die Einhaltung der datenschutzrechtlichen Anforderungen beim Unterauftragnehmer regelmäßig überprüfen. Es ist vertraglich zu regeln, dass der Unterauftragsverarbeiter diese Kontrollmaßnahmen und etwaige Vor-Ort-Kontrollen zu dulden hat. Der Auftraggeber ist berechtigt, auf Anforderung Auskunft über den wesentlichen Vertragsinhalt und die Umsetzung der datenschutzrelevanten Verpflichtungen des Unterauftragnehmers zu erhalten, erforderlichenfalls auch durch Einsicht in die relevanten Vertragsunterlagen.
 
-7. Die Weitergabe von personenbezogenen Daten des Auftraggebers an den Unterauftragnehmer ist erst mit Vorliegen aller Voraussetzungen für eine Unterbeauftragung gestattet.
+6. Die Weitergabe von personenbezogenen Daten des Auftraggebers an den Unterauftragnehmer ist erst mit Vorliegen aller Voraussetzungen für eine Unterbeauftragung gestattet.
 
 ## § 9 Kontrollrechte des Auftraggebers
 
