@@ -91,9 +91,7 @@ Der Auftragnehmer verarbeitet durch eigenes Personal Daten nur innerhalb des EWR
 2. Der Auftraggeber stimmt den [Unterauftragnehmern](https://www.openproject.org/de/rechtliches/vertrag-zur-auftragsverarbeitung/unterauftragnehmer/) zu, die zum Zeitpunkt des Vertragsschlusses genannt sind. Der Auftragnehmer sichert zu, dass mit allen genannten Unterauftragnehmern eine Vereinbarung nach Maßgabe des Art. 28 Abs. 2-4 DS-GVO abgeschlossen wurde.
 
 3. Der Auftraggeber gestattet, dass der Auftragnehmer weitere Unterauftragnehmer beauftragen oder bisherige Unterauftragnehmer auswechseln darf, soweit:
-
    - der Auftragnehmer eine solche neue Unterbeauftragung dem Auftraggeber vor Beginn der Verarbeitung durch den Unterauftragnehmer in Textform, z.B. per E-Mail, anzeigt und der Auftraggeber der Unterbeauftragung nicht innerhalb von zwei Wochen in Textform widerspricht. Nach Ablauf der Widerspruchsfrist gilt die Abänderung im Sinne des Art. 28 Abs. 2 DSGVO als genehmigt.
-
     - Der Auftragnehmer mit dem Unterauftragnehmer eine Vereinbarung nach Maßgabe des Art. 28 Abs. 2-4 DS-GVO schließt.
 
 4. Soll ein Unterauftragnehmer in Anspruch genommen werden, der personenbezogene Daten des Auftraggebers außerhalb des Europäischen Wirtschaftsraums verarbeitet, ist das nur gestattet, wenn die Vorgaben zum internationalen Datentransfer nach Art. 44 ff. DS-GVO eingehalten werden. Das ist insbesondere der Fall, wenn die Verarbeitung in einem Land erfolgt, dessen Datenschutzniveau von der EU-Kommission nach Art. 45 DS-GVO als angemessen anerkannt worden ist. Außerdem ist ein Datentransfer rechtmäßig, wenn mit dem Empfänger EU-Standarddatenschutzklauseln abgeschlossen wurden.
