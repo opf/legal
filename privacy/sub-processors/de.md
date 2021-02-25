@@ -4,7 +4,7 @@ Stand: 2021-01-28
 
 ## Liste der Unterauftragnehmer der OpenProject GmbH.
 
-| **Unterauftragnehmer**                                       | **Aufgabe**                                                  | **Schutz Drittstaatentransfer**                            | OpenProject's Datenschutz-Strategie                         |
+| **Unterauftragnehmer**                                       | **Aufgabe**                                                  | **Schutz Drittstaatentransfer**                            | OpenProjects Datenschutz-Strategie                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- | ----------------------------------------------------------- |
 | Amazon Web Services EMEA SARL  38 Avenue John F. Kennedy  L-1855, Luxemburg | Infrastructure-as-a-Service                                  | Standarddatenschutzklauseln  (Art. 46 Abs. 2 lit. c DSGVO) | Migration zu einem Anbieter mit Unternehmnenssitz in der EU |
 | MessageBird B.V.  Baarsjesweg 285-H  1058 AE Amsterdam, Niederlande | Übermittlung von Authentifizierungstoken für die Zweifaktor-Authentifizierung | kein Transfer                                              |                                                             |
