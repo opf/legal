@@ -329,13 +329,11 @@ You have the right to withdraw your consent at any time with effect for the futu
 
 ## Purpose of data processing
 
-We share your data with our service provider HubSpot Inc, 25 First Street, Cambridge, MA 02141 USA, to the extent permitted by law. This company handles the newsletter dispatch for us.
+Newsletter distribution
 
 ## Duration of the storage of your personal data
 
 We store your personal data for the duration of your respective subscription to our newsletter.
-
-You are not obliged to provide your personal data. Provision thereof is neither legally nor contractually required. However, failure to provide this information could result in you not being able to subscribe to our newsletter.
 
 # 4\. OpenProject Enterprise Cloud (SaaS)
 

@@ -327,13 +327,11 @@ Sie haben das Recht, Ihre Einwilligung jederzeit ohne Angabe von Gründen mit Wi
 
 ## Zweck der Datenverarbeitung
 
-Wir geben Ihre Daten im Rahmen des gesetzlich Zulässigen an unseren Dienstleister HubSpot Inc., 25 First Street, Cambridge, MA 02141 USA, weiter. Dieser übernimmt für uns den Newsletter-Versand.
+Newsletter-Versand
 
 ## Dauer der Speicherung Ihrer personenbezogenen Daten
 
 Wir speichern Ihre personenbezogenen Daten für die Dauer Ihres jeweiligen Abonnements unseres Newsletters.
-
-Sie sind nicht zur Bereitstellung Ihrer personenbezogenen Daten verpflichtet. Die Bereitstellung ist weder gesetzlich noch vertraglich vorgeschrieben. Die Nichtbereitstellung könnte jedoch ggfs. zur Folge habe, dass Sie unseren Newsletter nicht abonnieren können.
 
 # 4. OpenProject Enterprise Cloud (SaaS)
 
