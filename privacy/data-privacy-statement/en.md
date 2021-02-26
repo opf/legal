@@ -157,7 +157,7 @@ The personal data when using Matomo without cookies are stored for 24 hours.
 
 Necessary cookies are technically required for the proper operation of our websites. They ensure the technical stability of our websites and enable security-relevant functionalities.
 
-The cookies used do not contain any personal data, i.e. no IP addresses or other information are collected allowing a tracing back to you personally. We use the necessary cookies listed below:
+The cookies used do not contain any IP addresses or other information allowing a tracing back to you personally. We use the necessary cookies listed below:
 
 | **Cookie**| **Provider**| **Purpose**| **Deletion deadline**| **Type**|
 |----------|----------|----------|----------|----------|

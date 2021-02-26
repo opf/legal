@@ -156,7 +156,7 @@ Die personenbezogenen Daten beim Einsatz von Matomo ohne Cookies werden für 24 
 
 Notwendige Cookies sind für den ordnungsgemäßen Betrieb unserer Webseiten technisch erforderlich. Sie stellen die technische Stabilität unserer Webseiten sicher und ermöglichen sicherheits-relevante Funktionalitäten.
 
-Die eingesetzten Cookies beinhalten keine personenbezogenen Daten, d.h. es werden keine IP-Adressen oder sonstige Informationen erfasst, die das Zurückverfolgen auf Ihre Person ermöglichen. Wir setzen die im Folgenden aufgeführten notwendigen Cookies ein:
+Die eingesetzten Cookies beinhalten keine IP-Adressen oder sonstige Informationen, die das Zurückverfolgen auf Ihre Person ermöglichen. Wir setzen die im Folgenden aufgeführten notwendigen Cookies ein:
 
 | **Cookie**  | **Anbieter**          | **Zweck**                                                    | **Löschfrist** | **Typ** |
 | ----------- | --------------------- | ------------------------------------------------------------ | -------------- | ------- |
