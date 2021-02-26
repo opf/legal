@@ -485,7 +485,7 @@ Die Löschung Ihrer Daten erfolgt nach Ablauf der steuer- und handelsrechtlichen
 
 ## Rechtsgrundlage
 
-Die Datenverarbeitung im Zusammenhang mit dem Bestellprozess erfolgt auf Grundlage des Art. 6 Absatz 1 lit. b DS-GVO, d.h. die Verarbeitung Ihrer Daten ist für die Bestellabwicklung erforderlich.
+Die Datenverarbeitung im Zusammenhang mit dem Bestellprozess erfolgt auf Grundlage des Art. 6 Absatz 1 lit. b DS-GVO.
 
 ## Zweck der Datenverarbeitung
 
@@ -494,8 +494,6 @@ Zweck der Datenverarbeitung ist die Abwicklung von über unser Buchungstool gesc
 ## Dauer der Speicherung Ihrer personenbezogenen Daten
 
 Wir verarbeiten Ihre Daten für die Dauer unserer Vertragsbeziehung. Das schließt auch die Anbahnung eines Vertrages mit ein (vorvertragliches Rechtsverhältnis). Die Löschung Ihrer Daten erfolgt nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen. Diese betragen gemäß § 147 Abgabenordnung (AO) für Buchungsbelege volle 10 Jahre und gemäß § 257 Handelsgesetzbuch (HGB) für Geschäftsunterlagen volle 6 Jahre.
-
-Die Bereitstellung Ihrer personenbezogenen Daten ist für einen Vertragsabschluss erforderlich.
 
 # 6. OpenProject Community-Plattform
 

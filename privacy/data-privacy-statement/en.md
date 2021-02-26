@@ -487,7 +487,7 @@ Your data will be deleted after expiry of the retention periods pursuant to tax 
 
 ## Legal basis
 
-Data processing in connection with the ordering process is based on Article 6(1)(b) GDPR, i.e. the processing of your data is necessary for order processing.
+Data processing in connection with the ordering process is based on Article 6(1)(b) GDPR.
 
 ## Purpose of data processing
 
@@ -496,8 +496,6 @@ The purpose of data processing is the processing of contracts concluded via our 
 ## Duration of the storage of your personal data
 
 We process your data for the duration of our contractual relationship. This also includes the initiation of a contract (pre-contractual legal relationship). Your data will be deleted after expiry of the retention periods pursuant to tax and commercial law. These are, according to Section 147 of the German Fiscal Code (AO), a full ten years for accounting documents and according to Section 257 of the German Commercial Code (HGB), a full six years for business documents.
-
-The provision of your personal data is necessary in order to conclude a contract with you.
 
 # 6\. OpenProject Community Platform
 
