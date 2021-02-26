@@ -294,8 +294,6 @@ For the purpose and scope of data processing by Google, as well as your rights i
 
 If your contact refers to a contract or is a pre-contractual contact, Article 6(1)(b) GDPR is the legal basis for this. In all other cases, the legal basis for processing your data is Article 6(1)(f) GDPR. It is our legitimate interest to process your contact requests.
 
-Right of object According to Article 21 GDPR, you have the right to object to the processing of your personal data at any time with effect for the future, for example by sending an e-mail to [privacy@openproject.com](mailto:privacy@openproject.com).We will then cease to process your personal data unless we can demonstrate compelling legitimate grounds for our processing that override your interests, rights and freedoms, or the processing serves the purpose of asserting, exercising or defending legal claims.
-
 ## Purpose of data processing
 
 The purpose of the data processing is the handling of your contact request. The data will be processed exclusively for this purpose.

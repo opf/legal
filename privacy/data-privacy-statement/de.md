@@ -292,8 +292,6 @@ Zweck und Umfang der Datenverarbeitung durch Google sowie Ihre diesbezüglichen 
 
 Bezieht sich Ihre Kontaktaufnahme auf einen Vertrag oder handelt es sich um eine vorvertragliche Kontaktaufnahme, ist Art. 6 Abs. 1 lit. b DS-GVO die Rechtsgrundlage. In allen anderen Fällen ist die Rechtsgrundlage für die Verarbeitung Ihrer Daten Art. 6 Abs. 1 lit. f DS-GVO. Es ist unser berechtigtes Interesse, Ihre Kontaktanfragen zu bearbeiten.
 
-WiderspruchsrechtNach Art. 21 DS-GVO haben Sie das Recht, der Verarbeitung Ihrer personenbezogenen Daten jederzeit mit Wirkung für die Zukunft zu widersprechen, beispielsweise per E-Mail an [privacy@openproject.com](mailto:privacy@openproject.com).Ihre personenbezogenen Daten werden in der Folge nicht weiter verarbeitet, es sei denn, wir können zwingende schutzwürdige Gründe für unsere Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
-
 ## Zweck der Datenverarbeitung
 
 Zweck der Datenverarbeitung ist die Bearbeitung Ihrer Kontaktanfrage. Die Daten werden ausschließlich zu diesem Zweck verarbeitet.
