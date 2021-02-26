@@ -197,7 +197,7 @@ Your data will be deleted no later than 90 days.
 
 ### Blog (WordPress)
 
-We use a blog on our websites to inform you about current developments and campaigns. Your data will be processed only to the extent necessary for the presentation and communication of this between authors and readers or for security reasons. If you leave comments, your IP address may be stored based on our legitimate interest This is done for security reasons in case someone leaves illegal content in comments. The following personal data may be collected from you:
+We use a blog on our websites to inform you about current developments and campaigns. Your data will be processed only to the extent necessary for the presentation and communication of this between authors and readers or for security reasons. If you leave comments, your IP address may be stored based on our legitimate interest. This is done in case someone leaves illegal content in comments. The following personal data may be collected from you:
 
 - Name
 - Address
@@ -210,10 +210,6 @@ We use a blog on our websites to inform you about current developments and campa
 #### Legal basis
 
 The legal basis for data processing in connection with our blog is our legitimate interest pursuant to Article 6(1)(f) GDPR.
-
-**Right to object**
-
-> According to Article 21 GDPR, you have the right to object to the processing of your personal data at any time with effect for the future, for example by sending an e-mail to privacy@openproject.com. We will then cease to process your personal data unless we can demonstrate compelling legitimate grounds for our processing that override your interests, rights and freedoms, or the processing serves the purpose of asserting, exercising or defending legal claims.
 
 #### Purpose of data processing
 

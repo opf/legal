@@ -196,7 +196,7 @@ Ihre Daten werden nach spätestens 90 Tagen gelöscht.
 
 ### Blog (WordPress)
 
-Wir nutzen auf unseren Webseiten einen Blog, um Sie über aktuelle Entwicklungen und Aktionen zu informieren. Ihre Daten werden nur insoweit verarbeitet, als es für dessen Darstellung und die Kommunikation zwischen Autoren und Lesern oder aus Gründen der Sicherheit erforderlich ist. Sofern Sie Kommentare hinterlassen, kann Ihre IP-Adresse auf Grundlage unseres berechtigten Interesses gespeichert werden. Dies erfolgt aus sicherheitsrechtlichen Gründen für den Fall, dass jemand in Kommentaren widerrechtliche Inhalte hinterlassen sollte. Folgende personenbezogene Daten können von Ihnen erfasst werden:
+Wir nutzen auf unseren Webseiten einen Blog, um Sie über aktuelle Entwicklungen und Aktionen zu informieren. Ihre Daten werden nur insoweit verarbeitet, als es für dessen Darstellung und die Kommunikation zwischen Autoren und Lesern oder aus Gründen der Sicherheit erforderlich ist. Sofern Sie Kommentare hinterlassen, kann Ihre IP-Adresse auf Grundlage unseres berechtigten Interesses gespeichert werden. Dies erfolgt für den Fall, dass jemand in Kommentaren widerrechtliche Inhalte hinterlassen sollte. Folgende personenbezogene Daten können von Ihnen erfasst werden:
 
 - Name,
 - Adresse,
@@ -209,10 +209,6 @@ Wir nutzen auf unseren Webseiten einen Blog, um Sie über aktuelle Entwicklungen
 #### Rechtsgrundlage
 
 Rechtsgrundlage für die Datenverarbeitung im Zusammenhang mit unserem Blog ist unser berechtigtes Interesse gem. Art. 6 Abs. 1 lit. f. DS-GVO.
-
-**Widerspruchsrecht**
-
-> Nach Art. 21 DS-GVO haben Sie das Recht, der Verarbeitung Ihrer personenbezogenen Daten jederzeit mit Wirkung für die Zukunft zu widersprechen, beispielsweise per E-Mail an privacy@openproject.com. Wir verarbeiten Ihre personenbezogenen Daten in der Folge nicht weiter, es sei denn, wir können zwingende schutzwürdige Gründe für unsere Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
 
 #### Zweck der Datenverarbeitung
 
