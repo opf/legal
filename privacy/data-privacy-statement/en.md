@@ -577,15 +577,13 @@ The Release API call includes only the following information:
 
 For anonymization of the call, the call contains a randomly generated identification code. This ensures that an environment is not statistically recorded twice.
 
-## Legal basis for the processing
-
-The legal basis for processing in connection with the OpenProject Release API is Article 6(1)(f) GDPR.
-
-## Right to object
-
 You can disable the call of the Release API in your OpenProject entity by unchecking "Administration > System Settings > General > Show Update Security badge" or by setting the `security_badge_displayed: false` configuration policy. For more information, please refer to the [documentation](https://docs.openproject.org/system-admin-guide/information/#security-badge).
 
 In case of deactivation of the automatic check, it is up to you to check the availability of new versions manually.
+
+## Legal basis for the processing
+
+The legal basis for processing in connection with the OpenProject Release API is Article 6(1)(b) GDPR.
 
 ## Purpose of data processing
 

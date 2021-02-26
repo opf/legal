@@ -575,15 +575,13 @@ Der Aufruf der Release-API umfasst ausschließlich folgende Informationen:
 
 Für die Anonymisierung des Aufrufs enthält der Aufruf ein zufällig generiertes Identifikationskürzel. Hiermit wird sichergestellt, dass eine Umgebung nicht doppelt statistisch erfasst wird.
 
-## Rechtsgrundlage der Datenverarbeitung
-
-Rechtsgrundlage für die Verarbeitung im Zusammenhang mit der OpenProject Release API ist Art. 6 Abs. 1 lit. f DS-GVO.
-
-## Widerspruchsrecht
-
 Sie können den Aufruf der Release-API in Ihrer OpenProject-Instanz deaktivieren, in dem Sie den Haken unter „Administration > Systemeinstellungen > Allgemein > Plakette zur Update-Sicherheit anzeigen“ entfernen oder die Konfigurationsrichtlinie `security_badge_displayed: false` setzen. Weitere Informationen hierzu entnehmen Sie bitte der [Dokumentation](https://docs.openproject.org/system-admin-guide/information/#security-badge).
 
 Im Falle der Deaktivierung der automatischen Prüfung, bleibt es Ihnen überlassen, die Verfügbarkeit neuer Versionen manuell zu überprüfen.  
+
+## Rechtsgrundlage der Datenverarbeitung
+
+Rechtsgrundlage für die Verarbeitung im Zusammenhang mit der OpenProject Release API ist Art. 6 Abs. 1 lit. b DS-GVO.
 
 ## Zweck der Datenverarbeitung
 
