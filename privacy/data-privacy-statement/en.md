@@ -351,7 +351,7 @@ To use our SaaS platform, the registration of a user account is required. In thi
 
 ### Creation of an OpenProject entity
 
-For the creation of your own OpenProject entity we collect and process the following personal data:
+For the creation of your own OpenProject entity we collect and process the following  data:
 
 - Name of the organization
 - URL of the OpenProject entity

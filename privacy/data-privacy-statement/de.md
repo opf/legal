@@ -335,7 +335,7 @@ Wir speichern Ihre personenbezogenen Daten für die Dauer Ihres jeweiligen Abonn
 
 # 4. OpenProject Enterprise Cloud (SaaS)
 
-Besucher unserer Webseiten können sich in unser SaaS-Plattform eine eigene OpenProject-Instanz erstellen.
+Kunden und Interessenten können sich in unser SaaS-Plattform eine eigene OpenProject-Instanz erstellen.
 
 ## Umfang der Datenverarbeitung
 
@@ -349,7 +349,7 @@ Für die Nutzung unserer SaaS-Plattform ist die Registrierung eines Benutzerkont
 
 ### Anlegen einer OpenProject-Instanz
 
-Für das Anlegen einer eigenen OpenProject-Instanz werden folgende personenbezogene Daten durch uns erfasst und verarbeitet:
+Für das Anlegen einer eigenen OpenProject-Instanz werden folgende Daten durch uns erfasst und verarbeitet:
 
 - Name der Organisation,
 - URL der OpenProject-Instanz.
