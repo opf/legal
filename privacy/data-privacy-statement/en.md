@@ -179,7 +179,7 @@ It is not possible to use our websites without such processing of data, i.e. you
 
 Each time you visit our websites, a series of general data and information, including personal data, is collected by our systems. The following data are stored in the log files of our server:
 
-- IP address (if necessary in anonymized, shortened form)
+- IP address
 - Date and time of the request (time-stamp)
 - Request details and destination address (protocol version, HTTP method, referrer, UserAgent string)
 - Name of the retrieved file and transferred data volume (requested URL incl. query string, size in bytes)
@@ -191,9 +191,9 @@ Each time you visit our websites, a series of general data and information, incl
 
 When processing this data, we do not draw any conclusions about your person. No personal evaluation nor evaluation of the data for marketing purposes or profiling takes place.
 
-The legal basis for the processing of the data is Article 6(1)(f) GDPR. The processing of the data is mandatory for technical purposes in order to provide our websites and to ensure the stability and security of our systems. It is not possible to use our websites without such processing of data, i.e. you have no option to object.
+The legal basis for the processing of the data is Article 6(1)(f) GDPR. The processing of the data is mandatory for technical purposes in order to provide our websites. It is not possible to use our websites without such processing of data.
 
-Your data will be deleted as soon as you leave our websites and the respective session has ended. In the case of storage of your personal data in log files, deletion takes place after no later than 90 days.
+Your data will be deleted no later than 90 days.
 
 ### Blog (WordPress)
 

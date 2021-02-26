@@ -178,7 +178,7 @@ Es besteht keine Möglichkeit, unsere Webseiten ohne eine solche Verarbeitung vo
 
 Bei jedem Besuch unserer Webseiten werden eine Reihe von allgemeinen Daten und Informationen, einschließlich personenbezogener Daten, durch unsere Systeme erfasst. Folgende Daten werden in den Logfiles unseres Servers gespeichert:
 
-- IP-Adresse (ggf. in anonymisierter, gekürzter Form),
+- IP-Adresse,
 - Datum und Uhrzeit der Anfrage (Zeitstempel),
 - Anfragedetails und Zieladresse (Protokollversion, HTTP-Methode, Referer, UserAgent-String),
 - Name der abgerufenen Datei und übertragene Datenmenge (angefragte URL inkl. Query-String, Größe in Byte),
@@ -190,9 +190,9 @@ Bei jedem Besuch unserer Webseiten werden eine Reihe von allgemeinen Daten und I
 
 Bei der Verarbeitung dieser Daten ziehen wir keine Rückschlüsse auf Ihre Person. Es erfolgt weder eine personenbezogene Auswertung noch eine Auswertung der Daten zu Marketingzwecken oder eine Profilbildung.
 
-Rechtsgrundlage für die Verarbeitung der Daten ist Art. 6 Abs. 1 lit. f DS-GVO. Die Verarbeitung der Daten ist technisch zwingend erforderlich, um unsere Webseiten bereitstellen und die Stabilität und Sicherheit unseres Systeme gewährleisten zu können. Es besteht keine Möglichkeit, unsere Webseiten ohne eine solche Verarbeitung von Daten zu nutzen, d.h. Sie haben keine Widerspruchsmöglichkeit.
+Rechtsgrundlage für die Verarbeitung der Daten ist Art. 6 Abs. 1 lit. f DS-GVO. Die Verarbeitung der Daten ist technisch zwingend erforderlich, um unsere Webseiten bereitstellen zu können. Es besteht keine Möglichkeit, unsere Webseiten ohne eine solche Verarbeitung von Daten zu nutzen.
 
-Ihre Daten werden gelöscht, sobald Sie unsere Webseiten verlassen und damit die jeweilige Sitzung beendet ist. Im Falle der Speicherung Ihrer personenbezogenen Daten in Logfiles erfolgt die Löschung nach spätestens 90 Tagen.
+Ihre Daten werden nach spätestens 90 Tagen gelöscht.
 
 ### Blog (WordPress)
 
