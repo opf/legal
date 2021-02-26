@@ -230,10 +230,6 @@ Rechtsgrundlage für die Verarbeitung der Daten im Zusammenhang mit Algolia ist 
 
 Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Algolia:[ https://www.algolia.com/policies/privacy](https://www.algolia.com/policies/privacy).
 
-**Widerspruchsrecht**
-
-> Nach Art. 21 DS-GVO haben Sie das Recht, der Verarbeitung Ihrer personenbezogenen Daten jederzeit mit Wirkung für die Zukunft zu widersprechen, beispielsweise per E-Mail an [privacy@openproject.com](mailto:privacy@openproject.com). Ihre personenbezogenen Daten werden in der Folge nicht weiter verarbeitet, es sei denn, wir können zwingende schutzwürdige Gründe für unsere Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
-
 #### Zweck der Datenverarbeitung
 
 Damit Sie auf unseren Webseiten einfacher navigieren und die gesuchten Inhalte leichter finden können, haben wir die Algolia-Suche eingebaut. Darin besteht auch unser berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit f. DSGVO.

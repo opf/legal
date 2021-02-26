@@ -231,10 +231,6 @@ The legal basis for the processing of data in connection with Algolia is Article
 
 For more information on the handling of user data, please refer to Algolia's privacy policy:[ https://www.algolia.com/policies/privacy](https://www.algolia.com/policies/privacy).
 
-**Right to object**
-
-> According to Article 21 GDPR, you have the right to object to the processing of your personal data at any time with effect for the future, for example by sending an e-mail to [privacy@openproject.com](mailto:privacy@openproject.com). We will then cease to process your personal data unless we can demonstrate compelling legitimate grounds for our processing that override your interests, rights and freedoms, or the processing serves the purpose of asserting, exercising or defending legal claims.
-
 #### Purpose of data processing
 
 To make it easier for you to navigate our websites and find the content you are looking for, we have incorporated the Algolia search function. This also constitutes our legitimate interest within the meaning of Article 6(1)(f) GDPR.
