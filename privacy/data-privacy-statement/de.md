@@ -51,7 +51,7 @@ Diese Datenschutzerklärung umfasst die Verarbeitung personenbezogener Daten der
 
 ## Verantwortliche Stelle
 
-**Verantwortliche** im Sinne der Datenschutz-Grundverordnung (DS-GVO) und anderer nationaler Datenschutzgesetze sowie sonstiger datenschutzrechtlicher Bestimmungen ist die
+**Verantwortliche** im Sinne der Datenschutz-Grundverordnung (DS-GVO) und anderer deutscher Datenschutzgesetze sowie sonstiger datenschutzrechtlicher Bestimmungen ist die
 
 OpenProject GmbH
 
@@ -81,7 +81,7 @@ GPG Schlüssel: [BC5D D292 8DD3 3B95 B6F7 0272 FE3F 95A3 135C 46A1](https://keys
 
 ## Rechtsgrundlagen für die Verarbeitung personenbezogener Daten
 
-Die Verarbeitung Ihrer personenbezogener Daten erfolgt regelmäßig nach Einwilligung, gem. Art. 6 Abs. 1 lit. a DS-GVO. Eine Ausnahme gilt in solchen Fällen, in denen eine vorherige Einholung einer Einwilligung aus tatsächlichen Gründen nicht möglich ist und uns die Verarbeitung der Daten durch gesetzliche Vorschriften gestattet ist. Sofern die Datenverarbeitung für die Erfüllung eines Vertrags oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist, erfolgt dies auf Grundlage von Art. 6 Abs. 1 lit. b DS-GVO. Eine Datenverarbeitung, die auf unserem berechtigtem Interesse beruht, richtet sich nach Art. 6 Abs. 1 lit. f DS-GVO. Zusätzlich zu den Datenschutzregelungen der Datenschutz-Grundverordnung gelten nationale Regelungen zum Datenschutz in Deutschland. Hierzu gehört insbesondere das Bundesdatenschutzgesetz (BDSG).
+Die Verarbeitung Ihrer personenbezogener Daten erfolgt regelmäßig zur Vorbereitung oder Erfüllung eines entsprechenden Vertrags über die Nutzung unserer Dienste, gem. Art. 6 Abs. 1 lit. b DS-GVO. Datenverarbeitungen, die auf unserem berechtigtem Interesse beruhen, richten sich nach Art. 6 Abs. 1 lit. f DS-GVO. Verarbeitungen auf Grundlage eines berechtigten Interesses dürfen mit Verweis auf Gründe, die sich aus Ihrer besonderen Situation ergeben, widersprechen, gem. Art. 21 DSG-VO. Vereinzelt ist Ihre Einwilligung die Rechtsgrundlage, gem. Art. 6 Abs. 1 lit. a DS-GVO, die Sie jederzeit widerrufen können. Zusätzlich zu den Datenschutzregelungen der Datenschutz-Grundverordnung gelten nationale Regelungen zum Datenschutz in Deutschland. Hierzu gehört insbesondere das Bundesdatenschutzgesetz (BDSG).
 
 ## Rechte der betroffenen Person
 

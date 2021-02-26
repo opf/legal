@@ -52,7 +52,7 @@ This privacy policy covers the processing of personal data by OpenProject GmbH i
 
 ## Controller
 
-The **Controller** within the meaning of the General Data Protection Regulation (GDPR), other national data privacy laws and other legal data privacy provisions is
+The **Controller** within the meaning of the General Data Protection Regulation (GDPR), other German data privacy laws and other legal data privacy provisions is
 
 OpenProject GmbH
 
@@ -82,7 +82,7 @@ GPG Key: [BC5D D292 8DD3 3B95 B6F7 0272 FE3F 95A3 135C 46A1](https://keys.openpg
 
 ## Legal bases for the processing of personal data
 
-The processing of your personal data generally takes place after consent, according to Article 6(1)(a) GDPR. An exception applies in those cases where obtaining prior consent is not possible for practical reasons and we are permitted to process the data by law. If the data processing is necessary for the fulfillment of a contract or for the implementation of pre-contractual measures, this is performed on the basis of Article 6(1)(b) GDPR. Data processing based on our legitimate interest is governed by Article 6(1)(f) GDPR. In addition to the data privacy regulations of the General Data Protection Regulation, national regulations on data privacy apply in Germany. These include in particular the German Federal Data Protection Act (BDSG).
+The processing of your personal data generally takes place for the preparation or fulfilment of a corresponding contract regarding the use of our services, pursuant to Art. 6 para. 1 lit. b GDPR. Data processing based on our legitimate interest is governed by Art. 6 para. 1 lit. f GDPR. Processing based on a legitimate interest may be objected to with reference to reasons arising from your particular situation, pursuant to Art. 21 GDPR. In some cases, your consent is the legal basis, pursuant to Article 6 (1) (a) GDPR, which you may revoke at any time. In addition to the data privacy regulations of the General Data Protection Regulation, national regulations on data privacy apply in Germany. These include in particular the German Federal Data Protection Act (BDSG).
 
 ## Rights of data subjects
 
