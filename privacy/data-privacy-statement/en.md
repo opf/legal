@@ -3,7 +3,7 @@
 
 # Privacy Policy
 
-Version: 2020-01-12
+Version: 2020-02-26
 
 ## Summary
 
