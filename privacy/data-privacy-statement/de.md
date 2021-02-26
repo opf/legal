@@ -532,26 +532,13 @@ In der Community Plattform können sich Nutzer selbständig und ohne manuelle Fr
 
 Rechtsgrundlage für die Verarbeitung der Daten ist Art. 6 Abs. 1 lit. f DS-GVO. Unser hierfür erforderliches berechtigtes Interesse liegt in der Verhinderung von missbräuchlichen Verhalten auf unseren Webseiten. Der Einsatz von Google reCAPTCHA erhöht den Grad der Zuverlässigkeit der auf unseren Webseiten vorgenommenen Eingaben und führt zur Beschleunigung und Vereinfachung unseres Arbeitsaufwandes.
 
-**Widerspruchsrecht**
-
-> Nach Art. 21 DS-GVO haben Sie das Recht, der Verarbeitung Ihrer personenbezogenen Daten jederzeit mit Wirkung für die Zukunft zu widersprechen, beispielsweise per E-Mail an privacy@openproject.com. Wir verarbeiten Ihre personenbezogenen Daten in der Folge nicht weiter, es sei denn, wir können zwingende schutzwürdige Gründe für unsere Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
->
-> Sie sind nicht zur Bereitstellung Ihrer personenbezogenen Daten verpflichtet. Die Bereitstellung ist weder gesetzlich oder vertraglich vorgeschrieben noch für einen Vertragsabschluss erforderlich. Die Nichtbereitstellung könnte jedoch ggfs. zur Folge habe, dass Sie unsere Webseiten nicht bzw. nicht vollumfänglich nutzen können.
-
 ## Rechtsgrundlage
 
-Rechtsgrundlage für die Verarbeitung Ihrer Daten im Zusammenhang mit der OpenProjct Community-Plattform ist neben Ihrer Einwilligung gem. Art. 6 Absatz 1 lit. a DS-GVO unser berechtigtes Interesse gem. Art. 6 Abs. 1 lit. f DS-GVO. Es ist unser berechtigtes Interesse, die von Ihnen verfassten Kommentare im Rahmen unserer Community Plattform zu verarbeiten.
-
-### Widerrufsrecht 
-Sie haben das Recht, Ihre Einwilligung jederzeit ohne Angabe von Gründen mit Wirkung für die Zukunft zu widerrufen, beispielsweise indem Sie Ihren Beitrag löschen. In diesem Fall können Sie jedoch nicht weiter auf unsere Systeme zugreifen.
-
-### Widerspruchsrecht 
-> Nach Art. 21 DS-GVO haben Sie das Recht, der Verarbeitung Ihrer personenbezogenen Daten jederzeit mit Wirkung für die Zukunft zu widersprechen, beispielsweise per E-Mail an privacy@openproject.com. Wir verarbeiten Ihre personenbezogenen Daten in der Folge nicht weiter, es sei denn, wir können zwingende schutzwürdige Gründe für unsere Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
->
+Rechtsgrundlage für die Verarbeitung Ihrer Daten im Zusammenhang mit der OpenProjct Community-Plattform ist Vertragserfüllung gem. Art. 6 Absatz 1 lit. b DS-GVO.
 
 ## Zweck der Datenverarbeitung
 
-Da wir die Nutzerbeiträge auf unseren Webseiten nicht vor der Freischaltung prüfen, benötigen wir die erhobenen Daten, um im Falle von Rechtsverletzungen gegen den Verfasser vorgehen zu können.
+Bereitstellung der Community-Plattform.
 
 ## Dauer der Speicherung Ihrer personenbezogenen Daten
 

@@ -534,27 +534,13 @@ In the community platform, users can register a user account independently and w
 
 The legal basis for the processing of the data is Article 6(1)(f) GDPR. Our necessary legitimate interest lies in the prevention of abusive behavior on our websites. The use of Google reCAPTCHA increases the degree of reliability of the entries made on our websites and leads to an acceleration and simplification of our workload.
 
-**Right to object**
-
-> According to Article 21 GDPR, you have the right to object to the processing of your personal data at any time with effect for the future, for example by sending an e-mail to privacy@openproject.com. We will then cease to process your personal data unless we can demonstrate compelling legitimate grounds for our processing that override your interests, rights and freedoms, or the processing serves the purpose of asserting, exercising or defending legal claims.
->
-> You are not obliged to provide your personal data. The provision is neither legally or contractually required nor necessary for the conclusion of a contract. However, failure to provide this information could result in you not being able to use our websites or not being able to use them to their full extent.
-
 ## Legal basis
 
-The legal basis for processing your data in connection with the OpenProject Community Platform is, in addition to your consent pursuant to Article 6(1)(a) GDPR, our legitimate interest pursuant to Article 6(1)(f) GDPR. It is our legitimate interest to process the comments you have written in the context of our community platform.
-
-### Right of withdrawal
-
-You have the right to withdraw your consent at any time with effect for the future without giving reasons, for example by deleting your contribution. In this case, however, you will no longer be able to access our systems.
-
-### Right to object
-
-> According to Article 21 GDPR, you have the right to object to the processing of your personal data at any time with effect for the future, for example by sending an e-mail to privacy@openproject.com. We will then cease to process your personal data unless we can demonstrate compelling legitimate grounds for our processing that override your interests, rights and freedoms, or the processing serves the purpose of asserting, exercising or defending legal claims.
+The legal basis for processing your data in connection with the OpenProject Community Platform is fulfilment of a contract pursuant to Article 6(1)(b) GDPR.
 
 ## Purpose of data processing
 
-Since we do not check the user contributions on our websites before they are activated, we require the data collected in order to be able to take action against the author in the event of legal violations.
+Provision of the community platform.
 
 ## Duration of the storage of your personal data
 
