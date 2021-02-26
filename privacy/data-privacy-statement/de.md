@@ -407,7 +407,7 @@ Sie haben die Möglichkeit, die gebuchten Leistungen per Kreditkarte zu bezahlen
 
 #### Umfang der Datenverarbeitung
 
- Bei der Bezahlung per Kreditkarte werden die folgenden von Ihnen eingegebenen und für die Zahlungsabwicklung erforderlichen personenbezogenen Daten an Stripe übermittelt:
+Bei der Bezahlung per Kreditkarte werden die folgenden von Ihnen eingegebenen und für die Zahlungsabwicklung erforderlichen personenbezogenen Daten an Stripe übermittelt:
 
 - Name,
 - Rechnungsadresse,
@@ -418,11 +418,11 @@ Sie haben die Möglichkeit, die gebuchten Leistungen per Kreditkarte zu bezahlen
 - Mobiltelefonnummer,
 - Umsatzsteuer-ID.
 
- Die an Stripe übermittelten Daten werden von Stripe unter Umständen an Wirtschaftsauskunfteien übermittelt. Diese Übermittlung dient der Identitäts- und Bonitätsprüfung. Informationen zum Datenschutz von Stripe stehen hier bereit: https://stripe.com/de/privacy
+Die an Stripe übermittelten Daten werden von Stripe unter Umständen an Wirtschaftsauskunfteien übermittelt. Diese Übermittlung dient der Identitäts- und Bonitätsprüfung. Informationen zum Datenschutz von Stripe stehen hier bereit: https://stripe.com/de/privacy
 
 #### Rechtsgrundlage
 
-Rechtsgrundlage für die Weitergabe der im Rahmen der Beauftragung mitgeteilten Daten ist Art. 6 Abs. 1 lit. b DSGVO weitergeben.
+Rechtsgrundlage für die Weitergabe der im Rahmen der Beauftragung mitgeteilten Daten ist Art. 6 Abs. 1 lit. b DSGVO.
 
 #### Zweck der Datenverarbeitung
 
@@ -430,7 +430,7 @@ Die Weitergabe Ihrer Daten erfolgt ausschließlich zum Zwecke der Zahlungsabwick
 
 #### Dauer der Speicherung Ihrer personenbezogenen Daten
 
-Wir verarbeiten Ihre Daten für die Dauer unserer Vertragsbeziehung. Das schließt auch die Anbahnung eines Vertrages mit ein (vorvertragliches Rechtsverhältnis). Die Löschung Ihrer Daten erfolgt nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen. Diese betragen gemäß § 147 Abgabenordnung (AO) für Buchungsbelege volle 10 Jahre und gemäß § 257 Handelsgesetzbuch (HGB) für Geschäftsunterlagen volle 6 Jahre.
+Die Löschung Ihrer Daten erfolgt nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen. Diese betragen gemäß § 147 Abgabenordnung (AO) für Buchungsbelege volle 10 Jahre und gemäß § 257 Handelsgesetzbuch (HGB) für Geschäftsunterlagen volle 6 Jahre.
 
 ## Rechtsgrundlage
 

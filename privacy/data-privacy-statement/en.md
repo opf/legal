@@ -432,7 +432,7 @@ Your data will only be passed on for the purpose of payment processing with the 
 
 #### Duration of the storage of your personal data
 
-We process your data for the duration of our contractual relationship. This also includes the initiation of a contract (pre-contractual legal relationship). Your data will be deleted after expiry of the retention periods pursuant to tax and commercial law. These are, according to Section 147 of the German Fiscal Code (AO), a full ten years for accounting documents and according to Section 257 of the German Commercial Code (HGB), a full six years for business documents.
+Your data will be deleted after expiry of the retention periods pursuant to tax and commercial law. These are, according to Section 147 of the German Fiscal Code (AO), a full ten years for accounting documents and according to Section 257 of the German Commercial Code (HGB), a full six years for business documents.
 
 ## Legal basis
 
