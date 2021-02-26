@@ -434,9 +434,7 @@ Die Löschung Ihrer Daten erfolgt nach Ablauf der steuer- und handelsrechtlichen
 
 ## Rechtsgrundlage
 
-Die Datenverarbeitung im Zusammenhang mit der Registrierung eines Benutzerkontos erfolgt auf Grundlage des Art. 6 Absatz 1 lit. a DS-GVO, die Datenverarbeitung im Rahmen der Produktbuchung und Abrechnung erfolgt auf Grundlage von Art. 6 Absatz 1 lit. b DS-GVO, d.h. die Verarbeitung Ihrer Daten ist für die Buchungsabwicklung erforderlich. Darüber hinaus haben wir ein berechtigtes Interesse an der Optimierung und dem wirtschaftlichen Betrieb unserer SaaS-Plattform im Sinne des Art. 6 Absatz 1 lit. f DS-GVO.
-
-WiderrufsrechtSie haben das Recht, Ihre Einwilligung jederzeit ohne Angabe von Gründen mit Wirkung für die Zukunft zu widerrufen, beispielsweise indem Sie Ihr Benutzerkonto deaktivieren. In diesem Fall können Sie jedoch nicht weiter auf unsere Systeme zugreifen.WiderspruchsrechtNach Art. 21 DS-GVO haben Sie das Recht, der Verarbeitung Ihrer personenbezogenen Daten jederzeit mit Wirkung für die Zukunft zu widersprechen, beispielsweise per E-Mail an privacy@openproject.com.Wir verarbeiten Ihre personenbezogenen Daten in der Folge nicht weiter, es sei denn, wir können zwingende schutzwürdige Gründe für unsere Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+Die Datenverarbeitung im Zusammenhang mit der Registrierung eines Benutzerkontos, der Produktbuchung und Abrechnung erfolgt auf Grundlage des Art. 6 Absatz 1 lit. b DS-GVO. Darüber hinaus haben wir ein berechtigtes Interesse an der Optimierung und dem wirtschaftlichen Betrieb unserer SaaS-Plattform im Sinne des Art. 6 Absatz 1 lit. f DS-GVO.
 
 ## Zweck der Datenverarbeitung
 

@@ -436,9 +436,7 @@ Your data will be deleted after expiry of the retention periods pursuant to tax 
 
 ## Legal basis
 
-Data processing in connection with the registration of a user account is based on Article 6(1)(a) GDPR; data processing in the context of product booking and billing is based on Article 6(1)(b) GDPR, i.e. the processing of your data is necessary for booking processing. In addition, we have a legitimate interest in the optimization and economic operation of our SaaS platform within the meaning of Article 6(1) lit. f GDPR
-
-Right of withdrawal You have the right to withdraw your consent at any time with effect for the future without giving reasons, for example by deactivating your user account. In this case, however, you will no longer be able to access our systems. Right to object According to Article 21 GDPR, you have the right to object to the processing of your personal data at any time with future effect, for example by sending an e-mail to privacy@openproject.com. We will then cease to process your personal data unless we can demonstrate compelling legitimate grounds for our processing that override your interests, rights and freedoms, or the processing serves the purpose of asserting, exercising or defending legal claims.
+Data processing in connection with the registration of a user account, product booking and billing is based on Article 6(1)(a) GDPR.
 
 ## Purpose of data processing
 
