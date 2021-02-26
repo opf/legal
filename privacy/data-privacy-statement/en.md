@@ -129,15 +129,17 @@ Matomo is an open source software provided by InnoCraft ltd, 150 Willis St, 6011
 
 **The use of Matomo does not involve the creation of user profiles; only anonymous measurement values are collected. It is not possible to draw conclusions about your person. The purpose of web analysis is to improve the quality of our websites and their content. No cookies are used for this purpose.**
 
-### Legal basis
+Further information on Matomo's terms of use and data privacy can be found at https://matomo.org/privacy-policy/.
 
-You can technically disable the web analysis by deactivating JavaScript in your web browser. Details on the settings required for this can be found in the product descriptions and/or instructions of the various browser providers. The data processing in this context is performed on the basis of Article 6(1)(f) GDPR. Further information on Matomo's terms of use and data privacy can be found at https://matomo.org/privacy-policy/.
-
-#### Right to object
+You can technically disable the web analysis by deactivating JavaScript in your web browser. Details on the settings required for this can be found in the product descriptions and/or instructions of the various browser providers. 
 
 > You can prevent the collection of the aforementioned data and the processing thereof by installing a JavaScript blocker to prevent the collection of other website analysis data. You can object to the storage and evaluation of this data by Matomo at any time. At the bottom of this page you will find an opt-out dialog for this. In this case, a so-called **opt-out cookie** is permanently stored in your browser which instructs Matomo not to collect any data for storage and analysis.
 >
 > Alternatively, most modern browsers have a so-called "Do Not Track" option, with which you tell websites not to track your user activities. Matomo respects this option.
+
+### Legal basis
+
+The data processing is performed on the basis of Article 6(1)(f) GDPR. 
 
 ### Purpose of data processing
 
@@ -145,7 +147,7 @@ Matomo is used for the purpose of improving the quality of our website and its c
 
 ### Duration of the storage of your personal data
 
-We store all web tracking data collected using Matomo for an indefinite period of time, as this data is only available to us in anonymized form.
+The personal data when using Matomo without cookies are stored for 24 hours.
 
 ## Use of cookies
 

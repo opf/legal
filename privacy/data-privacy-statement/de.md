@@ -128,16 +128,17 @@ Matomo ist eine Open Source Software des Anbieters InnoCraft ltd., 150 Willis St
 
 **Durch den Einsatz von Matomo werden keine personenbezogenen Nutzerprofile erstellt, sondern nur anonyme Messwerte erhoben. Ein Rückschluss auf Ihre Person ist nicht möglich. Mit der Webanalyse bezwecken wir die Verbesserung der Qualität unserer Webseiten und ihrer Inhalte. Hierbei werden keine Cookies eingesetzt.**
 
-### Rechtsgrundlage
+Weitergehende Informationen zu Nutzungsbedingungen und Datenschutz von Matomo finden Sie unter https://matomo.org/privacy-policy/.
 
-Die Webanalyse können Sie technisch unterbinden, indem Sie JavaScript in Ihrem Webbrowser deaktivieren. Details zu den hierzu notwendigen Einstellungen finden sich in den Produktbeschreibungen bzw. Anleitungen der verschiedenen Browser-Anbieter. Die Datenverarbeitung erfolgt in diesem Zusammenhang auf Grundlage von Art. 6 Abs. 1 lit. f DS-GVO. Weitergehende Informationen zu Nutzungsbedingungen und Datenschutz von Matomo finden Sie unter https://matomo.org/privacy-policy/.
-
-#### Widerspruchsrecht
+Die Webanalyse können Sie technisch unterbinden, indem Sie JavaScript in Ihrem Webbrowser deaktivieren. Details zu den hierzu notwendigen Einstellungen finden sich in den Produktbeschreibungen bzw. Anleitungen der verschiedenen Browser-Anbieter. 
 
 > Sie können der Erfassung der vorgenannten Daten sowie deren Verarbeitung verhindern, indem Sie einen Java-Script-Blocker installieren, um die Erhebung sonstiger Website-Analysedaten zu verhindern. Sie können jederzeit der Speicherung und Auswertung dieser Daten durch Matomo widersprechen. Am Ende dieser Seite befindet sich hierzu ein Opt-Out-Dialog. In diesem Fall wird in Ihrem Browser dauerhaft ein **sog. Opt-Out-Cookie** abgelegt, der Matomo veranlasst, keinerlei Daten für die Speicherung und Auswertung zu erheben.
 >
 > Alternativ verfügen die meisten modernen Browser über eine so genannte „Do Not Track“-Option, mit der Sie Webseiten mitteilen, Ihre Nutzeraktivitäten nicht zu verfolgen. Matomo respektiert diese Option.
->
+
+### Rechtsgrundlage
+
+Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DS-GVO.
 
 ### Zweck der Datenverarbeitung
 
@@ -145,7 +146,7 @@ Die Verwendung von Matomo erfolgt zu dem Zweck, die Qualität unserer Webseiten 
 
 ### Dauer der Speicherung Ihrer personenbezogenen Daten
 
-Wir speichern alle mittels Matomo erhobenen Web-Tracking-Daten auf unbestimmte Zeit, da diese uns lediglich in anonymisierter Form vorliegen.
+Die personenbezogenen Daten beim Einsatz von Matomo ohne Cookies werden für 24 Stunden gespeichert.
 
 ## Verwendung von Cookies
 
