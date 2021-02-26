@@ -10,7 +10,7 @@ Unsere Systeme und Prozesse sind auf Ihre Privatsphäre und auf das Prinzip der 
 
 <img src="https://raw.githubusercontent.com/opf/legal/main/privacy/data-privacy-statement/Niels-Lindenthal.png" alt="Niels Lindenthal" style="width: 30%;"/>
 
-> *Datenschutz und Informationssicherheit haben einen zentralen Stellenwert in unserem Unternehmen und sind eine der Hauptmotive für die Entwicklung dieser Open Source Software. Wir sind sehr stolz auf die bisherigen Ergebnisse aber auch wir müssen noch “Data Privacy Debt” abbauen. Wir werden hier viel Energie und Lebenszeit investieren. Unser Ziel ist es OpenProject als Leuchtturmprojekt für „Datenschutz Made in Europe“ zur Perfektion zu bringen.* Wir haben uns große Mühe gegeben, um diese Richtlinie möglichst klar und einfach zu formulieren. Wir möchten, dass Sie alles verstehen. Sie sollen sich nicht durch viele Seiten unverständlichen Rechtstext hindurchkämpfen müssen. Daher freuen wir uns sehr über Ihre Rückmeldung und vielleicht sogar einen Austausch zum Thema Datenschutz und Sicherheit. In diesem Sinne unterliegt auch diese Datenschutzerklärung konsequenterweise einer [Open Source Lizenz](https://github.com/opf/legal/blob/main/data-protection/data-processing-agreement/de.md).
+> *Datenschutz und Informationssicherheit haben einen zentralen Stellenwert in unserem Unternehmen und sind eine der Hauptmotive für die Entwicklung dieser Open Source Software. Wir sind sehr stolz auf die bisherigen Ergebnisse, aber auch wir müssen noch “Data Privacy Debt” abbauen. Wir werden hier viel Energie und Lebenszeit investieren. Unser Ziel ist es, OpenProject als Leuchtturmprojekt für „Datenschutz Made in Europe“ zur Perfektion zu bringen.* Wir haben uns große Mühe gegeben, um diese Richtlinie möglichst klar und einfach zu formulieren. Wir möchten, dass Sie alles verstehen. Sie sollen sich nicht durch viele Seiten unverständlichen Rechtstext hindurchkämpfen müssen. Daher freuen wir uns sehr über Ihre Rückmeldung und vielleicht sogar einen Austausch zum Thema Datenschutz und Sicherheit. In diesem Sinne unterliegt auch diese Datenschutzerklärung konsequenterweise einer [Open Source Lizenz](https://github.com/opf/legal/blob/main/data-protection/data-processing-agreement/de.md).
 >
 > OpenProject – With Open Source and Open Mind.
 
@@ -28,7 +28,7 @@ Die Entwicklung von OpenProject als Open Source Software ist die entscheidendste
 
 Sofern ein Besucher unsere Webseite besucht, uns kontaktiert, unsere SaaS-Plattform nutzt oder unseren Software-Bereitstellungsdienst verwendet, ist die Verarbeitung bestimmter personenbezogener Daten erforderlich.
 
-Diese Verarbeitung erfolgt stets im Einklang mit der Datenschutz-Grundverordnung und in Übereinstimmung mit den nationalen Datenschutzbestimmungen.
+Diese Verarbeitung erfolgt stets im Einklang mit der Datenschutz-Grundverordnung und in Übereinstimmung mit den deutschen Datenschutzbestimmungen.
 
 Wir haben zahlreiche technische und organisatorische Maßnahmen umgesetzt, um einen möglichst lückenlosen Schutz Ihrer verarbeiteten personenbezogenen Daten sicherzustellen. Dennoch kann jede Technologie Sicherheitslücken aufweisen, so dass ein absoluter Schutz nicht gewährleistet werden kann.
 

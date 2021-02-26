@@ -29,7 +29,7 @@ The development of OpenProject as open source software is the most decisive and 
 
 If a visitor visits our website, contacts us, uses our SaaS platform or uses our software provision service, the processing of certain personal data is required.
 
-This processing is always carried out in accordance with the General Data Protection Regulation and in compliance with national data privacy regulations.
+This processing is always carried out in accordance with the General Data Protection Regulation and in compliance with German data privacy regulations.
 
 We have implemented numerous technical and organizational measures to ensure the most complete protection of your processed personal data. Nevertheless, any technology may have security vulnerabilities, meaning that absolute protection cannot be guaranteed.
 
