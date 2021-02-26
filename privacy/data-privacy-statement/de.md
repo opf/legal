@@ -481,7 +481,7 @@ Die Weitergabe Ihrer Daten erfolgt ausschließlich zum Zwecke der Zahlungsabwick
 
 #### Dauer der Speicherung Ihrer personenbezogenen Daten
 
-Wir verarbeiten Ihre Daten für die Dauer unserer Vertragsbeziehung. Das schließt auch die Anbahnung eines Vertrages mit ein (vorvertragliches Rechtsverhältnis). Die Löschung Ihrer Daten erfolgt nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen. Diese betragen gemäß § 147 Abgabenordnung (AO) für Buchungsbelege volle 10 Jahre und gemäß § 257 Handelsgesetzbuch (HGB) für Geschäftsunterlagen volle 6 Jahre.
+Die Löschung Ihrer Daten erfolgt nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen. Diese betragen gemäß § 147 Abgabenordnung (AO) für Buchungsbelege volle 10 Jahre und gemäß § 257 Handelsgesetzbuch (HGB) für Geschäftsunterlagen volle 6 Jahre.
 
 ## Rechtsgrundlage
 
