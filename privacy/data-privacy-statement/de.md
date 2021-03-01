@@ -507,13 +507,13 @@ In der Projektumgebung können Sie sich mit anderen Nutzern zu verschiedenen The
 - Datum,
 - Bezug zu dem Benutzerkonto des Nutzers.
 
-### Google reCAPTCHA
+### Bot-Kontrolle über hCaptcha
 
-**Die Verwendung von Google reCAPTCHA ist ein Relikt aus alter Zeit (Data Privacy Debt). Wir arbeiten derzeit an der vollständigen Ablösung dieses Dienstes.**
+Wir verwenden auf unserer Website den Anti-Bot-Dienst hCaptcha (nachfolgend "hCaptcha"). Dieser Dienst wird von Intuition Machines, Inc. bereitgestellt, einer US-amerikanischen Gesellschaft mit Sitz in Delaware ("IMI"). hCaptcha wird verwendet, um zu prüfen, ob die auf unserer Website (z. B. auf einer Anmeldeseite oder einem Kontaktformular) eingegebenen Daten von einem Menschen oder von einem automatisierten Programm ("Bot") eingegeben wurden. Dazu analysiert hCaptcha das Verhalten des Besuchers der Website oder der mobilen App anhand verschiedener Merkmale. Diese Analyse startet automatisch, sobald der Website- oder Mobile-App-Besucher einen Teil der Website oder App mit aktiviertem hCaptcha betritt. Für die Analyse wertet hCaptcha verschiedene Informationen aus (z.B. IP-Adresse, Verweildauer des Besuchers auf der Website oder App oder Mausbewegungen des Nutzers). 
 
-In der Community Plattform können sich Nutzer selbständig und ohne manuelle Freigabe durch einen Moderator ein Benutzerkonto registrieren. Um hier Missbrauch durch automatisierte Programme (Bots) zu verhindern, setzen wir bei der Registrierung den Dienst reCAPTCHA von Google ein. Hierzu analysiert Google reCAPTCHA Ihren Webseitenbesuch anhand verschiedener Merkmale. Diese Analyse beginnt automatisch, sobald Sie das Registrierungsformular besuchen. Zur Analyse werden verschiedene Informationen (z.B. IP-Adresse, Ihre Verweildauer auf unseren Webseiten oder Ihre getätigte Mausbewegungen) ausgewertet. Die bei der Analyse erfassten Daten werden an Google übermittelt. Hierbei kann nicht ausgeschlossen werden, dass Google die Informationen auch an einen US-amerikanischen Server übermittelt. Weiterführende Informationen zu Google reCAPTCHA sowie die Datenschutzerklärung von Google können Sie einsehen unter: https://www.google.com/intl/de/policies/privacy/
+Die bei der Analyse gesammelten Daten werden an das IMI weitergeleitet. Die hCaptcha-Analyse im "unsichtbaren Modus" kann vollständig im Hintergrund stattfinden. Website- oder App-Besucher werden nicht darauf hingewiesen, dass eine solche Analyse stattfindet, wenn dem Nutzer keine Challenge angezeigt wird. Das IMI agiert als "Datenverarbeiter", der im Auftrag seiner Kunden im Sinne der GDPR handelt. Weitere Informationen zu hCaptcha und den Datenschutzrichtlinien und Nutzungsbedingungen des IMI finden Sie unter den folgenden Links: https://hcaptcha.com/privacy/ und https://hcaptcha.com/terms.
 
-Rechtsgrundlage für die Verarbeitung der Daten ist Art. 6 Abs. 1 lit. f DS-GVO. Unser hierfür erforderliches berechtigtes Interesse liegt in der Verhinderung von missbräuchlichen Verhalten auf unseren Webseiten. Der Einsatz von Google reCAPTCHA erhöht den Grad der Zuverlässigkeit der auf unseren Webseiten vorgenommenen Eingaben und führt zur Beschleunigung und Vereinfachung unseres Arbeitsaufwandes.
+Die Datenverarbeitung erfolgt auf Grundlage von Art. 6(1)(f) der DSGVO: Der Website- oder Mobile-App-Betreiber hat ein berechtigtes Interesse daran, seine Website vor missbräuchlichem automatisierten Crawling und Spam zu schützen. Die Datenübertragung in die USA ist abgesichert über EU-Standarddatenschutzklauseln.
 
 ## Rechtsgrundlage
 

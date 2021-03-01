@@ -509,13 +509,13 @@ In the project environment, you can exchange information with other users on var
 - Date
 - Reference to the user's account
 
-### Google reCAPTCHA
+### Bot control using hCaptcha
 
-**The use of Google reCAPTCHA is a relic of old times (data privacy debt). We are currently working on the complete replacement of this service.**
+We use the hCaptcha anti-bot service (hereinafter "hCaptcha") on our website. This service is provided by Intuition Machines, Inc., a Delaware US Corporation ("IMI"). hCaptcha is used to check whether the data entered on our website (such as on a login page or contact form) has been entered by a human or by an automated program. To do this, hCaptcha analyzes the behavior of the website or mobile app visitor based on various characteristics. This analysis starts automatically as soon as the website or mobile app visitor enters a part of the website or app with hCaptcha enabled. For the analysis, hCaptcha evaluates various information (e.g. IP address, how long the visitor has been on the website or app, or mouse movements made by the user). 
 
-In the community platform, users can register a user account independently and without manual approval by a moderator. To prevent misuse by automated programs (bots), we use the Google reCAPTCHA service during registration. For this purpose, Google reCAPTCHA analyzes your website visit based on various characteristics. This analysis begins automatically as soon as you access the registration form. For the analysis, various information (e.g. IP address, the time you spend on our websites or your mouse movements) is evaluated. The data collected during the analysis is transmitted to Google. In this context, it cannot be ruled out that Google will also transmit the information to a US server. Further information on Google reCAPTCHA as well as Google's privacy policy can be viewed at: https://www.google.com/intl/de/policies/privacy/
+The data collected during the analysis will be forwarded to IMI. hCaptcha analysis in the "invisible mode" may take place completely in the background. Website or app visitors are not advised that such an analysis is taking place if the user is not shown a challenge. IMI acts as a "data processor" acting on behalf of its customers as defined under the GDPR. For more information about hCaptcha and IMI's privacy policy and terms of use, please visit the following links: https://hcaptcha.com/privacy/ and https://hcaptcha.com/terms.
 
-The legal basis for the processing of the data is Article 6(1)(f) GDPR. Our necessary legitimate interest lies in the prevention of abusive behavior on our websites. The use of Google reCAPTCHA increases the degree of reliability of the entries made on our websites and leads to an acceleration and simplification of our workload.
+Data processing is based on Art. 6(1)(f) GDPR: the website or mobile app operator has a legitimate interest in protecting its site from abusive automated crawling and spam. Data transfer to the USA is secured by EU standard data protection clauses.
 
 ## Legal basis
 
