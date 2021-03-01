@@ -1,6 +1,6 @@
 # Sub-processors
 
-Latest update: 2021-01-28
+Latest update: 2021-03-01
 
 ## List of sub-processors assigned by OpenProject GmbH.
 
