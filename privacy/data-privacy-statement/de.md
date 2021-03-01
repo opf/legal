@@ -2,7 +2,7 @@
 
 # Datenschutzerklärung
 
-Stand: 2021-02-12
+Stand: 2021-03-01
 
 ## Zusammenfassung
 
