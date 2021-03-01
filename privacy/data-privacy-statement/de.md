@@ -249,7 +249,7 @@ Sie können auf verschiedenen Wegen Kontakt zu uns aufnehmen:
 
 Im Falle einer Kontaktaufnahme speichern wir Ihre im Zusammenhang mit der Kontaktaufnahme an uns übermittelten personenbezogenen Daten.
 
-**Derzeit basiert unsere technische Infrastruktur für die Kontaktaufnahme noch auf zwei externen Diensten von Google und Hubspot. Wir planen derzeit den Umzug zu alternativen Anbietern mit Firmensitz in Europa. Bei datenschutzrechtlichen Bedenken können Sie uns in der Zwischenzeit auch verschlüsselte E-Mails senden.**
+**Derzeit basiert unsere technische Infrastruktur für die Kontaktaufnahme noch auf externen Diensten von HubSpot. Wir planen derzeit den Umzug zu alternativen Anbietern mit Firmensitz in Europa. Bei datenschutzrechtlichen Bedenken können Sie uns in der Zwischenzeit auch verschlüsselte E-Mails senden.**
 
 E-Mail: [privacy@openproject.com
 ](mailto:privacy@openproject.com)GPG Key: [BDCFE01EDE84EA199AE172CE7D669C6D47533958](https://keys.openpgp.org/vks/v1/by-fingerprint/BDCFE01EDE84EA199AE172CE7D669C6D47533958)
@@ -270,23 +270,6 @@ Auf unseren Webseiten sind Kontaktformulare vorhanden, welche Sie für die Konta
 **Die Verwendung der HubSpot-Plattform ist ein Relikt aus alter Zeit (Data Privacy Debt). Wir arbeiten derzeit an der vollständigen Ablösung dieses Dienstes.**
 
 Für die Bearbeitung Ihrer Kontaktanfragen setzen wir als externen Dienst das CRM-System des Herstellers HubSpot ein (HubSpot Inc., 25 First Street, Cambridge, MA 02141 USA). Natürlich haben wir mit diesem Dienstleister einen Auftragsverarbeitungsvertrag abgeschlossen. Unser Anmelde-Service ermöglicht es Besuchern unserer Webseiten, mehr über unser Unternehmen zu erfahren und ihre Kontaktinformationen zur Verfügung zu stellen. Diese Informationen sowie die Inhalte unserer Webseiten werden auf Servern von HubSpot gespeichert. Sie können von uns genutzt werden, um mit Besuchern unserer Webseiten in Kontakt zu treten. Hierbei kann nicht ausgeschlossen werden, dass HubSpot die Informationen auch an einen US-amerikanischen Server übermittelt. Weiterführende Hinweise zur Datenverarbeitung durch HubSpot finden Sie im Netz unter https://legal.hubspot.com/privacy-policy.
-
-### Google G Suite
-
-**Auch der Einsatz von Google G Suite ist ein Relikt aus alter Zeit (Data Privacy Debt). Wir arbeiten derzeit an der vollständigen Ablösung dieses Dienstes.**
-
-Sofern Sie sich dafür entscheiden, mit uns über E-Mail in Kontakt zu treten, möchten wir Sie darüber informieren, dass wir hierfür derzeit noch Google G Suite, einen Dienst des Anbieters Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland, nutzen. Im Rahmen der Dienste verarbeitet Google ggfs. personenbezogene Daten Ihrer Person. Hierbei kann nicht ausgeschlossen werden, dass Google die Informationen auch an einen US-amerikanischen Server übermittelt. Weitere Informationen finden Sie unter https://policies.google.com/privacy/frameworks?gl=de.
-
-Wir haben keinen Einfluss darauf, welche Ihrer personenbezogenen Daten Google verarbeitet. Gemäß der Datenschutzerklärung von Google können, abhängig vom jeweiligen Google Dienst, folgende personenbezogene Daten verarbeitet werden (https://policies.google.com/privacy?gl=de#infocollect)
-
-- Daten über die Apps, Browser und Geräte, die Sie beim Zugriff auf Google-Dienste verwenden
-- eindeutige Kennungen, der Typ und die Einstellungen Ihres Browsers, der Typ und die Einstellungen Ihres Geräts, das Betriebssystem, Informationen zum Mobilfunknetz (Name des Mobilfunkanbieters, Telefonnummer, Versionsnummer der App),
-- Daten über die Interaktion Ihrer Apps, Browser und Geräte mit Google Diensten (z.B. IP-Adresse, Absturzberichte, Systemaktivitäten sowie das Datum, die Uhrzeit und die Verweis-URL Ihrer Anfrage),
-- Aktivitätsdaten (z.B. Begriffe, nach denen Sie suchen, Videos, die Sie sich ansehen, Inhalte und Werbeanzeigen, die Sie sich ansehen und mit denen Sie interagieren).
-
-Weiterführende Informationen, wie Google Daten von Webseiten verwendet, auf denen Google-Dienste eingebunden sind, finden Sie unter https://policies.google.com/technologies/partner-sites?hl=de
-
-Zweck und Umfang der Datenverarbeitung durch Google sowie Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte den Datenschutzhinweisen von Google unter https://policies.google.com/privacy?hl=de. Hinweise zu Ihren Privatsphäreeinstellungen finden Sie unter https://safety.google/privacy/privacy-controls/.
 
 ## Rechtsgrundlage
 

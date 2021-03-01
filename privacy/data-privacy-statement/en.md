@@ -250,7 +250,7 @@ You can contact us in several ways:
 
 In the event that do you contact us, we will store your personal data transmitted to us in connection with the contact.
 
-**At the moment, our technical infrastructure for contacting is still based on two external services from Google and Hubspot. We are currently planning to move to alternative providers based in Europe. In the meantime, if you have privacy concerns, you can send us encrypted emails.**
+**At the moment, our technical infrastructure for contacting is still based on external services from HubSpot. We are currently planning to move to alternative providers based in Europe. In the meantime, if you have privacy concerns, you can send us encrypted emails.**
 
 Email: [privacy@openproject.com](mailto:privacy@openproject.com)
 
@@ -272,23 +272,6 @@ There are contact forms on our websites, which you can use to contact us. Your p
 **The use of the HubSpot platform is a relic from the old days (data privacy debt). We are currently working on the complete replacement of this service.**
 
 For the processing of your contact requests, we use the CRM system of the manufacturer HubSpot as an external service (HubSpot Inc., 25 First Street, Cambridge, MA 02141 USA). We have, of course, concluded an data processing agreement with this service provider. Our registration service allows visitors to our websites to learn more about our company and provide their contact information. This information, as well as the content of our websites, is stored on HubSpot servers. It can be used by us to contact visitors to our website. It cannot be ruled out that HubSpot will also transmit the information to a US server. Further information on data processing by HubSpot can be found online at https://legal.hubspot.com/privacy-policy.
-
-### Google G Suite
-
-**The use of Google G Suite is also a relic from the old days (data privacy debt). We are currently working on the complete replacement of this service.**
-
-If you choose to contact us by e-mail, we would like to inform you that we currently still use Google G Suite, a service of the provider Google Ireland Limited ("Google"), Gordon House, Barrow Street, Dublin 4, Ireland. Within the scope of its services, Google may process your personal data. In this context, it cannot be ruled out that Google will also transmit the information to a US server. For more information, please visit https://policies.google.com/privacy/frameworks?gl=de.
-
-We have no influence on which items of your personal data Google processes. According to Google's privacy policy, depending on the respective Google service, the following personal data may be processed (https://policies.google.com/privacy?gl=de#infocollect)
-
-- Data about the apps, browsers, and devices you use when accessing Google services
-- Unique identifiers, the type and settings of your browser, the type and settings of your device, the operating system, mobile network information (mobile provider name, phone number, app version number)
-- Data about how your apps, browsers, and devices interact with Google services (e.g. IP address, crash reports, system activity as well as the date, time, and referring URL for your request)
-- Activity data (e.g. terms you search for, videos you watch, content and ads you view and interact with)
-
-For more information on how Google uses data from websites that embed Google services, please visit https://policies.google.com/technologies/partner-sites?hl=de
-
-For the purpose and scope of data processing by Google, as well as your rights in this regard and setting options for protecting your privacy, please refer to Google's privacy policy at https://policies.google.com/privacy?hl=de. For information on your privacy settings, visit https://safety.google/privacy/privacy-controls/.
 
 ## Legal basis
 
