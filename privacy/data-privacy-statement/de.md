@@ -2,7 +2,7 @@
 
 # Datenschutzerklärung
 
-Stand: 2021-03-01
+Stand: 2021-03-05
 
 ## Zusammenfassung
 
@@ -40,14 +40,14 @@ Wir verarbeiten Ihre Daten streng vertraulich und nur für denjenigen Zweck, den
 
 Diese Datenschutzerklärung umfasst die Verarbeitung personenbezogener Daten der OpenProject GmbH in folgenden Bereichen:
 
-1. [Webseiten](#a-webseiten),
-2. [Kontaktaufnahme](#b-kontaktaufnahme),
-3. [Newsletter](#c-newsletter),
-4. [OpenProject Enterprise Cloud (SaaS)](#d-openproject-enterprise-cloud-saas),
-5. [OpenProject Enterprise On-Premises (your server)](#e-openproject-enterprise-on-premises),
-6. [OpenProject Community-Plattform](#f-openproject-community-plattform),
-7. [OpenProject Release API](#g-openproject-release-api),
-8. [Bewerbung](#h-bewerbung).
+1. [Webseiten](#1-webseiten),
+2. [Kontaktaufnahme](#2-kontaktaufnahme),
+3. [Newsletter](#3-newsletter),
+4. [OpenProject Enterprise Cloud (SaaS)](#4-openproject-enterprise-cloud-saas),
+5. [OpenProject Enterprise On-Premises](#5-openproject-enterprise-on-premises),
+6. [OpenProject Community-Plattform](#6-openproject-community-plattform),
+7. [OpenProject Release API](#7-openproject-release-api),
+8. [Bewerbung](#8-bewerbung).
 
 ## Verantwortliche Stelle
 
@@ -222,7 +222,7 @@ Die Daten verbleiben auf unseren Webseiten, bis der kommentierte Blogeintrag nic
 
 #### Umfang der Datenverarbeitung
 
-Unsere Webseiten nutzen über eine API die Suchtechnologie Algolia. Anbieter ist die Algolia, Inc., 589 Howard St Suite 5, San Francisco, CA 94105, Vereinigte Staaten. Zur Nutzung der Funktionen der Algolia Suche ist es notwendig, Ihre IP Adresse und Ihre Suchanfrage zu speichern. Diese Informationen werden in der Regel an einen Server von Algolia in Europa oder den USA übertragen und dort gespeichert. Wir haben keinen Einfluss auf diese Datenübertragung. Bitte beachten Sie die [Nutzungsbedingungen](https://www.algolia.com/policies/terms) von Algolia sowie die [Datenschutzrichtlinie](https://www.algolia.com/policies/privacy) von Algolia. Algolia überträgt die erhobenen Daten nicht an Dritte, sondern verarbeitet diese ausschließlich intern für statistische Auswertungen und das Monitoring seiner Services.
+Unsere Webseiten nutzen über eine API die Suchtechnologie Algolia. Anbieter ist die Algolia, Inc., 589 Howard St Suite 5, San Francisco, CA 94105, Vereinigte Staaten. Zur Nutzung der Funktionen der Algolia-Suche ist es notwendig, Ihre IP-Adresse und Ihre Suchanfrage zu speichern. Diese Informationen werden in der Regel an einen Server von Algolia in Europa oder den USA übertragen und dort gespeichert. Wir haben keinen Einfluss auf diese Datenübertragung. Bitte beachten Sie die [Nutzungsbedingungen](https://www.algolia.com/policies/terms) von Algolia sowie die [Datenschutzrichtlinie](https://www.algolia.com/policies/privacy) von Algolia. Algolia überträgt die erhobenen Daten nicht an Dritte, sondern verarbeitet diese ausschließlich intern für statistische Auswertungen und das Monitoring seiner Services.
 
 #### Rechtsgrundlage
 
