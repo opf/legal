@@ -3,7 +3,7 @@
 
 # Privacy Policy
 
-Version: 2020-03-01
+Version: 2020-03-05
 
 ## Summary
 
@@ -41,14 +41,14 @@ We process your data strictly confidentially and only for the purpose we informe
 
 This privacy policy covers the processing of personal data by OpenProject GmbH in the following areas:
 
-1. [Websites](#a-webseiten),
-2. [Contact](#b-kontaktaufnahme),
-3. [Newsletter](#c-newsletter),
-4. [OpenProject Enterprise Cloud (SaaS)](#d-openproject-enterprise-cloud-saas),
-5. [OpenProject Enterprise On-Premises (your server)](#e-openproject-enterprise-on-premises),
-6. [OpenProject Community Platform](#f-openproject-community-plattform),
-7. [OpenProject Release API](#g-openproject-release-api),
-8. [Applications](#h-bewerbung).
+1. [Websites](#1\.-websites),
+2. [Initial Contact](#2\.-initial-contact),
+3. [Newsletter](#3\.-newsletter),
+4. [OpenProject Enterprise On-Premises](#4\.-openproject-enterprise-on-premises)
+5. [OpenProject Enterprise Cloud (SaaS)](#5\.-openproject-enterprise-cloud-saas),
+6. [OpenProject Community Platform](#6\.-openproject-community-plattform),
+7. [OpenProject Release API](#7\.-openproject-release-api),
+8. [Applications](#8\.-applications).
 
 ## Controller
 
