@@ -41,7 +41,7 @@ We process your data strictly confidentially and only for the purpose we informe
 
 This privacy policy covers the processing of personal data by OpenProject GmbH in the following areas:
 
-1. [Websites](#1\.-websites),
+1. [Websites](#1-websites),
 2. [Initial Contact](#2\.-initial-contact),
 3. [Newsletter](#3\.-newsletter),
 4. [OpenProject Enterprise On-Premises](#4\.-openproject-enterprise-on-premises)
